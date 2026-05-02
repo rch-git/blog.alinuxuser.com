@@ -1,0 +1,9 @@
+/* size fo the title font on individual pages */
+.post-title {
+    font-size: 1.5rem;
+}
+
+/* size of titles on the homepage */
+.entry-header h2 {
+    font-size: 1.3rem;
+}

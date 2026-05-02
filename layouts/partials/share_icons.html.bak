@@ -1,0 +1,14 @@
+<div style="background: #333; color: white; padding: 15px; margin: 20px 0; font-family: monospace;">
+  <strong>DEBUG: Share Buttons</strong><br>
+  Permalink: {{ .Permalink }}<br>
+  RelPermalink: {{ .RelPermalink }}<br>
+  Title: {{ .Title }}<br>
+  ShareButtons list: {{ .Site.Params.ShareButtons }}<br><br>
+
+  {{ range .Site.Params.ShareButtons }}
+    <div style="margin: 8px 0;">
+      Button: {{ . }} →
+      <a href="#" style="color: yellow;">[click me - currently dummy]</a>
+    </div>
+  {{ end }}
+</div>

@@ -1,0 +1,186 @@
+baseURL: https://alinuxuser.com/
+languageCode: en-us
+title: alinuxuser
+theme: ["PaperMod"]
+
+timeZone: "America/Chicago" # added to ensure that the build on netlify shows CDT/CST
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputFormats:
+  llms:
+    mediaType: "text/plain"
+    baseName: "llms"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+pagination:
+  pagerSize: 100   # This sets 50 posts per page on list pages (homepage, tags, categories, sections, etc.)
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: alinuxuser
+  description: "alinuxuser"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: RC
+  mainSections:
+    - posts
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "Monday January 2, 2006 15:04 MST"
+  defaultTheme: dark # auto, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShareButtons: ["twitter", "facebook", "reddit"]
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: true
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "favicon/favicon.ico"
+    favicon16x16: "favicon/favicon-16x16.png"
+    favicon32x32: "favicon/favicon-32x32.png"
+    apple_touch_icon: "favicon/apple-touch-icon.png"
+    safari_pinned_tab: "<link / abs url>"
+    css:
+      - css/extended/custom-font.css
+      - css/extended/italicsblock.css
+      - css/extended/wrap-text.css
+      - css/extended/title-size.css
+      - css/extended/link-color.css
+
+  label:
+    text: "alinuxuser"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: alinuxuser
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Introduction \U0001F44B"
+    Content: >
+        Hello and welcome to my blog. Access the Archives to find all my previous blog posts. Find my latest posts below.
+
+  socialIcons:
+    - name: x
+      url: "https://x.com/WeekendGamerTX"
+
+
+  #analytics:
+    #google:
+      #SiteVerificationTag: "XYZabc"
+    #bing:
+      #SiteVerificationTag: "XYZabc"
+    #yandex:
+      #SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  #editPost:
+    #URL: "https://github.com/<path_to_repo>/content"
+    #Text: "Suggest Changes" # edit text
+    #appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 100
+    threshold: 0.3
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    #keys: ["title", "permalink", "summary", "content"]
+    keys: ["title", "content"]
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 5
+    #- identifier: categories
+      #name: categories
+      #url: /categories/
+      #weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    #- identifier: example
+      #name: example.org
+      #url: https://example.org
+      #weight: 30
+    - identifier: other
+      name: Other
+      url: /other/
+      weight: 25
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+  goldmark:
+    renderer:
+      hardWraps: true
+      unsafe: true

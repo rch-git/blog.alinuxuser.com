@@ -1,0 +1,8 @@
+[build]
+  publish = "public"
+  command = "hugo --config config.yaml"
+
+[build.environment]
+  HUGO_VERSION = "0.150.0"
+  HUGO_ENV = "production"
+  TZ = "America/Chicago"

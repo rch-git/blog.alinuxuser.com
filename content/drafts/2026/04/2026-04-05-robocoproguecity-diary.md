@@ -1,0 +1,56 @@
+---
+date: 2026-04-18T10:58:56
+draft: false
+title: 'RoboCop Rogue City Diary'
+---
+##### Apr 05, 2026 Sunday 03:29:01 PM
+
+Going to play some more today. Was supposed to work on some slides for a presentation, but I cannot work on it now because I need input from others.
+
+I am also very glad that I get to write my thoughts about games and publish them.
+
+##### Apr 05, 2026 Sunday 04:18:46 PM
+
+Following the Cyber Trail. Entered a sewer. What will a video game be without a sewer level?
+
+Walking around the city and solving puzzles is the most boring part of the game.
+
+"I had this nasty dream that I was a homeless guy living in the sewers. Oh wait!". That was funny.
+
+##### Apr 05, 2026 Sunday 04:52:54 PM
+
+Stopped for the day. I will play more either later in the day or early tomorrow.
+
+Did a side quest about a murder mystery. The reason I realized I don't like playing side quests in this game is because of the movement. It often requires going back between locations and the walking so slow. This is understandable, but, not fun.
+
+I am going to breeze through the rest of the game. Steam shows me that I played for 8.4 hours. I think past the half way mark.
+
+When I finish this game, it will be the first game of 2026.
+
+##### Apr 17, 2026 Friday 08:48:25 PM CDT
+
+Going to play another session. I have not played this game in a while. I want to finish this and move onto the next game. I am trying a live blogging setup. Let's see if that works well.
+
+Absolutely beautiful visuals. The Omni Consumer Products HQ is beautiful.
+
+Filler content is not very engaging to me.
+
+Got a phone call. Had to pause.
+
+No idea what is happening with the story.
+
+##### Apr 18, 2026 Saturday 03:26:32 PM CDT
+
+Finish writing some unrelated content and published it. I will play some more now.
+
+Playing the mission where I have to prevent the bad guys from blowing up a bridge in detroit.
+
+Disarming the bomb puzzle is boring
+
+Hate how secondary weapon gets reset between missions.
+
+Think I am in the last level. Action is dialed to 11.
+
+#### Apr 18, 2026 Saturday 04:32:29 PM CDT
+
+Finished the game.

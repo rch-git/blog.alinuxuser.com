@@ -1,0 +1,20 @@
+/* Fix word breaking in fenced code blocks (PaperMod + Chroma) */
+.post-content pre,
+.post-content pre code,
+.post-content .highlight pre,
+.post-content .chroma,
+.post-content .highlight code {
+    white-space: pre-wrap !important;     /* Allow wrapping at natural points */
+    word-break: normal !important;        /* Do NOT break words arbitrarily */
+    overflow-wrap: normal !important;     /* Prevent mid-word breaks (modern property) */
+    word-wrap: normal !important;         /* Fallback for older browsers */
+    overflow-x: auto !important;          /* Horizontal scroll for long unbreakable lines */
+}
+
+/* Extra specificity for the grid/table layout PaperMod often uses */
+.post-content .highlight table,
+.post-content .highlight .lntable,
+.post-content .highlight .lntd code {
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+}
