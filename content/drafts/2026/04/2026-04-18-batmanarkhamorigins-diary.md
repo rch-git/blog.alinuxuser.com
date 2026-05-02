@@ -3,30 +3,31 @@ date: 2026-04-18T18:39:50
 draft: false
 title: 'Batman Arkham Origins Diary'
 ---
-#### Apr 18, 2026 Saturday 06:40:23 PM CDT
+__Apr 18, 2026 Saturday 06:40:23 PM CDT__
 
 Installed the game just now from Steam.
 
 Going to play for a while and then get something to eat.
 
-#### Apr 18, 2026 Saturday 09:41:12 PM CDT
+__Apr 18, 2026 Saturday 09:41:12 PM CDT__
 
 Ok, I am about to play now.
 
 Game has some tecnical issues. Found a youtube video to fix the problem. Game freezes when running in DX11 mode.
 
-"D:\SteamLibrary\steamapps\common\Batman Arkham Origins\SinglePlayer\BMGame\Config\BmEngine.ini"
+`D:\SteamLibrary\steamapps\common\Batman Arkham Origins\SinglePlayer\BMGame\Config\BmEngine.ini`
 
+```
 AllowD3D10=True
 AllowD3D11=False
-
+```
 had to do that make the game work.
 
 https://www.youtube.com/watch?v=MtCbJ0B7IF8
 
 Going to take a break for the night. Will play more tomorrow early in the morning.
 
-#### Apr 19, 2026 Sunday 04:44:42 PM CDT
+__Apr 19, 2026 Sunday 04:44:42 PM CDT__
 
 Migrated a lot of content from the old blog. Wrote a review of RoboCop Rouge City. Going to play some more now.
 
@@ -114,6 +115,16 @@ One more round. Got to the hotel. Joker in the penthouse. Going to update websit
 
 One more round. Might not get a chance to play for another week.
 
-#### Friday, May 1, 2026, 6:51 PM CDT
+__Friday, May 1, 2026, 6:51 PM CDT__
 
 Time to play some more. Finished all work stuff. Going to spend some time just playing. Friday, May 1, 2026, 9:05 PM CDT - taking a little break. Got a phone call, spent some time on the phone talking to family.
+
+__Saturday, May 2, 2026, 12:29 PM CDT__
+
+Spent all morning redesigning the homepage. i am done with that now. I will not make any further layout or deployment changes. I will stick to what i have. i want to play games.
+
+Last evening I finish that big fight with Bane. He is still not defeated. Going to play now.
+
+__Saturday, May 2, 2026, 1:45 PM CDT__
+
+Taking a little break. Made a lot of progress.
