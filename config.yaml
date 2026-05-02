@@ -145,6 +145,8 @@ menu:
     - name: Home
       url: https://alinuxuser.com/
       weight: 1
+      params:
+        newTab: true
     - name: Archive
       url: archives
       weight: 5
