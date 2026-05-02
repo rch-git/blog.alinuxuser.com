@@ -142,6 +142,9 @@ params:
     keys: ["title", "content"]
 menu:
   main:
+    - name: Home
+      url: https://alinuxuser.com/
+      weight: 1
     - name: Archive
       url: archives
       weight: 5
@@ -165,10 +168,10 @@ menu:
       name: Search
       url: /search/
       weight: 40
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 50
+    - #identifier: about
+      #name: About
+      #url: /about/
+      #weight: 50
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
