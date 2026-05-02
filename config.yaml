@@ -1,6 +1,6 @@
 baseURL: https://blog.alinuxuser.com/
 languageCode: en-us
-title: blog.alinuxuser.com
+title: blog | alinuxuser
 theme: ["PaperMod"]
 
 timeZone: "America/Chicago" # added to ensure that the build on netlify shows CDT/CST
@@ -31,8 +31,8 @@ pagination:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: blog.alinuxuser.com
-  description: "blog.alinuxuser.com"
+  title: blog
+  description: "blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: RC
   mainSections:
@@ -78,14 +78,15 @@ params:
       - css/extended/link-color.css
 
   label:
-    text: "blog.alinuxuser.com"
+    # this is label on the upper left
+    text: "~/blog"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: blog.alinuxuser.com
+    title: My Blog # this is shown in the center of the screen
     subtitle: "Hello and welcome to my blog"
     imageUrl: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/bf4_engineer.jpg"
     imageWidth: 120
@@ -142,7 +143,7 @@ params:
     keys: ["title", "content"]
 menu:
   main:
-    - name: Home
+    - name: ~home
       url: https://alinuxuser.com/
       weight: 1
       params:
