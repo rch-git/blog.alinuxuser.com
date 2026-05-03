@@ -537,3 +537,7 @@ draft: false
 
 * {{< newtab href="/posts/2026/04/reviews/robocoproguecity-review/" text="<span class='link-color'>RoboCop Rogue City</span>" >}}
   * Saturday, April 18, 2026, 4:36 PM
+
+* Batman Arkham Origins
+  * Sunday, May 3, 2026, 3:55:00 PM
+

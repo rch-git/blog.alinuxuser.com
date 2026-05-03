@@ -168,3 +168,7 @@ Got stuck in Blackgate Prison sewers (every game has to have a sewer level). Fou
 `Sunday, May 3, 2026, 12:45 PM CDT`: Decided to play for a bit.
 
 `Sunday, May 3, 2026, 1:39 PM CDT`: Bane fight in blackgate prison is super boring. I am going to take a break.
+
+`Sunday, May 3, 2026, 3:29 PM CDT`: About to play the dumb boss fight again. Wish I could skip it. Least fun part of the game. Developers have a way in mind that the enemy should be defeated, and that's the only way to play the game. No creativity needed. Developers did all the thinking for you.
+
+`Sunday, May 3, 2026, 3:55:00 PM`: Finished the game. Bane fight was dumb. Joker fight was interesting. I don't think the ending of this game coincided with the beginning of Arkham Asylum. I enjoyed the game. I will take a back up of the saves, and uninstall the game. Now onto the next game!
