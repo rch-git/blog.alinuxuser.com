@@ -156,4 +156,4 @@ Also had to enable VSync to to get around some technical and game breaking issue
 
 Finished Firefly boss fight. Its interesting. I wish the game didn't force you to play a certain way. It could have been way better.
 
-
+`Sunday, May 3, 2026, 11:21 AM CDT`: Edited the videos. I am going to play some more now. I am glad I have the flow narrowed down with regards to creating content.
