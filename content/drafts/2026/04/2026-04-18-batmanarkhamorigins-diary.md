@@ -3,13 +3,13 @@ date: 2026-04-18T18:39:50
 draft: false
 title: 'Batman Arkham Origins Diary'
 ---
-__Apr 18, 2026 Saturday 06:40:23 PM CDT__
+### Apr 18, 2026 Saturday 06:40:23 PM CDT
 
 Installed the game just now from Steam.
 
 Going to play for a while and then get something to eat.
 
-__Apr 18, 2026 Saturday 09:41:12 PM CDT__
+`Apr 18, 2026 Saturday 09:41:12 PM CDT`
 
 Ok, I am about to play now.
 
@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=MtCbJ0B7IF8
 
 Going to take a break for the night. Will play more tomorrow early in the morning.
 
-__Apr 19, 2026 Sunday 04:44:42 PM CDT__
+### Apr 19, 2026 Sunday 04:44:42 PM CDT
 
 Migrated a lot of content from the old blog. Wrote a review of RoboCop Rouge City. Going to play some more now.
 
@@ -35,7 +35,7 @@ Fight with killer croc is pretty good.
 
 Not a huge fan of UI. I wish I customize it better. I need to look into it. Going to take a little bit of a break and play more maybe later tonight.
 
-#### Apr 24, 2026 Friday 07:18:33 PM CDT
+### Apr 24, 2026 Friday 07:18:33 PM CDT
 
 Another session about to commence.
 
@@ -53,7 +53,7 @@ Done for a little bit. Going to render some videos now, and go to sleep. Will ma
 
 This game is definitely made by a B tier studio. Noticeably lesser in quality compared to Arkham City.
 
-#### Apr 25, 2026 Saturday 09:43:23 AM CDT
+### Apr 25, 2026 Saturday 09:43:23 AM CDT
 
 Going to play some more now.
 
@@ -61,13 +61,13 @@ Menu navigation is totally meant for a controller. Super annoying when using key
 
 Taking a little break to work on the website.
 
-#### Apr 25, 2026 Saturday 04:15:10 PM CDT
+`Apr 25, 2026 Saturday 04:15:10 PM CDT`
 
 Another session
 
 Fight with Deathstroke is annoying and the same crashed.
 
-#### Apr 25, 2026 Saturday 05:30:44 PM CDT
+`Apr 25, 2026 Saturday 05:30:44 PM CDT`
 
 Updated website. Going to give it another go.
 
@@ -77,11 +77,11 @@ Hard locked the game because I can't exit a room because pressing Space wont ope
 
 Going to take a little break. Played the game for 4.8 hours total.
 
-#### Apr 25, 2026 Saturday 07:46:29 PM CDT
+`Apr 25, 2026 Saturday 07:46:29 PM CDT`
 
 Played some more. There is this bug where Batman becomes tiny. Can't reach doors or other items. Need to restart the game. The game is fun, but I am not sure if I want to continue to play this.
 
-#### Apr 26, 2026 Sunday 10:16:01 AM CDT
+### Apr 26, 2026 Sunday 10:16:01 AM CDT
 
 Going to play more.
 
@@ -93,7 +93,7 @@ Ok, I actually like the story. This is where the Joker makes an appearence for t
 
 I think I know how this game is going to end. Its basically the beginning of Arkham Asylum. Its funny how I remmeber the beginning of Arkham Asylum after all these years. Played the demo of that game in 2007 I think?
 
-#### Apr 26, 2026 Sunday 12:18:42 PM CDT
+`Apr 26, 2026 Sunday 12:18:42 PM CDT`
 
 Playing more.
 
@@ -101,51 +101,59 @@ Copperhead section where batman is slow is boring.
 
 I think I broke the boss fight by killing her outside the stupid zone. This is so boring. Taking a break.
 
-#### Apr 26, 2026 Sunday 01:52:22 PM CDT
+`Apr 26, 2026 Sunday 01:52:22 PM CDT`
 
 Going to give it another go.
 
 Done with the fight. Going to take a break.
 
-#### Apr 26, 2026 Sunday 04:13:22 PM CDT
+`Apr 26, 2026 Sunday 04:13:22 PM CDT`
 
 One more round. Got to the hotel. Joker in the penthouse. Going to update website content. Will play more later in the evening.
 
-#### Apr 26, 2026 Sunday 06:33:02 PM CDT
+`Apr 26, 2026 Sunday 06:33:02 PM CDT`
 
 One more round. Might not get a chance to play for another week.
 
-__Friday, May 1, 2026, 6:51 PM CDT__
+### Friday, May 1, 2026, 6:51 PM CDT
 
 Time to play some more. Finished all work stuff. Going to spend some time just playing. Friday, May 1, 2026, 9:05 PM CDT - taking a little break. Got a phone call, spent some time on the phone talking to family.
 
-__Saturday, May 2, 2026, 12:29 PM CDT__
+### Saturday, May 2, 2026, 12:29 PM CDT
 
 Spent all morning redesigning the homepage. i am done with that now. I will not make any further layout or deployment changes. I will stick to what i have. i want to play games.
 
 Last evening I finish that big fight with Bane. He is still not defeated. Going to play now.
 
-__Saturday, May 2, 2026, 1:45 PM CDT__
+`Saturday, May 2, 2026, 1:45 PM CDT`
 
 Taking a little break. Made a lot of progress.
 
-__Saturday, May 2, 2026, 5:40 PM CDT__
+`Saturday, May 2, 2026, 5:40 PM CDT`
 
 There is a part in the sewers under GCDP where you have to pass through a tunnel to get into GCPD. Passage through the tunnel is broken. Can't pass through.
 
-__Saturday, May 2, 2026, 6:56 PM CDT__
+`Saturday, May 2, 2026, 6:56 PM CDT`
 
 Going to take a little break.
 
-__Saturday, May 2, 2026, 7:27 PM CDT__
+`Saturday, May 2, 2026, 7:27 PM CDT`
 
 Going to play for a little bit more.
 
-Saturday, May 2, 2026, 8:24 PM CDT - I think I am done for the day. I am going to close it for now resume tomorrow. Played quite a bit. Some of the technical issues are annoying.
+`Saturday, May 2, 2026, 8:24 PM CDT`
+
+I think I am done for the day. I am going to close it for now resume tomorrow. Played quite a bit. Some of the technical issues are annoying.
 
 
-#### Sunday, May 3, 2026, 8:43 AM CDT
+### Sunday, May 3, 2026, 8:43 AM CDT
 
 Going to change the format of the diary. Going to keep the first entry of the day as the header, and subsequent entries will not be highlighted. I am going to play some more now.
 
 Also had to enable VSync to to get around some technical and game breaking issues. Maybe I should lock the frame rate to 60FPS. I don't think the game is made for modern machines.
+
+`Sunday, May 3, 2026, 9:30 AM CDT`
+
+Finished Firefly boss fight. Its interesting. I wish the game didn't force you to play a certain way. It could have been way better.
+
+
