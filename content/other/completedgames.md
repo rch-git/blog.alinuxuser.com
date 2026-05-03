@@ -472,7 +472,7 @@ draft: false
 * Wolfenstein The Old Blood
   * Wednesday, November 22, 2023, 7:31 PM
 
-* Mirror's Edge Catalyst
+* {{< newtab href="/posts/2023/12/reviews/mirrorsedgecatalyst-review/" text="<span class='link-color'>Mirror's Edge Catalyst</span>" >}}
   * Saturday, December 16, 2023, 9:53 PM
 
 * The Darkness II
@@ -481,13 +481,13 @@ draft: false
 * Call of Juarez
   * Thursday, December 28, 2023, 10:03 PM
 
-* Assassins Creed Origins
+* {{< newtab href="/posts/2024/04/reviews/assassinscreedorigins-review/" text="<span class='link-color'>Assassins Creed Origins</span>" >}}
   * Saturday, March 9, 2024, 10:59 PM
 
-* Rise of the Tomb Raider
+* {{< newtab href="/posts/2024/04/reviews/riseofthetombraider-review/" text="<span class='link-color'>Rise of the Tomb Raider</span>" >}}
   * Saturday, April 6, 2024, 2:04 PM
 
-* Doom Eternal
+* {{< newtab href="/posts/2024/04/reviews/doometernal-review/" text="<span class='link-color'>Doom Eternal</span>" >}}
   * Friday, May 3, 2024, 11:10 PM
 
 * Call of Juarez Bound in Blood
