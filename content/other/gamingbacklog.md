@@ -10,7 +10,7 @@ title: 'Gaming Backlog'
 - Assassin's Creed Chronicles: Russia; 7h 35m
 - Bastion; 8h 15m
 - Batman: Arkham Knight; 30h 57m
-- Batman: Arkham Origins; 18h 34m
+- ~~Batman: Arkham Origins~~; 18h 34m
 - BioShock 2; 12h 56m
 - Blood Omen 2: Legacy of Kain; 14h 3m
 - BloodRayne; 7h 43m
