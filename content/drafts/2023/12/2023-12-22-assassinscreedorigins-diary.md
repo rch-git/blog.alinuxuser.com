@@ -2,6 +2,7 @@
 date: 2023-12-22T10:28:00
 draft: false
 title: 'Assassins Creed Origins Diary'
+tags: ["game diary", "assassins creed"]
 ---
 #### Friday, December 22, 2023, 10:28 AM CDT
 
