@@ -3,87 +3,72 @@ date: 2023-12-22T10:28:00
 draft: false
 title: 'Assassins Creed Origins Diary'
 ---
-#### 10:28 AM Friday, December 22, 2023
+#### Friday, December 22, 2023, 10:28 AM CDT
 
-Started playing this game right after midnight. Looks very good. I am glad I got it on Steam. I hate the fact that it still requires the terrible ubisoft launcher. I wish ubisoft can ditch it like Bethesda did. There is no one that will miss it.
+Started playing this game right after midnight. It looks very good. I’m glad I got it on Steam. I hate that it still requires the terrible Ubisoft launcher. I wish Ubisoft would ditch it like Bethesda did. No one would miss it.
 
-There are plenty of graphical options in the game. Controls are a little weird. Uses Alt to jump. I think this may be similar to Division 2. Not a fan of it.
+There are plenty of graphical options in the game. The controls are a little weird—it uses Alt to jump. I think this may be similar to Division 2. Not a fan.
 
-Technically, the game works very well on the PC. I am finding it hard to get into this game. I recently played RDR2, and the inferior gameplay design is immediately apparent.
+Technically, the game works very well on PC. However, I’m finding it hard to get into. Having recently played RDR2, the inferior gameplay design is immediately apparent.
 
-#### 1:34 PM Friday, December 22, 2023
+`Friday, December 22, 2023, 1:34 PM CDT`
 
 They did away with the looting animations. This is excellent.
 
-As I play more, I am starting to like this game. Its very beautiful. I am going to make a quick video of this and tweet to UbiSoft.
+As I play more, I’m starting to like this game. It’s very beautiful. I’m going to make a quick video and tweet it at Ubisoft.
 
-8:50 PM Friday, December 22, 2023
+`Friday, December 22, 2023, 8:50 PM CDT`
 
-As I was trying to finish a side quest, I somehow triggered a main quest and I ended up finishing it. Dont even know how I managed that.
+While trying to finish a side quest, I somehow triggered a main quest and ended up completing it. I don’t even know how I managed that.
 
-This is the first main quest. A lot of the map is still not explored.
+This was the first main quest. A lot of the map is still unexplored.
 
-#### 12:26 PM Saturday, December 23, 2023
+#### Saturday, December 23, 2023, 12:26 PM CDT
 
-Quality of the open world is very iffy. It looks good, but the quality of everything else is not very good. Bargain bin open world. Its especially apparent after playing Red Dead Redemption 2.
+The quality of the open world is very iffy. It looks good, but everything else feels lacking—a bargain-bin open world experience. This is especially apparent after playing Red Dead Redemption 2.
 
-If you like open world games, play RDR2 first. Preferably on the PC. Once you are done with that, and you got nothing else to play, and you really want to play other open world games, play Cyberpunk 2077 and Witcher 3 and its expansions in that order. Then...and only then, pick up this game on a sale.
+If you like open-world games, play RDR2 first (preferably on PC). Once you’re done with that, and if you have nothing else to play and still want more, try Cyberpunk 2077 and The Witcher 3 (with its expansions) in that order. Then—and only then—pick up this game on sale.
 
-There is no sense of discovering the world. You know that is there is no marker on the map, there is nothing to do in that location. So it quickly becomes a race to the next question mark on the map. Yes, I know that RDR2 does this to some extent as well, but Rockstar spent a great deal of time and effort creating a world that is interesting. You discover treasures and loot chests that are not marked on the map, giving you a reason to explore the map.
+There is no real sense of discovery. If there’s no marker on the map, there’s usually nothing to do in that location. It quickly becomes a race to the next question mark. Yes, RDR2 uses markers too, but Rockstar spent enormous effort creating a world that feels genuinely interesting. You discover unmarked treasures and loot chests, giving you a real reason to explore.
 
-In Origins, there is no reason to go to a remote corner of the map, because you know its got nothing there. Maybe a trinket or two, but if it is anything remotely important, UbiSoft will make sure there is a question mark on the map.
+In Origins, there’s little incentive to visit a remote corner of the map because you know there’s probably nothing there. If something is remotely important, Ubisoft will mark it with a question mark anyway.
 
-Treasure hunting will involve summoning the bird, and then locating targets first, which will mark the targets on your HUD (not just the map), and then you just go to the location and press E. Everything about the design of the gameplay is inferior and cheap.
+Treasure hunting involves summoning the bird to locate targets, which then appear as HUD markers (not just on the map). You simply go to the location and press E. Everything about the gameplay design feels inferior and cheap.
 
-I paid $8.99 for this game. I don't know...I think its worth about $5.
+I paid $8.99 for this game. Honestly, I think it’s worth about $5. I also paid $11.99 for Odyssey.
 
-I also paid $11.99 for Odysee.
+`Saturday, December 23, 2023, 3:48 PM CDT`
 
-#### 3:48 PM Saturday, December 23, 2023
+The awful modern-day sections are back! This time you play as a girl trying to join Abstergo. Gosh… way to ruin the game for me.
 
-The awful modern day sections are back! this time you get to play some girl who is trying to be a part of Abstergo. Gosh...way to ruin the game for me.
+Thankfully, the section wasn’t too long. The dialogue is cringe as usual. Most video game dialogue is terrible.
 
-Thankfully, the modern day section wasn't too long. The dialogue is cringe as usual. Most video game dialogue is terrible.
+How can I ever appreciate open-world games again after Red Dead Redemption 2?
 
-How can I ever appreciate open world games after Red Dead Redemption 2?
+#### Sunday, December 24, 2023 3:48 PM CDT
 
+Am I slowly starting to like this game? I wasn’t as irritated today as I was yesterday. Maybe that’s the secret to Ubisoft’s success: the slow drip of content, constantly unlocking things, and going from one question mark to another…
 
-#### 3:48 PM Sunday, December 24, 2023
+#### Monday, January 1, 2024, 4:13 PM CDT
 
-Am I slowly starting to like this game? I wasn't quite as irrited as I was yesterday when I was playing this game. Maybe that's the secret to ubisoft's success. The slow drip of content, constantly unlocking things, going from one question mark to another...
+I played more of the game over the last few days but neglected to update the diary.
 
-#### Jan 01, 2024 Monday 04:13:12 PM
+I’m starting to enjoy it even more, but I still have mixed feelings. I’m struggling to articulate why it doesn’t measure up to RDR2 or The Witcher 3 in overall quality, even though I love what they did with the open world.
 
-I played more of this over the last few days, but I neglected to update the diary.
+Egypt is beautiful. This game looks better than The Witcher 3. It even achieves visual fidelity close to RDR2 without sacrificing performance. It doesn’t have DLSS, yet I’m playing at the highest settings and getting over 120 FPS in many areas. The engine is very well optimized—much more so than RDR2, which struggles even on my 3080 Ti.
 
-I am starting to enjoy this game even more, but I still have mixed feelings about it. I am struggling to articulate why this game does not measure up to RDR2 or Witcher 3 in terms of quality, even though I absolutely love what they did with the open world.
+So what keeps the game from being great? It’s the Ubisoft formula. Everything is done by the numbers—hunting question marks on the map. You rarely discover anything organically. In RDR2, I remember the layout of areas like Beaver Hollow and Shady Belle because I actually had to learn them.
 
-Egypt is beautiful. I think this game looks better than Witcher 3. Dare I say it, it manages to achieve equivalent visual fidelity of RDR2 without taking a hit in performance. This game does not have DLSS. I am playing this at the highest possible settings. I am getting over 120 FPS in a lot of areas. This is amazing. The engine is very well optimized, much more so than RDR2, which struggles even on my 3080Ti at highest settings.
+In this game, everything is displayed on the map. Designate a point of interest and you get a floating HUD icon. Why explore? Using the hawk to tag enemies is one of the worst and most obnoxious design choices I’ve seen. It’s basically wallhacks. If you don’t use it, the game constantly nags you.
 
-So what is it about the game that keeps it from becoming great?
+That said, clearing forts can be a lot of fun—especially the one with two captains and a commander. Taking them all out, along with the guards, and looting the chests was genuinely enjoyable. This is where AC Origins shines: when it trusts you to solve problems intelligently. The stationary crossbows in forts are also a great addition.
 
-I think its the ubisoft gameplay design. Everything is done by the numbers. Its all a matter of hunting question marks on the map. You very rarely orginically discover something on the map. I can recall the layout of the land near beaver hollow in RDR2 because I had to learn it, same with Shady Belle, and routes in St Denis. I had to learn the routes because its not just a matter of following question marks on the map.
+The AI is not very good. Quest dialogue, especially for side quests, is poor. This is where Rockstar and CDPR excel. The side quests in Origins are fun but not great, and the bad dialogue combined with constant hand-holding removes any sense of adventure and stealth.
 
-In this game, everything is readily displayed on the map. If you designate a point of interest on the map, there is a floating icon on the hud. Why would you ever explore the world? Where is the adventure? Using the hawk to find targets has got to be one of the worst and obnoxious design choices I have seen in video games.
+#### Saturday, February 24, 2024, 1:13 PM CDT
 
-You can use the hawk to tag targets, and its like having wall hacks. If you choose not to use the hawk, the game has a message constantly showing telling you to use the damn thing. Why? Why are they so afraid that I might have to do some work to figure out where my target is? Such lazy design.
+The dialogue is really bad. The modern-day section where the girl fights assassins is particularly cringeworthy. She implies that being in the memory of an assassin somehow makes her one too, and tries to justify killing them in a clumsy way.
 
-Having said that, clearing forts can be a lot of fun. There is this one particular fort with 2 captains and a commander. Killing all of them, including a ton of guards, and finding all the treasure chests inside the fort has got to be one of the most fun encounters I had in recent memory.
+This is the first game where the dialogue is so boring that I’ve started skipping cutscenes.
 
-I think this is where AC Origins shines. When the game assumes that you are an intelligent person and lets you figure out a way to solve the problem at hand.
-
-Also, the stationary crossbow in the forts is a very fun addition. I think I killed a level 40 captain with one of those.
-
-AI is not very good.
-
-Quest dialogue, especially for side quests is very poor. This is where Rockstar and CDPR really shine. Witcher 3, CP2077 and RDR2 have amazing dialogue, and interesting side questions. The side questions in AC Origins are fun, but not great. Combined wiht the bad dialogue, the game nags you to use wall hacks (hawk), and it removes any sense of adventure from the game. Where is the fun in stealth when you can literally see enemy outlines through walls? What is the point of this?
-
-#### Feb 24, 2024 Saturday 01:13:10 PM
-
-dialogue is really bad. the one mordrn day setting where the girl has to fight some assassins is particularly bad. she implies that being in the memory of an assassin somehow makes her one too.
-
-she tries to justify her killing these assassins in a very slumsy way.
-
-this is the first game where the dialogue is so boring that i am skipping cut scenes. its not good.
-
-i am now going to traverse the map without using fast travel. there is a 7000m trip i have to make to speak to cleopatra for after killing the crocodile.
+I’m now planning to traverse the map without fast travel. There’s a 7,000m trip ahead to speak with Cleopatra after killing the crocodile.
