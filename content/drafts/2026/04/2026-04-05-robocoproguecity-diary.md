@@ -9,7 +9,7 @@ Going to play some more today. Was supposed to work on some slides for a present
 
 I am also very glad that I get to write my thoughts about games and publish them.
 
-##### Apr 05, 2026 Sunday 04:18:46 PM
+`Apr 05, 2026 Sunday 04:18:46 PM`
 
 Following the Cyber Trail. Entered a sewer. What will a video game be without a sewer level?
 
@@ -17,7 +17,7 @@ Walking around the city and solving puzzles is the most boring part of the game.
 
 "I had this nasty dream that I was a homeless guy living in the sewers. Oh wait!". That was funny.
 
-##### Apr 05, 2026 Sunday 04:52:54 PM
+`Apr 05, 2026 Sunday 04:52:54 PM`
 
 Stopped for the day. I will play more either later in the day or early tomorrow.
 
@@ -51,6 +51,6 @@ Hate how secondary weapon gets reset between missions.
 
 Think I am in the last level. Action is dialed to 11.
 
-#### Apr 18, 2026 Saturday 04:32:29 PM CDT
+`Apr 18, 2026 Saturday 04:32:29 PM CDT`
 
 Finished the game.
