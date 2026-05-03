@@ -41,9 +41,11 @@ I guess that is Rockstar magic.
 
 #### Story
 
-I am finding it increasinly hard to care about story and dialogue in video games. After 20+ years of playing various single player games, nothing feels interesting anymore. Story lines are predictable and boring, dialogue is cringe, and characters are rarely interesting. 
+I am finding it increasinly hard to care about story and dialogue in video games. After 20+ years of playing single player games, there is a feeling of been-there-done-that when it comes to video game stories. Narrative lines are predictable and boring, dialogue is cringe, and characters are rarely interesting.
 
-Red Dead Redemption 2 is different. This is a spahegetti western story. It would be worth watching if this was a movie. The voice acting and dialogue are on par with a good HBO show. I am not going to discuss any specifics, but this is one of those rare games where you can actually see the impact of the story on the world, and
+Red Dead Redemption 2 is different. Voice acting and dialogue are on par with a good spaghetti western. It would be worth watching if this was a movie - only if it is something not made by modern Hollywood to be sure. I am not going to discuss any specifics, but this is one of those rare games where you can actually see the impact of the story on the world. They did as good of a job as any game ever could showing how characters change as time progresses. You can see how things were at the start of the game, the group dynamics etc., and all that change over time as things transpire.
+
+I remember dialogue from the game to this day.
 
 --------
 
