@@ -23,7 +23,8 @@ AllowD3D11=False
 ```
 had to do that make the game work.
 
-https://www.youtube.com/watch?v=MtCbJ0B7IF8
+{{< youtube MtCbJ0B7IF8 >}}
+
 
 Going to take a break for the night. Will play more tomorrow early in the morning.
 
@@ -157,3 +158,13 @@ Also had to enable VSync to to get around some technical and game breaking issue
 Finished Firefly boss fight. Its interesting. I wish the game didn't force you to play a certain way. It could have been way better.
 
 `Sunday, May 3, 2026, 11:21 AM CDT`: Edited the videos. I am going to play some more now. I am glad I have the flow narrowed down with regards to creating content.
+
+Traversal puzzles get boring. Especially ones where you have to use the glue pellet to create a raft and pull yourself to a destination. Super boring. Adds nothing to the game play.
+
+Got stuck in Blackgate Prison sewers (every game has to have a sewer level). Found the exact solution in a youtube video.
+
+`Sunday, May 3, 2026, 12:27 PM CDT`: Taking a little break. I think I am pretty close to finishing the game. I am going to finish my review of Red Dead Redemption 2 and also meal prep for the week. Might finish the game in the evening.
+
+`Sunday, May 3, 2026, 12:45 PM CDT`: Decided to play for a bit.
+
+`Sunday, May 3, 2026, 1:39 PM CDT`: Bane fight in blackgate prison is super boring. I am going to take a break.
