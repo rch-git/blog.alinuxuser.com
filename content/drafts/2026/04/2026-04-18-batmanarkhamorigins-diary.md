@@ -142,3 +142,10 @@ __Saturday, May 2, 2026, 7:27 PM CDT__
 Going to play for a little bit more.
 
 Saturday, May 2, 2026, 8:24 PM CDT - I think I am done for the day. I am going to close it for now resume tomorrow. Played quite a bit. Some of the technical issues are annoying.
+
+
+#### Sunday, May 3, 2026, 8:43 AM CDT
+
+Going to change the format of the diary. Going to keep the first entry of the day as the header, and subsequent entries will not be highlighted. I am going to play some more now.
+
+Also had to enable VSync to to get around some technical and game breaking issues. Maybe I should lock the frame rate to 60FPS. I don't think the game is made for modern machines.
