@@ -128,3 +128,15 @@ Last evening I finish that big fight with Bane. He is still not defeated. Going 
 __Saturday, May 2, 2026, 1:45 PM CDT__
 
 Taking a little break. Made a lot of progress.
+
+__Saturday, May 2, 2026, 5:40 PM CDT__
+
+There is a part in the sewers under GCDP where you have to pass through a tunnel to get into GCPD. Passage through the tunnel is broken. Can't pass through.
+
+__Saturday, May 2, 2026, 6:56 PM CDT__
+
+Going to take a little break.
+
+__Saturday, May 2, 2026, 7:27 PM CDT__
+
+Going to play for a little bit more.
