@@ -4,7 +4,7 @@ draft: false
 title: 'Red Dead Redemption 2 (PC) Review'
 # tags: ["read dead redemption", "game review"]
 cover:
-  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/rdr2-review/01-rdr2-review_2023_09_17_14_19_19_881.jpg"
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/rdr2-review/02-rdr2-review-2023_08_13_13_22_02_919.jpg"
   alt: 'Red Dead Redemption 2'
   caption: 'The beginning of the end'
   relative: false # ← explicit for static folder images
