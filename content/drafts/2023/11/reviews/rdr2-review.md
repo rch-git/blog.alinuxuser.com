@@ -9,15 +9,19 @@ cover:
   caption: 'The beginning of the end'
   relative: false # ← explicit for static folder images
 ---
-I had planned to write an extensive review of Red Dead Redemption 2, but before I do, let me just say that if you enjoy open-world games with excellent graphics and haven't played this game yet, might as well stop reading this and buy it now, and play it. Take your time with the game. I would hate to spoil the joy of discovering what this game has to offer. Assuming you a good enough PC, set everything to high, put on your headphones, start the game, and just enjoy the ride. Get lost in this excellent version of the United States.
+I had planned to write an extensive review of Red Dead Redemption 2, but before I do, let me just say that if you enjoy open-world games with excellent graphics and haven't played this game yet, might as well stop reading this and buy it now, and play it. Take your time with the game. I would hate to spoil the joy of discovering what this game has to offer. If you somehow stumbled on my website, and never played Red Dead Redemption 2, I suggest you do not watch any videos I linked on this game, and also do not read any further. Assuming you a good enough PC, buy the game, download and install it, set everything to high, put on your headphones, start the game, and just enjoy the ride. Get lost in this excellent version of the United States 🇺🇸.
 
 #### Introduction
 
-Red Dead Redemption 2 is a sequel-prequel to the original game, and based on what I have seen, it surpasses the first game in every way. Unfortunately, Red Dead Redemption was never released on PC, denying PC gamers the chance to experience it. I am just happy Rockstar released Red Dead Redemption 2 on PC. They are notorius for not releasing PC versions of their games for a long time after the launch on console, and even when they do, their PC ports tend to be a mess. GTA IV being a prime example of a buggy mess on PC. 
+Red Dead Redemption 2 is a sequel-prequel to the original game, and based on what I have seen, it surpasses the first game in every way. Unfortunately, Red Dead Redemption was never released on PC, denying PC gamers the chance to experience it. I am just happy Rockstar released Red Dead Redemption 2 on PC. They are notorius for not releasing PC versions of their games for a long time after the launch on console, and even when they do, their PC ports tend to be a mess. GTA IV being a prime example of a buggy mess on PC.
+
+I was not expecting much when I started playing the game, I fully expected Rockstar to make a mess out of this on PC. My feelings changed when this happened in the game...
 
 <p>
 {{< youtube hqHilVWTPG0 >}}
 </p>
+
+I knew there is something special about this game.
 
 #### Graphics
 
@@ -43,19 +47,23 @@ I guess that is Rockstar magic.
 
 I am finding it increasinly hard to care about story and dialogue in video games. After 20+ years of playing single player games, there is a feeling of been-there-done-that when it comes to video game stories. Narrative lines are predictable and boring, dialogue is cringe, and characters are rarely interesting.
 
-Red Dead Redemption 2 is different. Voice acting and dialogue are on par with a good spaghetti western. It would be worth watching if this was a movie - only if it is something not made by modern Hollywood to be sure. I am not going to discuss any specifics, but this is one of those rare games where you can actually see the impact of the story on the world. They did as good of a job as any game ever could showing how characters change as time progresses. You can see how things were at the start of the game, the group dynamics etc., and all that change over time as things transpire.
+Red Dead Redemption 2 is different. Voice acting and dialogue are on par with a good spaghetti western. It would be worth watching if this was a movie - only if it is something not made by modern Hollywood to be sure. I am not going to discuss any specifics, but this is one of those rare games where you can actually see the impact of the story on the world. They did as good of a job as any game ever could showing how characters change as time progresses. You experience the gang starting a new life, and get an idea of the group dynamics etc., and then watch all that change over time as life happens. It is so very well done.
 
-I remember dialogue from the game to this day.
+I cannot think of a single bad voice actor. The casting is excellent. Its very difficult for to everything just right, but they pulled it off.
 
---------
+I would love for a complete remake of Red Dead Redemption in the new engine so I can experience the older game.
 
-Despite the amount of focus given to creating a stunning open world, one might assume that Rockstar overlooked the importance of the game's storyline. However, this is not the case. The game's story is well-crafted and engaging, which is no easy feat considering the campaign is over 50 hours long. The voice acting is arguably the best I have ever experienced in any video game, even surpassing that of The Witcher 3 and Cyberpunk 2077. While I won't delve into the specific details of the story, I can assure you that it is exceptionally well done, with one of the most memorable final acts I've experienced in any game to date.
+Special mention has to be made for the ending of the game. There are a ton of reaction videos to the ending on YouTube. I strongly suggest avoiding all of them. Go into the game without knowing anything about it.
 
 <p>
 {{< youtube m5zvWYpAm_k >}}
 </p>
 
-While the game is undoubtedly impressive overall, there are certain areas where it falls short, especially on the PC. The UX design feels subpar and gives the impression that it was created by someone who has never played games on a computer before. The menu navigation is frustrating and overly complicated. To switch between weapons, you need to hold Tab and press Q and E, which is a poor design choice. It would have been better to use an inventory option similar to that for items that you are carrying instead of the clunky weapon wheel.
+#### UI/UX - Predictably Awful
+
+As I expected, Rockstar does not make good PC games. When comes to this platform, it feels like an afterthought.
+
+The UX design feels subpar and gives the impression that it was created by someone who has never played games on a computer before. Navigating menus with a controller is fundamentally different than navigating with a mouse and keyboard -- a simple fact that developers cannot seem to grasp. The menu navigation is frustrating and overly complicated. To switch between weapons, you need to hold Tab and press Q and E, which is a poor design choice. It would have been better to use an inventory option similar to that for items that you are carrying instead of the clunky weapon wheel.
 
 The game has some mechanics that are quite unusual, especially the weapon system. As a player, you have two slots for long guns - the shoulder slot and the back slot. However, when you are riding a horse, the character puts away the weapons, and they become "horse weapons". When you dismount from the horse, the weapons should teleport back onto you, but sometimes that doesn't happen. This can be frustrating, especially when you need to quickly engage enemies and you realized that you no longer have the weapons you previously equipped. It would be easier if the weapons stayed on your person all the time. It's unclear why this feature was added to the game in the first place.
 
