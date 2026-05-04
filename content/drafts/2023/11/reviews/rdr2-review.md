@@ -9,7 +9,7 @@ cover:
   caption: 'The beginning of the end'
   relative: false # ← explicit for static folder images
 ---
-I had planned to write an extensive review of Red Dead Redemption 2, but before I do, let me just say that if you enjoy open-world games with excellent graphics and haven't played this game yet, might as well stop reading this and buy it now, and play it. Take your time with the game. I would hate to spoil the joy of discovering what this game has to offer. If you somehow stumbled on my website, and never played Red Dead Redemption 2, I suggest you do not watch any videos I linked on this game, and also do not read any further. Assuming you a good enough PC, buy the game, download and install it, set everything to high, put on your headphones, start the game, and just enjoy the ride. Get lost in this excellent version of the United States 🇺🇸.
+I had planned to write an extensive review of Red Dead Redemption 2, but before I do, If you somehow stumbled on my website, and never played Red Dead Redemption 2, let me just say that if you enjoy open-world games with excellent graphics and haven't played this game yet, might as well stop reading this and buy it now, and play it. Take your time with the game. I would hate to spoil the joy of discovering what this game has to offer. Assuming you a good enough PC, set everything to high, put on your headphones, start the game, and just enjoy the ride. Get lost in this excellent version of the United States 🇺🇸.
 
 #### Introduction
 
