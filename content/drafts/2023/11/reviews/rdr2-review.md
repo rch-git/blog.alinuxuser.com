@@ -123,15 +123,17 @@ To add insult to injury, there is no point in playing Red Dead Online because it
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/rdr2-review/07-rdr2-review-2026-05-05-06_35_42.jpg"
 >}}
 
-I’ve long wondered why professional PC game journalists almost never advocate for a better experience for paying customers. These outlets have repeatedly shown they can pressure publishers into bending the knee on all kinds of performative politics and social issues. Yet when it comes to genuine consumer grievances -- like aggressive double DRM (Steam + Rockstar Launcher), always-online requirements, or bloated launchers — the outrage is nowhere to be found.
+I’ve long wondered why professional PC game journalists almost never advocate for a better experience for paying customers. These outlets have repeatedly shown they can pressure publishers into bending the knee on all kinds of performative politics and social issues. Yet when it comes to genuine consumer grievances — aggressive double DRM (Steam + Rockstar Launcher), always-online requirements, bloated launchers — the outrage is nowhere to be found.
 
-No sustained campaigns from PC Gamer, Rock Paper Shotgun, or PCGamesN. No hit pieces. No boycotts. Tyler Wilde at PC Gamer did write a condescending slop piece scolding the PCMasterRace subreddit for its name. That tells you everything. At this point, PC Gamer functions less like a consumer advocate and more like a corporate communications department--If PirateSoftware ran a games media company, this is what it would look like. Rock Paper Shotgun barely deserves mentioning.
+No sustained campaigns from PC Gamer, Rock Paper Shotgun, or PCGamesN. No think pieces. No social media pressure. Tyler Wilde at PC Gamer writing a condescending slop piece scolding the PCMasterRace subreddit for its name. They also offered zero support to Ross Scott’s (Accursed Farms) StopKillingGames campaign.
 
-So, to sum it up, they require us to create a Rockstar account to play the single-player campaign, all the while they abandoned the online portion of the game because GTA V is where all the money is. This is just embarrassingly anti-consumer on their part. All the money in the world will not buy basic ethics.
+That tells you everything. At this point, PC Gamer functions less like a consumer advocate and more like a corporate communications department. If PirateSoftware ran a games media company, this is exactly what it would look like. Rock Paper Shotgun barely deserves mentioning.
+
+To sum it up: these same outlets stayed silent while Rockstar forced players to create an account and install a second launcher just to play the single-player campaign of a game whose online component they’ve largely abandoned in favor of GTA V’s microtransactions. All the money in the world still can’t buy basic ethics.
 
 #### Closing Thoughts
 
-I stand by my criticism of Rockstar. They are not pro-consumer. If this were any other game, I would not have recommended buying it—I will make an exception with RDR2. This work of art deserves to be experienced by all PC gamers.
+I stand by my criticism of Rockstar. They are not pro-consumer. If this were any other game, I would not have recommended buying it--I will make an exception with RDR2. This work of art deserves to be experienced by all PC gamers.
 
 I played this game for over 190 hours, and I am still not done yet. There are more places to explore, more animals to hunt, and bounties to collect. Despite Rockstar's best efforts, this turned out to be a fantastic game. I look forward to playing Red Dead Redemption 3. Maybe in 2030.
 
