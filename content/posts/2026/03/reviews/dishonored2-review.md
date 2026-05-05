@@ -3,6 +3,10 @@ date: '2026-03-29T15:37:00'
 draft: false
 tags: ["dishonored", "game review"]
 title: 'Dishonored 2 (PC) Review'
+cover:
+  image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/dishonored2-review/01-dishonored2-review-2025.08.03-12.13.52.85-1.png"
+  alt: 'Dishonored 2'
+  relative: false # ← explicit for static folder images
 ---
 In my opinion the first Dishonored is one of the best single player games ever made. Sequels have a tendency to be not as good as the original. Sequels such as Crysis 2, F.E.A.R 2, Doom Eternal, Deus Ex Invisible War etc., were not as good as the first games.
 
@@ -24,9 +28,30 @@ Karnaca is a fantastic setting. The bright coastal areas look incredible, while 
 
 In hindsight, I probably should have played as Emily. Her new abilities would have given me something different to experiment with. Playing as Corvo felt familiar, but it also meant I wasn't doing much beyond what I already knew from the first game.
 
+{{<
+    figure
+    src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/dishonored2-review/03-dishonored2-review-2025.10.04-20.01.45.13.jpg"
+    width="640"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/dishonored2-review/03-dishonored2-review-2025.10.04-20.01.45.13.jpg"
+>}}
+
+
 One of the things I've always loved about Dishonored is how unexpected gameplay moments can emerge naturally. For example, I was sneaking through a mansion and encountered a clockwork soldier. I shot its head off, and while it couldn't see anymore, it was still alive and flailing around. That led to a completely unexpected chain of events. In most games, this would have been a fail state. In Dishonored 2, it's just another moment you adapt to.
 
 The PC version had issues at launch, but I played it nine years later on hardware far beyond the recommended specs. I had zero technical problems. The game ran smoothly on ultra settings at 3440x1440.
+
+{{<
+    figure
+    src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/dishonored2-review/02-dishonored2-review-2025.09.07-17.49.57.74.jpg"
+    width="640"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/dishonored2-review/02-dishonored2-review-2025.09.07-17.49.57.74.jpg"
+>}}
 
 The story is fine. Within the first 15 minutes, Emily Kaldwin is deposed by her aunt, who claims to be the rightful heir. It feels contrived. There's also the Crown Killer mystery, which is resolved in the most boring way possible. None of this ruins the experience, but I do remember the story being goofy in places. Still, the gameplay more than makes up for it.
 

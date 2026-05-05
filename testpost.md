@@ -27,7 +27,7 @@ From github repo with center align and a clickable image.
 {{<
     figure
     src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/helloworld.jpg"
-    width="256"
+    width="640"
     align="center"
     caption="from staticcontent repo"
     target="_blank"
