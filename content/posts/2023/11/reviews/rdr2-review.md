@@ -2,7 +2,7 @@
 date: 2023-11-23T15:48:00
 draft: false
 title: 'Red Dead Redemption 2 (PC) Review'
-# tags: ["red dead redemption", "game review"]
+tags: ["red dead redemption", "game review"]
 cover:
   image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/rdr2-review/01-rdr2-review_2023_09_17_14_19_19_881.jpg"
   alt: 'Red Dead Redemption 2'
