@@ -8,7 +8,7 @@ I am not sure how and when this started, but it is getting really annoying. I un
 
 I’ve talked about this issue in the past on the forums and the responses ranged from people who absolutely wanted it, and those who said quick save removed the challenge from the game.
 
-I understand that, however, for those who want a challenge, they can always just not save. Gamers like me would like to have the option but just can’t seem to convince people that this is an important part of our experience!
+To those that want a challenge, they can always just not save. Gamers like me would like to have the option but just can’t seem to convince people that this is an important part of our experience, and having options, especially in single player games, is a good thing.
 
 I can’t remember the number of times I played a certain section in Crysis or in Max Payne, all because I could save where I wanted to. Its also very useful when I want to record specific section of a game, but don't want to replay a poorly placed checkpoint just to get to the part that I want to play.
 
