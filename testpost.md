@@ -4,6 +4,7 @@ draft: true
 title: 'test post'
 cover:
   image: "img/helloworld.jpg"
+  #image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/helloworld.jpg"
   alt: 'Hello World'
   caption: 'Hello World Cover Caption'
   relative: false # ← explicit for static folder images
@@ -104,7 +105,7 @@ append this `master/images/graw_review/03_graw_review_2023_02_25_22_59_39_269.jp
 {{<
     figure
     src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/helloworld.jpg"
-    width="256"
+    width="640"
     align="center"
     caption="from staticcontent repo"
     target="_blank"

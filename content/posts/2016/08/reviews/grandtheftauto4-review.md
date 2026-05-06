@@ -3,6 +3,10 @@ date: 2016-08-28T11:01:00
 draft: false
 title: 'Grand Theft Auto 4 (PC) Review'
 tags: ["grand theft auto", "game review"]
+cover:
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/gta4_review/03-gta4-review.jpg"
+  alt: 'GTA4'
+  relative: false # ← explicit for static folder images
 ---
 I know I am about 8 years late to the GTA 4 PC party. When I first saw this game announced for the PC, it looked great in the trailers but I couldn’t buy it at launch because it was too expensive. I picked this up for $7.50 during a steam sale, therefore I am not terribly unhappy for what I got, but not worth the $60 launch price.
 
