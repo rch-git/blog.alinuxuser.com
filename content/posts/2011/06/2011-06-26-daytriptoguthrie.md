@@ -4,7 +4,7 @@ date: 2011-06-26T14:31:00
 draft: false
 tags: ["travel"]
 cover:
-  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/daytriptoguthrie/06-daytriptoguthrie.jpg"
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/daytriptoguthrie/07-daytriptoguthrie.jpg"
   relative: false # ← explicit for static folder images
 ---
 We decided that we were going to do more with our time than play computer games. So we agreed that we needed to explore Oklahoma. We haven't been going out a lot because the weather has been very hot lately.
@@ -71,6 +71,21 @@ The architecture of the city is very distinctive. The old railway station, the S
 
 {{<
     figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/daytriptoguthrie/08-daytriptoguthrie.jpg"
+    width="640"
+    caption="Santa Fe station"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/daytriptoguthrie/08-daytriptoguthrie.jpg"
+>}}
+
+There is a lot of history to this city, from the humble beginning to becoming the capital of the state, and then being voted off by the people, and finally being recognized as a national historic landmark. Those living in Oklahoma should visit Guthrie, preferably in the spring.
+
+There are a few abandoned buildings to be found, near downtown--relics from a bygone era. I hope they are preserved.
+
+{{<
+    figure
     src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/daytriptoguthrie/03-daytriptoguthrie.jpg"
     width="640"
     caption="Abandoned building in Guthrie, OK"
@@ -79,9 +94,6 @@ The architecture of the city is very distinctive. The old railway station, the S
     rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/daytriptoguthrie/03-daytriptoguthrie.jpg"
 >}}
-
-
-There is a lot of history to this city, from the humble beginning to becoming the capital of the state, and then being voted off by the people, and finally being recognized as a national historic landmark. Those living in Oklahoma should visit Guthrie, preferably in the spring.
 
 Click the link below for more picture of Guthrie
 
