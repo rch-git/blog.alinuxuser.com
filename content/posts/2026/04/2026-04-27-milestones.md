@@ -72,7 +72,7 @@ For context, the S&P 500 hit a record `6144.15` on February 19, 2025. By April 8
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/2025-03-07-15_48_47-rivaLxfactor-finance-predictions.jpg"
 >}}
 
-When the market hit its lowest point, the panic was in full swing. Trump called them PANICANS. Appropriate. I did buy the dip a little bit, but I did not have the cashflow, and I had to sit on the sidelines a little bit. At least, I wasn't selling (or making any changes to my asset allocation) like those geniuses on TV and X.
+When the market hit its lowest point, the panic was in full swing. Trump called them PANICANS. Appropriate. I did buy the dip a little bit, but not as much as I would have liked because I did not have the cashflow. At least, I wasn't selling (or making any changes to my asset allocation) like those geniuses on TV and X.
 
 On June 27, 2025, S&P 500 closed at a new all-time high of `6173.07`. This marked full recovery from the tariff scare draw down (and set a new record). The index had already turned positive for the year by May.
 
