@@ -121,3 +121,4 @@ Yes, it would be awesome to see more GSYNC options in the market. At the moment,
 
 I would advise against using a 27" 1080p. I have a ASUS VG27HE monitor, and while it is by no means a bad monitor, in comparison, the pixel density on the 1080p monitor is a lot lower. This may or may not bother you. Something to consider before you purchase a monitor.
 ```
+_This post is published on Wednesday, May 6, 2026, 12:03 PM CDT_
