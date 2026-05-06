@@ -3,8 +3,12 @@ title: 'Micro and Macro Economic Milestones'
 date: 2026-04-17T16:52:01
 draft: false
 tags: ["finance"]
+cover:
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/01-milestones.jpg"
+  alt: 'Epic Fury'
+  caption: 'Epic Fury'
+  relative: false # ← explicit for static folder images
 ---
-
 #### The Detox
 
 A few weeks ago I started a digital detox. I stopped reading the news, skipped every hot take on the Iran war or on how President Trump “should have handled” it, and ignored the endless commentary from people detached from reality. None of it added value; it simply occupied precious brain space.
@@ -92,57 +96,13 @@ This was achieved by not doing much during the market turmoil. I decided to rewa
 
 {{<
     figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_163938.jpg"
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/food-collage.jpg"
     align="center"
-    width="512"
-    caption="Barbecue to start"
+    width="640"
+    caption="Food collage"
     target="_blank"
     rel="noopener"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_163938.jpg"
->}}
-
-{{<
-    figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_172541.jpg"
-    align="center"
-    width="512"
-    caption="Followed by Italian. It was bad."
-    target="_blank"
-    rel="noopener"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_172541.jpg"
->}}
-
-{{<
-    figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_175855.jpg"
-    align="center"
-    width="512"
-    caption="Mexican. It was bad."
-    target="_blank"
-    rel="noopener"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_175855.jpg"
->}}
-
-{{<
-    figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_183417.jpg"
-    align="center"
-    width="512"
-    caption="Chick-fil-A. Jesus chicken."
-    target="_blank"
-    rel="noopener"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_183417.jpg"
->}}
-
-{{<
-    figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_190203.jpg"
-    align="center"
-    width="512"
-    caption="Orange ice cream, pecan turtle cheesecake, and coffee."
-    target="_blank"
-    rel="noopener"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_190203.jpg"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/food-collage.jpg"
 >}}
 
 Going forward I want to think less about numbers and more about life. The last few years have been a relentless pursuit of targets. Progress felt good, but it never brought real happiness. There is no one I can share this milestone with, and bragging feels tacky anyway—only judgment follows.
