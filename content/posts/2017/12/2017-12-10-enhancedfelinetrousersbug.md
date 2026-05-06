@@ -3,8 +3,11 @@ title: 'Cat School Gear Upgrade Diagrams - Part 2 - Enhanced Feline Trousers Bug
 date: 2017-12-10T23:12:00
 draft: false
 tags: ["guide", "witcher"]
+#cover:
+  #image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/enhancedfelinetrousersbug/05-enhancedfelinetrousersbug.jpg"
+  #relative: false # ← explicit for static folder images
 ---
-This is a bug you could encounter if you are using the Fast Travel From Anywhere mod.
+This is a bug you could encounter if you are using the `Fast Travel From Anywhere` mod.
 
 In order to find the Enhanced Feline Trousers, you will need to go underground through an iron grate on the floor in a house in Oxenfort, however but the grates are closed. This is because a cutscene that was supposed to trigger after the Get Junior main quest, was skipped because I used the fast travel option out of the compound in Novigrad.
 
