@@ -4,7 +4,7 @@ date: 2026-05-03T16:19:18
 draft: false
 tags: ["game diary"]
 ---
-### Sunday, May 3, 2026, 4:19 PM CDT
+#### Sunday, May 3, 2026, 4:19 PM CDT
 
 Installing the game via UbiSoft Connect. Eew. I wish I had this game on Steam. Wouldn't have made much of a difference because I would still need UbiSoft Connect, but at least I can get reliable time tracking etc.
 
