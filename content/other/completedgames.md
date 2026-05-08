@@ -4,21 +4,21 @@ description: "Every game I ever completed"
 date: 2026-04-24T14:02:36
 draft: false
 ---
-### 2000 - 1
+### 2000 <sup>1</sup>
 * Tomb Raider 3
   * Thursday, September 7, 2000, 1:30 PM
 ---
-### 2001 - 1
+### 2001 <sup>1</sup>
 * Tomb Raider 4
   * Tuesday, May 29, 2001, 12:29 PM
 ---
-### 2002 - 2
+### 2002 <sup>2</sup>
 * Tomb Raider 1
   * Thursday, May 2, 2002, 12:08 PM
 * Tomb Raider 2
   * Thursday, November 28, 2002, 6:57 PM
 ---
-### 2003 - 4
+### 2003 <sup>4</sup>
 * Max Payne
   * Monday, February 3, 2003, 11:13 PM
 * Soldier of Fortune
@@ -28,7 +28,7 @@ draft: false
 * Delta Force Land Warrior
   * Wednesday, December 17, 2003, 3:56 PM
 ---
-### 2004 - 6
+### 2004 <sup>6</sup>
 * Tomb Raider Chronicles
   * Thursday, March 25, 2004, 1:25 PM
 * Ghost Recon
@@ -42,7 +42,7 @@ draft: false
 * Desperados
   * Tuesday, November 23, 2004, 5:23 PM
 ---
-### 2005 - 5
+### 2005 <sup>5</sup>
 * Delta Force Task Force Dagger
   * Saturday, February 5, 2005, 2:11 PM
 * Outlaws
@@ -54,7 +54,7 @@ draft: false
 * Tomb Raider Unfinished Business
   * Thursday, December 29, 2005, 3:06 AM
 ---
-### 2006 - 5
+### 2006 <sup>5</sup>
 * GTA 3
   * Friday, March 24, 2006, 11:30 AM
 * Terminator 3 - War of the Machines
@@ -66,7 +66,7 @@ draft: false
 * Jedi Knight II Jedi Outcast
   * Thursday, November 30, 2006, 10:11 AM
 ---
-### 2007 - 14
+### 2007 <sup>14</sup>
 * Medal of Honor Allied Assault
   * Thursday, January 25, 2007, 9:49 AM
 * Call of Duty
@@ -96,7 +96,7 @@ draft: false
 * Half Life 2: Episode One
   * Friday, December 21, 2007, 4:26 PM
 ---
-### 2008 - 10
+### 2008 <sup>10</sup>
 * Diablo
   * Thursday, January 3, 2008, 9:30 AM
 * Portal
@@ -118,7 +118,7 @@ draft: false
 * Prince of Persia: Warrior Within
   * Tuesday, June 3, 2008, 2:14 AM
 ---
-### 2009 - 17
+### 2009 <sup>17</sup>
 * Half Life 2: Lost Coast
   * Monday, March 16, 2009, 3:31 PM
 * Call of Duty 2
@@ -154,7 +154,7 @@ draft: false
 * Mass Effect
   * Thursday, December 10, 2009, 8:44 PM
 ---
-### 2010 - 12
+### 2010 <sup>12</sup>
 * Bioshock
   * Tuesday, February 16, 2010, 9:45 PM
 * Need For Speed Shift
@@ -180,7 +180,7 @@ draft: false
 * Company of Heroes Opposing Fronts Liberation of Cean
   * Sunday, December 5, 2010, 4:40 AM
 ---
-### 2011 - 7
+### 2011 <sup>7</sup>
 * Company of Heroes Tales of Valor
   * Thursday, April 7, 2011, 9:41 PM
 * Medal of Honor
@@ -196,7 +196,7 @@ draft: false
 * Call of Duty Modern Warfare 3
   * Saturday, December 24, 2011, 8:14 PM
 ---
-### 2012 - 9
+### 2012 <sup>9</sup>
 * Deus Ex Human Revolution Missing Link
   * Saturday, January 21, 2012, 12:28 AM
 * Deus Ex: Human Revolution
@@ -216,7 +216,7 @@ draft: false
 * Trine
   * Tuesday, November 20, 2012, 1:56 PM
 ---
-### 2013 - 5
+### 2013 <sup>5</sup>
 * Mass Effect 3
   * Saturday, March 9, 2013, 7:53 PM
 * Call of Duty Black Ops 2
@@ -228,7 +228,7 @@ draft: false
 * Battlefield 4 Single Player
   * Monday, November 11, 2013, 8:50 PM
 ---
-### 2015 - 3
+### 2015 <sup>3</sup>
 * S.T.A.L.K.E.R Call of Pripyat
   * Sunday, February 1, 2015, 2:41 AM
 * Far Cry 3
@@ -236,7 +236,7 @@ draft: false
 * Watch Dogs
   * Saturday, August 22, 2015, 7:46 PM
 ---
-### 2016 - 5
+### 2016 <sup>5</sup>
 * F.E.A.R
   * Sunday, February 7, 2016, 2:37 PM
 * Need For Speed 2 Shift Unleashed
@@ -248,7 +248,7 @@ draft: false
 * The Witcher
   * Saturday, December 10, 2016, 10:06 PM
 ---
-### 2017 - 9
+### 2017 <sup>9</sup>
 * The Witcher 2
   * Sunday, February 5, 2017, 3:10 AM
 * Dear Ester
@@ -268,7 +268,7 @@ draft: false
 * {{< newtab href="/posts/2017/11/reviews/callofjuarezgunslinger-review/" text="<span class='link-color'>Call of Juarez Gunslinger</span>" >}}
   * Sunday, November 12, 2017, 10:58 AM
 ---
-### 2018 - 8
+### 2018 <sup>8</sup>
 * Witcher 3
   * Saturday, April 7, 2018, 11:24 PM
 * The Witcher 3: Hearts of Stone
@@ -286,7 +286,7 @@ draft: false
 * Hard Reset
   * Monday, December 31, 2018, 12:52 PM
 ---
-### 2019 - 4
+### 2019 <sup>4</sup>
 * BioShock Infinite
   * Sunday, January 13, 2019, 3:51 PM
 * Tomb Raider (2013)
@@ -296,13 +296,13 @@ draft: false
 * Just Cause 3
   * Sunday, August 4, 2019, 2:48 PM
 ---
-### 2021 - 2
+### 2021 <sup>2</sup>
 * Firewatch
   * Monday, October 11, 2021, 2:15 PM
 * The Wolf Among Us
   * Saturday, October 16, 2021, 7:46 PM
 ---
-### 2022 - 11
+### 2022 <sup>11</sup>
 * Crysis 3
   * Tuesday, March 15, 2022, 7:42 PM
 * Assassins's Creed Black Flag
@@ -326,7 +326,7 @@ draft: false
 * F.E.A.R Perseus Mandate
   * Saturday, October 8, 2022, 10:00 PM
 ---
-### 2023 - 19
+### 2023 <sup>19</sup>
 * Assassin's Creed Unity
   * Friday, January 13, 2023, 9:43 PM
 * Assassin's Creed Unity: Dead Kings
@@ -366,7 +366,7 @@ draft: false
 * Call of Juarez
   * Thursday, December 28, 2023, 10:03 PM
 ---
-### 2024 - 12
+### 2024 <sup>12</sup>
 * {{< newtab href="/posts/2024/04/reviews/assassinscreedorigins-review/" text="<span class='link-color'>Assassins Creed Origins</span>" >}}
   * Saturday, March 9, 2024, 10:59 PM
 * {{< newtab href="/posts/2024/04/reviews/riseofthetombraider-review/" text="<span class='link-color'>Rise of the Tomb Raider</span>" >}}
@@ -392,7 +392,7 @@ draft: false
 * {{< newtab href="/posts/2024/12/reviews/assassinscreedodyssey-review/" text="<span class='link-color'>Assassin's Creed Odyssey</span>" >}}
   * Saturday, December 21, 2024, 10:44 AM
 ---
-### 2025 - 6
+### 2025 <sup>6</sup>
 * {{< newtab href="/posts/2026/04/reviews/indianajonesandthegreatcircle-review/" text="<span class='link-color'>Indiana Jones and The Great Circle</span>" >}}
   * Sunday, January 5, 2025, 9:27 AM
 * {{< newtab href="/posts/2026/04/reviews/fear2-review/" text="<span class='link-color'>F.E.A.R 2 Project Origin</span>" >}}
@@ -406,7 +406,7 @@ draft: false
 * Dishonored Death of the Outsider
   * Sunday, November 2, 2025, 1:33 PM
 ---
-### 2026 - 2
+### 2026 <sup>2</sup>
 * {{< newtab href="/posts/2026/04/reviews/robocoproguecity-review/" text="<span class='link-color'>RoboCop Rogue City</span>" >}}
   * Saturday, April 18, 2026, 4:36 PM
 * Batman Arkham Origins
