@@ -3,6 +3,9 @@ title: "Quake 4 (PC) Review"
 date: 2009-06-07T00:00:00
 draft: false
 tags: ["game review", "quake"]
+cover:
+  image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/quake4-review/01-quake4-review.jpg"
+  relative: false # ← explicit for static folder images
 ---
 _I finished this game on `Saturday, June 6, 2009, 11:49:00 PM`. This review was first published on GameSpot on June 7, 2009._
 
