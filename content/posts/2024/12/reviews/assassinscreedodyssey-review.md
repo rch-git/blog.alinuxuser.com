@@ -3,6 +3,9 @@ date: '2024-12-21T11:58:00'
 draft: false
 title: 'Assassins Creed Odyssey (PC) Review'
 tags: ["assassins creed", "game review"]
+cover:
+  image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/assassinscreedodyssey-review/01-assassinscreedodyssey-review.jpg"
+  relative: false # ← explicit for static folder images
 ---
 I have mixed feelings about the game.
 
