@@ -24,3 +24,11 @@ So many intro logos. Can't skip. Will try to find a way to skip them, but consid
 
 Going to stop for now. Will play more later in the evening afer I am back from the city.
 
+#### Thursday, May 7, 2026, 7:47 PM CDT
+
+Time to play some more. I finished mowing the lawn. I am tired, but I want to play some.
+
+`Thursday, May 7, 2026, 8:28 PM CDT`
+
+Finished the prologue and started the first mission. Went to the main hub area. Its weird that the game switches between hindi and english. Going to take a break now. I am too tired to play.
+
