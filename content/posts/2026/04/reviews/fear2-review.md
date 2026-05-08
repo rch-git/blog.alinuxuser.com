@@ -3,23 +3,36 @@ title: 'F.E.A.R Project Origin (PC) Review'
 date: 2026-04-28T05:47:25
 draft: false
 tags: ["game review", "fear"]
+cover:
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/fear2-review/01-fear2-review.jpg"
+  relative: false # ← explicit for static folder images
 ---
-I remember playing the demo game a long time ago.
+I remember playing the F.E.A.R. demo many years ago and feeling like it was a slight downgrade from what I expected. After finally playing the full game in 2025, I can say my initial impression was right.
 
-F.E.A.R is one of the best FPS games ever made. There are parts of the first game that did not age too well, but even in 2026, 21 years after its release, there are parts of the game that look and play great. Monolith made the first game with PC in mind, and it shows. All the essential things you expect from a PC game are present. Quick save, quick load, plenty of graphics settings, fantastic visuals, and a physics that were top notch. I think Max Payne 2 was the only game at the time that did physics better than this game.
+F.E.A.R. is still one of the best FPS games ever made. Some parts haven’t aged perfectly, but even 21 years after its release, huge chunks of it look and play great. Monolith built the original with PC in mind, and it shows in every detail: quicksave, quickload, lots of graphics options, excellent visuals for its time, and some of the best physics I’ve ever seen in a shooter. The only game from that time that rivaled it was Max Payne 2.
 
-The ending of FEAR was a complete cliff hanger. Don't think anyone saw that coming. So when a sequel was announced, I had high hopes. Of course, like all sequels in that generation, every good PC game had an inferior console focused sequel.
+The first game ended on an absolute cliffhanger that nobody saw coming. So when a sequel was announced, my expectations were sky-high. Unfortunately, like so many games from that generation, F.E.A.R. 2 turned out to be the classic “good PC game gets an inferior console-focused sequel” story.
 
-FEAR 2 starts a little bit before the ending of the first game. The player is Sgt. Becket who is a part of a delta force team sent to protect a VIP from assassination. As we make our way into the HQ, all hell breaks loose. If you played the first game, you will know what I am talking about. I am going to avoid spoilers. From here, the game takes several twists and turns, and it concludes in one of the most insane game endings. I don't know what to make of it. I want to play FEAR 3 and see if they address the ending in some manner.
+FEAR 2 picks up a little bit before the ending of the first game. The player is Sgt. Becket who is a part of a delta force team sent to protect a VIP from assassination. As we make our way into the HQ, all hell breaks loose. The story takes several twists and turns, and it concludes in one of the most insane game endings. You have to wonder what the writers were thinking when they wrote this.
 
-From a gameplay perspective, it felt like a downgrade to me. Its a functional game, I never had any technical issues. Visuals feel blurry in comparison to the crisp graphics of the first game. Its the typical Xbox 360 look - feels like vaseline is smeared on the screen. Outdoor levels look particularly bad to me. Everything looks washed out. I do not know if this is a technical limitation or if this is an artistic choice. Either way, outdoor levels do not look good. They are still fun to play, but they do not look good. Its interesting how the second game has higher system requirements, but looks worse. There are also other things that are not as good. The save system is downgraded - no quick save or quick load, only checkpoint. I do not like it when common sense features are removed. Having a quick and manual save option would help me get recordings and such without having to replay sections of the game just to get to part I want to record.
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/fear2-review/03-fear2-review.jpg"
+    width="640"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/fear2-review/03-fear2-review.jpg"
+>}}
 
-Level design tries to be better. First game was infamous for levels being very bland. FEAR 2 takes you to different locations, and also tries to change the gameplay. You get to play in a mech at one point. Changing gameplay radically can be hit or miss. I think they managed to walk the line here. There is especially one level in FEAR 2, which is stands out compared to all the others. If you play the game, chances are you will know what I am talking about, and if not, check the spoiler section.
+Graphics go from great to very mediocre. Visuals feel blurry in comparison to the crisp graphics of the first game. Its the typical Xbox 360 look - feels like vaseline is smeared on the screen. Outdoor levels look particularly weak to me. Everything looks washed out. I do not know if this is a technical limitation or if this is an artistic choice. They are still fun to play, but they do not look good. There are some levels that look way better than the first game, and those are the best parts of FEAR 2. I did not like their decision to make enemies have a glow effect when slow motion is activated.
 
 <p>
-{{< details "Click here" >}}
-The level in the high school is very well done. The atmosphere is super creepy. It would be very unlikely for a game in this day and age to include a school level, for obvious reasons.
-{{< /details >}}
+{{< youtube PiwN6sjvPOM >}}
 </p>
 
-So should you play this game in 2026? Yes. I think this game is worth playing. Combat is still fun, slow motion gameplay is awesome. I think weapons in the second game are better, and you can actually aim down sights like a normal modern game. This game frequently goes on sale. I recommend picking this up when its on sale.
+Its a functional game, I never had any technical issues. Its interesting how the second game has higher system requirements, but looks worse. There are also other things that are not as good. There is no quick save or quick load, only checkpoints. I do not like it when common sense features are removed. Having a quick save and manual save option would help me get recordings and such without having to replay sections of the game just to get to part I want to play. There is no logical reason for not providing this option on the PC.
+
+Level design tries to be better. The first game was famous for its repetitive, bland corridors. FEAR 2 takes you to different locations, and also tries to change the gameplay. You get to play in a mech at one point. That kind of radical change can easily go wrong, but they pulled it off and made it genuinely fun.
+
+So, should you play F.E.A.R. 2 in 2026? Absolutely yes. The core combat loop is still excellent, the slow-motion sequences are as satisfying as ever, and the weapons feel better overall (plus you can finally aim down sights like a modern shooter). It’s not a perfect sequel, but it’s still a damn good time. This game frequently goes on sale. I recommend picking this up when its on sale.

@@ -36,11 +36,17 @@ From github repo with center align and a clickable image.
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/helloworld.jpg"
 >}}
 
+<!-- SPOILERS -->
+
 {{< details summary="See the details" >}}
 This is a **bold** word.
 {{< /details >}}
 
-
+<p>
+{{< details "Click here" >}}
+The level in the high school is very well done. The atmosphere is super creepy. It would be very unlikely for a game in this day and age to include a school level, for obvious reasons.
+{{< /details >}}
+</p>
 
 This is a code block
 
