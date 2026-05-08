@@ -346,7 +346,7 @@ draft: false
 * Spec Ops: The Line
   * Saturday, November 11, 2017, 12:31 PM
 
-* Call of Juarez Gunslinger
+* {{< newtab href="/posts/2017/11/reviews/callofjuarezgunslinger-review/" text="<span class='link-color'>Call of Juarez Gunslinger</span>" >}}
   * Sunday, November 12, 2017, 10:58 AM
 
 * Witcher 3
@@ -520,7 +520,7 @@ draft: false
 * {{< newtab href="/posts/2026/04/reviews/indianajonesandthegreatcircle-review/" text="<span class='link-color'>Indiana Jones and The Great Circle</span>" >}}
   * Sunday, January 5, 2025, 9:27 AM
 
-* F.E.A.R 2 Project Origin
+* {{< newtab href="/posts/2026/04/reviews/fear2-review/" text="<span class='link-color'>F.E.A.R 2 Project Origin</span>" >}}
   * Sunday, January 19, 2025, 1:55 PM
 
 * {{< newtab href="/posts/2026/03/reviews/assassinscreedsyndicate-review/" text="<span class='link-color'>Assassin's Creed Syndicate</span>" >}}
