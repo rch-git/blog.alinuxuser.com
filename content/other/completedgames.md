@@ -348,15 +348,15 @@ cover:
   * Saturday, July 1, 2023, 11:39 AM
 * SUPERHOT
   * Sunday, July 2, 2023, 3:31 PM
-* Half-Life Blue Shift
+* {{< newtab href="/posts/2023/09/reviews/halflifeblueshift-review/" text="<span class='link-color'>Half-Life Blue Shift</span>" >}}
   * Saturday, September 16, 2023, 1:39 PM
-* Frontlines Fuel of War
+* {{< newtab href="/posts/2023/10/reviews/frontlinesfuelofwar-review/" text="<span class='link-color'>Frontlines Fuel of War</span>" >}}
   * Sunday, October 1, 2023, 9:09 AM
 * Metal Gear Solid V Ground Zeroes
   * Sunday, October 1, 2023, 4:00 PM
-* Tomb Raider Anniversary
+* {{< newtab href="/posts/2023/11/reviews/tombraideranniversary-review/" text="<span class='link-color'>Tomb Raider Anniversary</span>" >}}
   * Wednesday, November 1, 2023, 8:29 PM
-* Red Dead Redemption 2
+* {{< newtab href="/posts/2023/11/reviews/rdr2-review/" text="<span class='link-color'>Red Dead Redemption 2</span>" >}}
   * Sunday, November 5, 2023, 5:19 PM
 * Titanfall 2
   * Sunday, November 12, 2023, 6:49 PM
@@ -364,9 +364,9 @@ cover:
   * Wednesday, November 22, 2023, 7:31 PM
 * {{< newtab href="/posts/2023/12/reviews/mirrorsedgecatalyst-review/" text="<span class='link-color'>Mirror's Edge Catalyst</span>" >}}
   * Saturday, December 16, 2023, 9:53 PM
-* The Darkness II
+* {{< newtab href="/posts/2023/12/reviews/darkness2-review/" text="<span class='link-color'>The Darkness II</span>" >}}
   * Thursday, December 21, 2023, 5:23 PM
-* Call of Juarez
+* {{< newtab href="/posts/2023/12/reviews/callofjuarez-review/" text="<span class='link-color'>Call of Juarez</span>" >}}
   * Thursday, December 28, 2023, 10:03 PM
 ---
 ### 2024 <sup>12</sup>
