@@ -42,4 +42,24 @@ I finished editing the videos. I am going to play some more.
 
 `Friday, May 8, 2026, 10:24 PM CDT`
 
-I had a Diet Dr. Pibb and I got lost in the game for a little bit. Did a mission and then goofed around a bit. I am now going to call it a night. I will play more tomorrow.
+I had a Diet Dr. Thunder and I got lost in the game for a little bit. Did a mission and then goofed around a bit. I am now going to call it a night. I will play more tomorrow.
+
+#### Saturday, May 9, 2026, 8:04 AM CDT
+
+Woke up pretty early but spent time on infinitebacklog.net instead. I got my coffee, time to play some Far Cry 4. Also realized that UbiSoft Connect does not keep track of gameplay time. What a useless piece of bloatware. I must have gotten the game for really cheap or even free to have it only on UbiSoft Connect and not on Steam.
+
+`Saturday, May 9, 2026, 9:53 AM CDT`
+
+Added the game on Steam. Going to try launching it via Steam and see if the launch options persist. The ingame menu shows the time spent. Going to play some more now.
+
+`Saturday, May 9, 2026, 10:40 AM CDT`
+
+Finished one of the missions. Given a choice of a missions between the girl boss character and the wimpy guy character. Went with the guy.
+
+Map scrolling is very bad. Unskippable cut scenes. Super boring. Loot management is lame. Constantly keep running out of room because a feather takes the same room as an animal skin. Not weight based.
+
+Still a good game. Enjoying it.
+
+Running the game via Steam will track time. Ubisoft Connect is very bad.
+
+
