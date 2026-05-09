@@ -5,6 +5,7 @@ date: 2026-04-24T14:02:36
 draft: false
 cover:
   image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/completedgames/completedgames.jpg"
+  caption: 'Made with Google Gemini'
   relative: false # ← explicit for static folder images
 ---
 ### 2000 <sup>1</sup>
@@ -252,21 +253,21 @@ cover:
   * Saturday, December 10, 2016, 10:06 PM
 ---
 ### 2017 <sup>9</sup>
-* The Witcher 2
+* {{< newtab href="/posts/2017/02/reviews/witcher2-review/" text="<span class='link-color'>The Witcher 2</span>" >}}
   * Sunday, February 5, 2017, 3:10 AM
-* Dear Ester
+* {{< newtab href="/posts/2017/02/reviews/dearesther-review/" text="<span class='link-color'>Dear Ester</span>" >}}
   * Sunday, February 5, 2017, 6:55 PM
-* Batman Arkham Asylum
+* {{< newtab href="/posts/2017/05/reviews/batmanarkhamasylum-review/" text="<span class='link-color'>Batman Arkham Asylum</span>" >}}
   * Sunday, May 21, 2017, 12:17 AM
 * Battlefield 1 Single Player
   * Saturday, July 1, 2017, 5:54 PM
-* Wolfenstein The New Order
+* {{< newtab href="/posts/2017/07/reviews/wolfensteinneworder-review/" text="<span class='link-color'>Wolfenstein The New Order</span>" >}}
   * Tuesday, July 4, 2017, 2:00 PM
-* Max Payne 3
+* {{< newtab href="/posts/2017/07/reviews/maxpayne3-review/" text="<span class='link-color'>Max Payne 3</span>" >}}
   * Friday, July 7, 2017, 10:11 PM
-* The Incredible Adventures of Van Helsing
+* {{< newtab href="/posts/2017/11/reviews/incredibleadventuresofvanhelsing-review/" text="<span class='link-color'>The Incredible Adventures of Van Helsing</span>" >}}
   * Saturday, October 28, 2017, 9:54 PM
-* Spec Ops: The Line
+* {{< newtab href="/posts/2017/11/reviews/specopstheline-review/" text="<span class='link-color'>Spec Ops: The Line</span>" >}}
   * Saturday, November 11, 2017, 12:31 PM
 * {{< newtab href="/posts/2017/11/reviews/callofjuarezgunslinger-review/" text="<span class='link-color'>Call of Juarez Gunslinger</span>" >}}
   * Sunday, November 12, 2017, 10:58 AM
