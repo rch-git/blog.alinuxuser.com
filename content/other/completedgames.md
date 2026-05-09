@@ -3,6 +3,9 @@ title: "Completed Games"
 description: "Every game I ever completed"
 date: 2026-04-24T14:02:36
 draft: false
+cover:
+  image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/completedgames/completedgames.jpg"
+  relative: false # ← explicit for static folder images
 ---
 ### 2000 <sup>1</sup>
 * Tomb Raider 3
