@@ -62,4 +62,12 @@ Still a good game. Enjoying it.
 
 Running the game via Steam will track time. Ubisoft Connect is very bad.
 
+`Saturday, May 9, 2026, 12:50 PM CDT`
 
+Playing more.
+
+`Saturday, May 9, 2026, 2:18 PM CDT`
+
+I just saw the whole hawk getting the rabbit scene in Far Cry 4. I was very impressed by this in RDR2. Seems like Far Cry 4 did this first. In true UbiSoft fashion, it doesn't feel as polished as RDR2. Still though...credit where credit is due. So far, the open world in Far Cry 4 is quite good. I think its better than Far Cry 3.
+
+Going to edit some videos.
