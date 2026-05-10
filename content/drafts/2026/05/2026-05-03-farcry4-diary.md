@@ -96,4 +96,10 @@ Going to play for a little bit. Looks like I don't have any campaign missions av
 
 Finished the quest for Longinus. Going to play some more in a bit.
 
+`Sunday, May 10, 2026, 9:25 AM CDT`
 
+Going to play the campaign mission.
+
+`Sunday, May 10, 2026, 10:26 AM CDT`
+
+Didn't finish the main mission. Got side tracked. Going to take a little break and work on the website.
