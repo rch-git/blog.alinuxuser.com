@@ -79,3 +79,11 @@ I received JBL Quantum 100M2 in the mail. I am using those now. Will play some m
 `Saturday, May 9, 2026, 8:01 PM CDT`
 
 I don't mind this headset all. My only complaint is that the cord is a little shorter than I would have liked. Also finished a few missions. Liking the game. I think its a good game. I hope they made Far Cry 5 a lot better than this.
+
+`Saturday, May 9, 2026, 8:41 PM CDT`
+
+Another session.
+
+`Saturday, May 9, 2026, 9:29 PM CDT`
+
+Stopping for now. Will play more tomorrow. Its been a fun game.
