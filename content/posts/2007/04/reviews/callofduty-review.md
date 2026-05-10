@@ -3,6 +3,9 @@ title: 'Call of Duty Review'
 date: 2007-04-03T00:00:00
 draft: false
 tags: ["game review", "call of duty"]
+cover:
+  image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/callofduty-review/01-callofduty-review.jpg"
+  relative: false # ← explicit for static folder images
 ---
 _I finished this game on `Thursday, February 1, 2007, 4:56:00 PM`. This review was published on GameSpot on April 03, 2007._
 
