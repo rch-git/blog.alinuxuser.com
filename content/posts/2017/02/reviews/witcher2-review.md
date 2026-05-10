@@ -3,20 +3,16 @@ title: 'Witcher 2 (PC) Review'
 date: 2017-02-11T20:49:00
 draft: false
 tags: ["game review", "witcher"]
+cover:
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/witcher2_review/01_witcher2-2017-02-05%2003-03-54-08-1.jpg"
+  #made with chatgpt
+  relative: false # ← explicit for static folder images
 ---
 I played the GOG version. I would recommend this over the Steam version because it has no DRM. I purchased it for $5.99. I think it is well worth the price.
 
 The Witcher 2 has done a lot of things better than the original. It is an overall polished game. This also meant that it is much more mainstream, and some elements are made with the consoles in mind.
 
 Combat received a much needed overhaul. It is more free flowing, and it an overall better experience. It has some quirks, such as the target locking system, which can be unwieldy at times, especially when multiple enemies attack in a very narrow corridor. Combat styles are gone, and there is much reliance on dodging and using signs. I enjoyed this system a lot more compared to the first game.
-
-{{<
-    figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/witcher2_review/01_witcher2-2017-02-05%2003-03-54-08.jpg"
-    align="center"
-    caption="Letho"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/witcher2_review/01_witcher2-2017-02-05%2003-03-54-08.jpg"
->}}
 
 Story picks up where the first game left off. It has a lot of very interesting side quests, and the main quest sets itself up for the next game. I am looking forward to playing The Witcher 3.
 

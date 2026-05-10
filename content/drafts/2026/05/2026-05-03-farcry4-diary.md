@@ -103,3 +103,19 @@ Going to play the campaign mission.
 `Sunday, May 10, 2026, 10:26 AM CDT`
 
 Didn't finish the main mission. Got side tracked. Going to take a little break and work on the website.
+
+`Sunday, May 10, 2026, 11:38 AM CDT`
+
+Worked on the website. Got some coffee. Ready to play some more. Its a rainy day outside. Want to get lost in Far Cry 4.
+
+`Sunday, May 10, 2026, 12:22 PM CDT`
+
+Played the main mission. Went with the girl character. Dedcided to protect the opimum fields instead of burning them. Should have gone with the guy character. Guy character was big mad I didn't burn the fields. Oh well. Got a phone call from family.
+
+`Sunday, May 10, 2026, 1:28 PM CDT`
+
+Going to play some more now.
+
+`Sunday, May 10, 2026, 2:34 PM CDT`
+
+Stopping for the day. Going to work on the website. Also, I think Longinus is going to turn into a villain. Let's see if I am right.
