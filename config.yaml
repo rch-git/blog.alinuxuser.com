@@ -92,13 +92,13 @@ params:
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
-    buttons:
-      - name: Archives
-        url: archives
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+    #buttons:
+      #- name: Archives
+        #url: archives
+      #- name: Posts
+        #url: posts
+      #- name: Tags
+        #url: tags
 
   # home-info mode
   homeInfoParams:
