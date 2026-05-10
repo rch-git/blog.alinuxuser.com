@@ -87,3 +87,13 @@ Another session.
 `Saturday, May 9, 2026, 9:29 PM CDT`
 
 Stopping for now. Will play more tomorrow. Its been a fun game.
+
+#### Sunday, May 10, 2026, 7:51 AM CDT
+
+Going to play for a little bit. Looks like I don't have any campaign missions available. I think I have to do some missions for Longinus. I am going to do that now. I finally got some good weapons.
+
+`Sunday, May 10, 2026, 8:40 AM CDT`
+
+Finished the quest for Longinus. Going to play some more in a bit.
+
+
