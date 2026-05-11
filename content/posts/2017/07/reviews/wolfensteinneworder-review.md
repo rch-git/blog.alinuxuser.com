@@ -3,6 +3,9 @@ title: "Wolfenstein: The New Order (PC) Review"
 date: 2017-07-08T22:22:00
 draft: false
 tags: ["game review", "wolfenstein"]
+cover:
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/wolfensteinneworder_review/04_wolfensteinneworder.jpg"
+  relative: false # ← explicit for static folder images
 ---
 The last Wolfenstein game I played was the 2009’s Wolfenstein developed by Raven Software and published by Activision. It was a fairly underwhelming experience, and it did not do well commercially, which resulted in layoffs, and the rights to this franchise were sold to Bethesda Softworks.
 
