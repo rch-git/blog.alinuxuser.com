@@ -41,8 +41,11 @@ sysuser@ubuntuprod:~/git/alinuxuser (dev -> origin/dev)$ hugo new drafts/2023/12
 
 ##### ONE LINE COMMAND TO PUSH CHANGES TO MASTER AND SWITCH BACK #####
 # run this from the root directory
-git checkout master && git pull && git merge dev && git push && git checkout dev
-git checkout master && git pull && git merge --squash dev && git commit -m "Squash merge dev" && git push && git checkout dev
+# git checkout master && git pull && git merge dev && git push && git checkout dev
+# git checkout master && git pull && git merge --squash dev && git commit -m "Squash merge dev" && git push && git checkout dev
+
+git checkout master && git fetch && git reset --hard origin/master && git read-tree --reset -u dev && git commit -m "Squash merge dev" --allow-empty && git push --force && git checkout dev
+
 # force dev into master, push to origin
 git checkout master && git fetch && git reset --hard origin/dev && git push --force && git checkout dev
 

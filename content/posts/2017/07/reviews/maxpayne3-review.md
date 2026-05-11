@@ -3,6 +3,9 @@ title: 'Max Payne 3 (PC) Review'
 date: 2017-07-14T22:04:00
 draft: false
 tags: ["game review", "max payne"]
+cover:
+  image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/maxpayne3-review/01-maxpayne3-review.jpg"
+  relative: false # ← explicit for static folder images
 ---
 I was looking forward to a sequel to Max Payne 2 for many years. When Max Payne 3 was announced, I eagerly waited for the reviews. They confirmed what I had suspected, this game deviated quite a bit from the classic Max Payne games. This was disappointing for me, so I did not buy it at launch. I picked it up on a sale for $3.99.
 

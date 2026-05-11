@@ -3,6 +3,9 @@ title: ' Batman Arkham Asylum (PC) Review'
 date: 2017-05-21T15:26:00
 draft: false
 tags: ["game review", "batman"]
+cover:
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/batmanarkhamasylum_review/03-batmanarkhamasylum-review.jpg"
+  relative: false # ← explicit for static folder images
 ---
 This is the first comic book based video game I played to completion. There are a lot of things to like about Arkham Asylum, but it has the usual console game design flaws.
 

@@ -3,6 +3,9 @@ date: 2022-10-10T06:34:00
 draft: false
 title: 'F.E.A.R Extraction Point (PC) Review'
 tags: ["game review", "fear"]
+cover:
+  image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/fearextractionpoint-review/01-fearextractionpoint-review.jpg"
+  relative: false # ← explicit for static folder images
 ---
 F.E.A.R Extraction Point is the first of the two expansions for F.E.A.R. It is developed by Timegate Studios and released in October 2006, about a year after the first game. This is an excellent expansion pack to a great horror game. It looks better, and plays better than F.E.A.R for the most part.
 
