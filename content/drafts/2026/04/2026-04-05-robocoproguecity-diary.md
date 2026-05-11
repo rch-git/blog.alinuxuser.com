@@ -3,7 +3,7 @@ date: 2026-04-18T10:58:56
 draft: false
 title: 'RoboCop Rogue City Diary'
 ---
-##### Apr 05, 2026 Sunday 03:29:01 PM
+#### Apr 05, 2026 Sunday 03:29:01 PM
 
 Going to play some more today. Was supposed to work on some slides for a presentation, but I cannot work on it now because I need input from others.
 
@@ -27,7 +27,7 @@ I am going to breeze through the rest of the game. Steam shows me that I played 
 
 When I finish this game, it will be the first game of 2026.
 
-##### Apr 17, 2026 Friday 08:48:25 PM CDT
+#### Apr 17, 2026 Friday 08:48:25 PM CDT
 
 Going to play another session. I have not played this game in a while. I want to finish this and move onto the next game. I am trying a live blogging setup. Let's see if that works well.
 
@@ -39,7 +39,7 @@ Got a phone call. Had to pause.
 
 No idea what is happening with the story.
 
-##### Apr 18, 2026 Saturday 03:26:32 PM CDT
+#### Apr 18, 2026 Saturday 03:26:32 PM CDT
 
 Finish writing some unrelated content and published it. I will play some more now.
 
