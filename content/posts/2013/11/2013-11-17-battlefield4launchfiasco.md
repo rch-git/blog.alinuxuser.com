@@ -145,4 +145,36 @@ So here is the bottomline, I will not pre order the next Battlefield game (rest 
 
 _I hope someone at EA who is in a position to change things will read this, and hopefully put out better games. Its unlikely, but no harm in trying. I also hope that we all will remember this when the next Battlefield game is announced._
 
+#### Comments
+```
+George Mortimer
+November 17, 2013 at 7:25 PM
+
+I empathise but didn't BF3 ship with a shed load of faults. I remember nights of frustration with that godawful browser. Maybe this should've been the one to boycott.
+```
+---
+```
+RC
+November 17, 2013 at 8:22 PM
+
+I agree. In fact I remember BF3 having tons of problems with the game itself, and not just Battlelog. I have to admit I have started liking Battlelog, but my problem isn't with that at all.
+
+They shipped the game without proper QA. That is very clear.
+```
+---
+```
+Anonymous
+November 17, 2013 at 9:09 PM
+
+This only reinforces the fact of why I do not support EA titles. I haven't bought an EA game since the Spore disaster. Game dev companies are getting lazy and expect paying customers to beta test their games.
+```
+---
+```
+RC
+November 18, 2013 at 12:13 PM
+
+Yeah, that really is what it comes down to. If they knew the product was not in a good shape, why did they release it? If they didn't know, how in the world could they not have known?
+
+Lesson learned for sure.
+```
 _This post is published on Apr 21, 2026 Tuesday 06:33:16 AM CDT_
