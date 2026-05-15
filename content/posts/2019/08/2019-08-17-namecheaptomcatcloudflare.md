@@ -283,20 +283,44 @@ This concludes Namecheap configuration. Let's proceed to Cloudflare configuratio
 
 5. At this point, Cloudflare should be able to automatically detect DNS records.
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/18-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/18-namecheaptomcatcloudflare.jpg"
+>}}
 
 6. If Cloudflare does not detect any DNS records, then add the following key records -
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/19-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/19-namecheaptomcatcloudflare.jpg"
+>}}
 
 The A records should point to the external IP address.
 
-NOTE - Ensure that Cloudflare HTTP proxy is enabled for the A records. If its not enabled, the external IP address of the app server will be public.
+> NOTE - Ensure that Cloudflare HTTP proxy is enabled for the A records. If its not enabled, the external IP address of the app server will be public.
 
 7. Save the DNS configuration.
 
 8. Access the website URL using the DNS name and port number.
 
-http://rc03.net:8080
+`http://rc03.net:8080`
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/20-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/20-namecheaptomcatcloudflare.jpg"
+>}}
 
 This concludes DNS configuration. The website is serving over HTTP. I recommend setting up TLS so that the website can be accessed using HTTPS.
 
@@ -314,60 +338,164 @@ Assuming that the router configuration is done exactly as described above, the w
 
 3. Navigate down to Origin Certificates and click on Create Certificate.
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/21-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/21-namecheaptomcatcloudflare.jpg"
+>}}
 
 4. In the next modal window, configure it as shown below -
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/22-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/22-namecheaptomcatcloudflare.jpg"
+>}}
 
-5. Select PKCS #7 as the Key Format for Origin Certificate. Copy the text, paste it into a text editor and save it as - rc03-public-cert.p7b
+5. Select PKCS #7 as the Key Format for Origin Certificate. Copy the text, paste it into a text editor and save it as - `rc03-public-cert.p7b`
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/23-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/23-namecheaptomcatcloudflare.jpg"
+>}}
 
-Copy the text for the private key, paste it into a text editor and save it as rc03-private-key.pfx
+Copy the text for the private key, paste it into a text editor and save it as `rc03-private-key.pfx`
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/24-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/24-namecheaptomcatcloudflare.jpg"
+>}}
 
 6. Start KeyStore Explorer and select the option to create a new JKS KeyStore.
 
 7. Click on Import Key Pair button, and select PKCS #8 format.
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/25-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/25-namecheaptomcatcloudflare.jpg"
+>}}
 
 8. Browse to the private key and public cert and click Import.
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/26-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/26-namecheaptomcatcloudflare.jpg"
+>}}
 
 9. Enter the alias.
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/27-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/27-namecheaptomcatcloudflare.jpg"
+>}}
 
 10. Enter the password for the key pair and click OK.
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/28-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/28-namecheaptomcatcloudflare.jpg"
+>}}
 
 This should successfully import the private key pair.
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/29-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/29-namecheaptomcatcloudflare.jpg"
+>}}
 
 11. Click on the Set KeyStore password button and set the password.
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/30-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/30-namecheaptomcatcloudflare.jpg"
+>}}
 
 12. Save the KeyStore.
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/31-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/31-namecheaptomcatcloudflare.jpg"
+>}}
 
 ##### Tomcat Configuration
 
 1. Shut down the Tomcat web server if it is running.
 
-2. Navigate to D:\MyWebsites\rc03.net\conf
+2. Navigate to `D:\MyWebsites\rc03.net\conf`
 
-3. Copy and paste the keystore file (rc03-keystore.jks) in this directory
+3. Copy and paste the keystore file `rc03-keystore.jks` in this directory
 
 4. Open server.xml in a text editor
 
 5. Navigate to SSL/TLS section, and add the following configuration -
+```
+<Connector port="8443" maxThreads="150" scheme="https" secure="true" SSLEnabled="true" keystoreFile="/conf/rc03-keystore.jks" keystorePass="keystore-password" keyPass="key-pair-password" clientAuth="false" keyAlias="rc03" sslProtocol="TLS"/>
+```
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/32-namecheaptomcatcloudflare.jpg"
+    align="center"
+    caption="server.xml with TLS configuration."
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/32-namecheaptomcatcloudflare.jpg"
+>}}
 
+6. Start the web server by running `D:\MyWebsites\rc03.net\bin\startup.bat`
 
-
-server.xml with TLS configuration.
-
-6. Start the web server by running D:\MyWebsites\rc03.net\bin\startup.bat
-
-7. Once the server is up and running, access the following URL - https://rc03.net:8443
+7. Once the server is up and running, access the following URL - `https://rc03.net:8443`
 This should be successful.
 
+{{<
+    figure
+    src="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/33-namecheaptomcatcloudflare.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://raw.githubusercontent.com/rch-git/staticcontent/refs/heads/master/images/namecheaptomcatcloudflare/33-namecheaptomcatcloudflare.jpg"
+>}}
 
 This concludes setting up TLS.
 
@@ -377,7 +505,8 @@ Once all the setup is done, the website can be as simple or complicated as neede
 
 If you found this helpful, please leave a comment.
 
-Legend
-appserver - machine that is running the web server (tomcat).
-DNS - Domain Name System. Its a way to map a name to a computer.
-TLS - Transport Layer Security. Its commonly known as SSL (Secure Socket Layer)
+##### Legend
+
+- appserver - machine that is running the web server (tomcat).
+- DNS - Domain Name System. Its a way to map a name to a computer.
+- TLS - Transport Layer Security. Its commonly known as SSL (Secure Socket Layer)
