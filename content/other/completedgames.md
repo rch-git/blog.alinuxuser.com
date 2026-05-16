@@ -9,7 +9,7 @@ cover:
   relative: false # ← explicit for static folder images
 ---
 ### 2000 <sup>1</sup>
-* Tomb Raider 3
+* {{< newtab href="/posts/2008/05/reviews/tombraider3-review/" text="<span class='link-color'>Tomb Raider 3</span>" >}}
   * Thursday, September 7, 2000, 1:30 PM
 ---
 ### 2001 <sup>1</sup>
@@ -17,7 +17,7 @@ cover:
   * Tuesday, May 29, 2001, 12:29 PM
 ---
 ### 2002 <sup>2</sup>
-* Tomb Raider 1
+* {{< newtab href="/posts/2007/11/reviews/tombraider-review/" text="<span class='link-color'>Tomb Raider</span>" >}}
   * Thursday, May 2, 2002, 12:08 PM
 * Tomb Raider 2
   * Thursday, November 28, 2002, 6:57 PM
