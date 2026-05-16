@@ -19,7 +19,7 @@ cover:
 ### 2002 <sup>2</sup>
 * {{< newtab href="/posts/2007/11/reviews/tombraider-review/" text="<span class='link-color'>Tomb Raider</span>" >}}
   * Thursday, May 2, 2002, 12:08 PM
-* Tomb Raider 2
+* {{< newtab href="/posts/2008/04/reviews/tombraider2-review/" text="<span class='link-color'>Tomb Raider II</span>" >}}
   * Thursday, November 28, 2002, 6:57 PM
 ---
 ### 2003 <sup>4</sup>
