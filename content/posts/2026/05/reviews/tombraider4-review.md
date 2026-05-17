@@ -1,5 +1,5 @@
 ---
-title: 'Tomb Raider: The Last Revelation'
+title: 'Tomb Raider: The Last Revelation (PC) Review'
 date: 2026-05-16T06:38:44
 draft: false
 tags: ["game review", "tomb raider"]
@@ -8,7 +8,7 @@ cover:
   caption: 'Made with ChatGPT'
   relative: false # ← explicit for static folder images
 ---
-I beat this game 25 years ago on `Tuesday, May 29, 2001, 12:29 PM`. I graduated high school, and I was on a summer break before college started, perfect time to finish the game. Play video games during the day when it was unbearably hot (+100F degrees), play cricket in the evening. Life was different back then.
+I beat this game 25 years ago on `Tuesday, May 29, 2001, 12:29 PM`. I graduated high school, and I was on a summer break before college started, perfect time to finish the game. Play video games during the day when it was unbearably hot (100F+ degrees), play cricket in the evening. Life was different back then.
 
 This was the second game I ever played - Tomb Raider III being the first. If I remember correctly, I got a copy of the game from a friend. I played this game on a Intel Celron PC with 32MB RAM, 4GB hard drive, running Windows 98. There was no dedicated video card. It will be a few years before I acquire my first GPU -- Inno 3d Nvidia GeForce 2 MX.
 
@@ -24,26 +24,29 @@ I am going to talk about the game from the perspective of someone who played it 
 {{< youtube IwB9DPcQD2w >}}
 </p>
 
+Tomb Raider III was a tough game to start my Tomb Raider journey. I did not realize this at the time, but it is infamous for its difficulty. I just assumed that Tomb Raider games were _supposed_ to be so difficult. I needed a walkthrough for that game from the get go. My 17 year old non gamer brain just couldn't figure out the puzzles. Tomb Raider IV is not quite as difficult. I gained some experience at this point, and I was able to make my way through the levels initially without too much difficulty.
+
+However, there are some levels that are notoriously bad for arbitrary design. Towards the end, especially levels with underwater puzzles, and guardians that cannot be killed, it was a total nightmare. Back then, without a video walkthrough, you had to read the walkthrough, memorize it to the best of your ability, and try to figure out solution to the puzzles.
+
 Graphics received some improvements. This is one of those games where the art style, and music are so good that graphics fidelity does not matter too much. This really _feels_ like a Tomb Raider game because of the setting -- literally in tombs for the most part. This is a departure from the previous two games, where the definition of a tomb was stretched very thin. CGI cut scenes are well done, but in game cutscenes did not age well. This is especially obvious in the Cairo levels. I feel like they should have just stuck to CGI cut scenes only.
 
+#### Level Design
 
 Some of the levels are truly beautifully designed. Cleopatra's Palaces is one of the best. Burial Chambers is also a great level. That is a special level because it sets off the rest of the game.
 
+---
+
 I had to refer to a walkthrough from Game Revolution to figure out some of the puzzles. I remember the game taking close to 24 hours to finish.
 
-When I first played the game young Lara missions, I thought it was the coolest thing ever. The levels in Cambodia (Angkor Wat) were amazing. I remember the level with the vibrant green pool, and it felt like video game graphics couldn't get any better.
 
-Tomb Raider 3 was a tough game to start my Tomb Raider journey. I did not realize this at the time, but it is infamous for its difficulty. I managed to beat the game with the help of a walkthrough. I needed a walkthrough for the later levels of Tomb Raider 4. Most of the initial levels in TR4 were fine. They were a little difficult, but nothing crazy. Towards the end, especially levels with underwater puzzles, it was a total nightmare. Back then, without a video walkthrough, you had to read the walkthrough, memorize it to the best of your ability, and try to figure out solution to the puzzles. Sometimes, the walkthrough could describe exactly what is needed, and you could still get lost. The chess game, puzzles in the Giza levels were particularly difficult. Also Lost Library, and the Chamber of Tulun were particularly difficult. One of the things that made this game difficult is the amount of backtracking. Unlike the previous games, there is a significant amount of backtracking involved, and the game does not have a map as such, or any objectives. You load into a level, and you get to figure out what the game wants you to do. This was definitely very frustrating. Some of the puzzles are completely arbitrary. There is no way I could have figured out what the developers wanted to me to, there was nothing intuitive about the solution. You just had to know what you to do. Even if I tried guessing, I never would have guessed the solution. This is somewhat similar to the game design in Tomb Raider 3 - difficulty because of arbitrary puzzles.
+Tomb Raider 3 was a tough I managed to beat the game with the help of a walkthrough. I needed a walkthrough for the later levels of Tomb Raider 4. Most of the initial levels in TR4 were fine. They were a little difficult, but nothing crazy.
+Sometimes, the walkthrough could describe exactly what is needed, and you could still get lost. The chess game, puzzles in the Giza levels were particularly difficult. Also Lost Library, and the Chamber of Tulun were particularly difficult. One of the things that made this game difficult is the amount of backtracking. Unlike the previous games, there is a significant amount of backtracking involved, and the game does not have a map as such, or any objectives. You load into a level, and you get to figure out what the game wants you to do. This was definitely very frustrating. Some of the puzzles are completely arbitrary. There is no way I could have figured out what the developers wanted to me to, there was nothing intuitive about the solution. You just had to know what you to do. Even if I tried guessing, I never would have guessed the solution. This is somewhat similar to the game design in Tomb Raider 3 - difficulty because of arbitrary puzzles.
 
 Graphics for its time were excellent. It is noticeably better than Tomb Raider 3.
 
 
 
 Level design in this game ranges from perfection to awful. There is also the Times Exclusive level. This is a mini adventure that explores the Tutankhamun's tomb. The Tomb of Seth, Burial Chambers, Cleopatra's Palaces, and my least favorite are the Cairo levels. The rest of the levels fall somewhere between these two extremes.
-
-
-
-https://www.gog.com/en/game/tomb_raider_iv_vi_remastered
 
 I would not pay the current asking price of $29.99. I would wait for a sale and pick it up for less.
 
