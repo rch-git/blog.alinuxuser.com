@@ -1,16 +1,16 @@
 ---
 title: 'Tomb Raider: The Last Revelation (PC) Review'
 date: 2026-05-16T06:38:44
-draft: true
+draft: false
 tags: ["game review", "tomb raider"]
 cover:
-  image: "https://pub-547199c383d84d3aaunkillable ec67970e5758c08.r2.dev/tombraider4-review/02-tombraider4-review.jpg"
+  image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/tombraider4-review/02-tombraider4-review.jpg"
   caption: 'Made with ChatGPT'
   relative: false # ← explicit for static folder images
 ---
-I beat this game 25 years ago on `Tuesday, May 29, 2001, 12:29 PM`. I graduated high school and was on a summer break before college started. It was the perfect time to finish the game. I would play video games during the day when it was unbearably hot (100F+ degrees) and play cricket in the evening. Life was different back then.
+I beat this game almost 25 years ago on `Tuesday, May 29, 2001, 12:29 PM`. I graduated high school and was on a summer break before college started. It was the perfect time to finish the game. I would play video games during the day when it was unbearably hot (100F+ degrees) and play cricket in the evening. Life was different back then.
 
-This was the second game I ever played -- Tomb Raider III being the first. If I remember correctly, I got a copy of the game from a friend. I played this game on a Intel Celron PC with 32MB RAM, 4GB hard drive, running Windows 98. There was no dedicated video card. It would be a few years before I acquire my first GPU -- an Inno 3D Nvidia GeForce 2 MX.
+This was the second game I ever played -- Tomb Raider III being the first. If I remember correctly, I got a copy of the game from a friend. I played this game on a Intel Celron PC with 16MB RAM, 2GB hard drive, running Windows 98. There was no dedicated video card. It would be a few years before I acquire my first GPU -- an Inno 3D Nvidia GeForce 2 MX.
 
 Tomb Raider IV: The Last Revelation opens in an interesting way. It begins with a young Lara Croft on an adventure in Cambodia, which doubles as a tutorial. For the first time in the series, Croft Manor is absent. I wasn’t a fan of that change. The tutorial levels also cannot be skipped. They’re enjoyable the first time through, but not great on replays because of the game’s slower pacing. I’m still not sure why the developers chose that route. I do like the idea of an origin story for Lara, but I wish it had been handled a little differently -- especially when replaying today.
 
@@ -28,7 +28,7 @@ Without GameRevolution.com, I never would have finished the classic Tomb Raider 
 
 There is also quite a bit of backtracking. None of the previous games had this kind of level design. It can be a hit or miss. I did not mind this in Karnak and Alexandria, but the Cairo levels were especially hard to navigate. You just _had_ to know what the developers were thinking. If this were a modern game, all the levels would be one gigantic map with different sections, as opposed to multiple levels, but there was no way console hardware would have supported that back in the day.
 
-Graphics received some improvements. This is one of those games where the art style and music are so good that graphics fidelity does not matter too much. This really _feels_ like a Tomb Raider game because of the setting is literally in tombs for the most part. This is a departure from the previous two games, where the definition of a tomb was stretched very thin. CGI cutscenes are well done, but in-game cutscenes did not age well. I feel like they should have just stuck to CGI cutscenes only.
+Graphics received some improvements. This is one of those games where the art style and music are so good that graphics fidelity does not matter too much. This really _feels_ like a Tomb Raider game because of the setting, which is literally in tombs for the most part. This is a departure from the previous two games, where the definition of a tomb was stretched very thin. CGI cutscenes are well done, but in-game cutscenes did not age well. I feel like they should have just stuck to CGI cutscenes only.
 
 No Tomb Raider game is complete without mentioning the voice acting. It is very good. Jonell Elliott did a wonderful job. Hard for me to say which Tomb Raider had the best voice actor, but I think her voice suits Lara Croft better than the one from the reboot trilogy.
 
@@ -38,4 +38,4 @@ In conclusion, I would not say this is an all-time classic, but it's a very soli
 {{< youtube IwB9DPcQD2w >}}
 </p>
 
-I did not play the remastered versions of the game, but I heard good things about it. I would not spend the asking price of $29.99 --- pick it up on sale instead.
+I did not play the remastered version of the game, but I heard good things about it. I would not spend the asking price of $29.99 --- pick it up on sale instead.

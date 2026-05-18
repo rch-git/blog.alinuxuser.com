@@ -114,3 +114,101 @@ Here are some more screenshots -
     rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/enhancedfelinetrousersbug/07-enhancedfelinetrousersbug.jpg"
 >}}
+
+
+#### Comments
+
+skostas
+April 7, 2019 at 11:11 AM
+
+thanks a lot
+
+----
+
+Unknown
+April 19, 2019 at 2:31 PM
+
+thank you! was lost on this part
+
+----
+
+Anonymous
+July 4, 2019 at 8:05 AM
+
+Thank you! What a pain. Equally important though if you used fast travel and missed the trigger here too- you can't start the quest for the Triss because the messenger that starts that never shows up at the docks. So you have to fix that trigger in the console as well. A lot more notes about that online though seeing the popularity of romancing Triss over finding some cat pants. :)
+
+    Unknown
+    July 23, 2021 at 11:50 PM
+
+    do you have the command for it? i cant seem to find anything about how to trigger triss mission :(
+
+----
+
+Unknown
+July 16, 2019 at 7:14 PM
+
+Thank you so much for this ;)
+
+----
+
+Law
+July 26, 2019 at 10:27 AM
+
+Omg, thanks so much for this! Solve my bug dilemna
+
+----
+
+Anonymous
+February 2, 2020 at 6:05 PM
+
+Oh my god... I love you
+Thanks soooo much!!
+
+----
+
+Steffen
+February 5, 2020 at 5:18 AM
+
+Thanks!!! :)))
+
+----
+
+Anonymous
+March 6, 2020 at 9:59 AM
+
+thanks. have been looking for this
+
+----
+
+LordCrazyX3
+August 16, 2020 at 8:29 AM
+
+been searching this for so long, thanks a lot
+
+----
+
+Unknown
+September 11, 2020 at 7:44 PM
+
+Ty ty ty ty ty :)
+
+----
+
+Unknown
+January 27, 2021 at 1:33 PM
+
+Brilliant thanks for the fix.
+
+----
+
+Dudu's codpiece
+February 15, 2021 at 7:45 PM
+
+A simple solution to a stupid bug. Much appreicated.
+
+----
+
+Anonymous
+April 19, 2021 at 4:24 PM
+
+this was exactly the fix i needed. thanks!

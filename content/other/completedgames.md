@@ -9,11 +9,11 @@ cover:
   relative: false # ← explicit for static folder images
 ---
 ### 2000 <sup>1</sup>
-* {{< newtab href="/posts/2008/05/reviews/tombraider3-review/" text="<span class='link-color'>Tomb Raider 3</span>" >}}
+* {{< newtab href="/posts/2008/05/reviews/tombraider3-review/" text="<span class='link-color'>Tomb Raider III: Adventures of Lara Croft</span>" >}}
   * Thursday, September 7, 2000, 1:30 PM
 ---
 ### 2001 <sup>1</sup>
-* Tomb Raider 4
+* Tomb Raider: The Last Revelation
   * Tuesday, May 29, 2001, 12:29 PM
 ---
 ### 2002 <sup>2</sup>
@@ -27,23 +27,23 @@ cover:
   * Monday, February 3, 2003, 11:13 PM
 * Soldier of Fortune
   * Tuesday, August 26, 2003, 12:19 PM
-* Return to Castle Wolfenstein
+* {{< newtab href="/posts/2008/01/reviews/rtcw-review/" text="<span class='link-color'>Return to Castle Wolfenstein</span>" >}}
   * Saturday, September 13, 2003, 1:54 PM
 * Delta Force Land Warrior
   * Wednesday, December 17, 2003, 3:56 PM
 ---
 ### 2004 <sup>6</sup>
-* Tomb Raider Chronicles
+* {{< newtab href="/posts/2008/03/reviews/tombraiderchronicles-review/" text="<span class='link-color'>Tomb Raider Chronicles</span>" >}}
   * Thursday, March 25, 2004, 1:25 PM
 * Ghost Recon
   * Wednesday, April 14, 2004, 12:17 PM
-* Commandos: Behind Enemy Lines
+* {{< newtab href="/posts/2008/03/reviews/commandosbehindenemylines_review/" text="<span class='link-color'>Commandos: Behind Enemy Lines</span>" >}}
   * Saturday, May 1, 2004, 7:30 AM
 * Quake 2
   * Thursday, August 12, 2004, 10:12 PM
 * No One Lives Forever
   * Saturday, November 6, 2004, 2:29 PM
-* Desperados
+* {{< newtab href="/posts/2009/06/reviews/desperadoswanteddeadoralive-review/" text="<span class='link-color'>Desperados</span>" >}}
   * Tuesday, November 23, 2004, 5:23 PM
 ---
 ### 2005 <sup>5</sup>
