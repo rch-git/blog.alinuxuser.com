@@ -87,7 +87,7 @@ What I enjoyed most was the combat when the game didn’t get in its own way, th
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/06-indianajonesandthegreatcircle-review-2025_01_05_07_33_26_256.jpg"
 >}}
 
-I’m really glad this game got made. I hope they make a sequel that fixes the rough spots — especially the companion. I wouldn't mind not having any companion character at all, but if they insist on it, they should the character look and sound better, and keep out of the actual gameplay, maybe like Farah in Prince of Persia where she’s there but not constantly in your way, because it is not easy to create something in the same league as Half-Life 2, and if they can't get it right, don't even bother wasting time and resources.
+I’m really glad this game got made. I hope they make a sequel that fixes the rough spots — especially the companion. I wouldn't mind not having any companion character at all, but if they insist on it, they should make the character look and sound better, and keep out of the actual gameplay, maybe like Farah in Prince of Persia --- she’s there but not constantly in your way, because it is not easy to create something in the same league as Half-Life 2, and if they can't get it right, don't even bother wasting time and resources.
 
 Overall, fun Indiana Jones adventure that fans will enjoy, especially if you can get it cheap.
 
