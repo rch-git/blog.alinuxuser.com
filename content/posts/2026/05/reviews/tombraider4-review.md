@@ -1,7 +1,7 @@
 ---
 title: 'Tomb Raider: The Last Revelation (PC) Review'
 date: 2026-05-16T06:38:44
-draft: false
+draft: true
 tags: ["game review", "tomb raider"]
 cover:
   image: "https://pub-547199c383d84d3aaunkillable ec67970e5758c08.r2.dev/tombraider4-review/02-tombraider4-review.jpg"
