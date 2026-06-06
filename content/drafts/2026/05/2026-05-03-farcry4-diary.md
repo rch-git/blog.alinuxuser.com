@@ -132,3 +132,7 @@ Calling it a night. I will play more throughout the week. Maybe.Enjoyed the game
 
 Did not play for almost a month. Work has been insane. Next week is awful. Going to play some today and take care of some work related items later today and tomorrow. Also have to cook.
 
+Forgot where I left off. I am going to make coffee first, and then start. Going to start the game via Steam because Ubisoft's useless launcher can't even track time.
+
+Going to play while I wait for coffee to brew.
+
