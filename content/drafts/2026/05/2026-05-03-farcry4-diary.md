@@ -151,3 +151,19 @@ Going to play some more before I start making food.
 `Saturday, June 6, 2026, 2:37 PM CDT`
 
 Liberated a bell tower. Now time for food.
+
+`Saturday, June 6, 2026, 5:03 PM CDT`
+
+Finished cooking and cleaning. I am going to play some more now. 
+
+`Saturday, June 6, 2026, 6:01 PM CDT`
+
+Finished the sleeping giants mission. Going to take a little break. Enjoying the game. 
+
+`Saturday, June 6, 2026, 9:01 PM CDT`
+
+Playing again for a bit. 
+
+`Saturday, June 6, 2026, 9:55 PM CDT`
+
+Finished city of pain level. Good stealth level, but AI in Far Cry 4 is not excellent. Very easy to cheese the game. Going to eat and call it a night. Will play some more tomorrow. Next week is hellish, so I won't get a chance for a while. 
