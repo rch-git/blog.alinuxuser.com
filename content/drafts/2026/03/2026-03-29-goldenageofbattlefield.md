@@ -1,7 +1,7 @@
 ---
 title: 'Golden Age of Battlefield'
 date: 2026-03-29T21:06:00
-draft: false
+draft: true
 tags: ["games", "battlefield"]
 ---
 This is what I consider the peak era of gaming in my life. Battlefield dominated most of it. This post is try and post all my thoughts, almost 15 years after.
