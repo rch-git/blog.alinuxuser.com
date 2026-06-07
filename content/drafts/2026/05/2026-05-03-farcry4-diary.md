@@ -1,7 +1,7 @@
 ---
 title: 'Far Cry 4 Diary'
 date: 2026-05-03T16:19:18
-draft: false
+draft: true
 tags: ["game diary"]
 ---
 #### Sunday, May 3, 2026, 4:19 PM CDT
@@ -127,3 +127,43 @@ Decided to play a little bit. Had my dinner. Got my Dr. Thunder. Time to play so
 `Sunday, May 10, 2026, 7:49 PM CDT`
 
 Calling it a night. I will play more throughout the week. Maybe.Enjoyed the game. 9 hours into the game.
+
+#### Saturday, June 6, 2026, 10:18 AM CDT
+
+Did not play for almost a month. Work has been insane. Next week is awful. Going to play some today and take care of some work related items later today and tomorrow. Also have to cook.
+
+Forgot where I left off. I am going to make coffee first, and then start. Going to start the game via Steam because Ubisoft's useless launcher can't even track time.
+
+Going to play while I wait for coffee to brew.
+
+`Saturday, June 6, 2026, 11:49 AM CDT`
+
+Played the arena mission. This game was made back when it was OK to have good looking female characters in game.
+
+`Saturday, June 6, 2026, 1:28 PM CDT`
+
+Playing some more. Liberated some bases, and outposts. Going to do some campaign missions in a bit. Got to cook.
+
+`Saturday, June 6, 2026, 2:23 PM CDT`
+
+Going to play some more before I start making food.
+
+`Saturday, June 6, 2026, 2:37 PM CDT`
+
+Liberated a bell tower. Now time for food.
+
+`Saturday, June 6, 2026, 5:03 PM CDT`
+
+Finished cooking and cleaning. I am going to play some more now. 
+
+`Saturday, June 6, 2026, 6:01 PM CDT`
+
+Finished the sleeping giants mission. Going to take a little break. Enjoying the game. 
+
+`Saturday, June 6, 2026, 9:01 PM CDT`
+
+Playing again for a bit. 
+
+`Saturday, June 6, 2026, 9:55 PM CDT`
+
+Finished city of pain level. Good stealth level, but AI in Far Cry 4 is not excellent. Very easy to cheese the game. Going to eat and call it a night. Will play some more tomorrow. Next week is hellish, so I won't get a chance for a while. 
