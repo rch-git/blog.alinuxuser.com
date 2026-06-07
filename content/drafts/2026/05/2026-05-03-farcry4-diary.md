@@ -167,3 +167,9 @@ Playing again for a bit.
 `Saturday, June 6, 2026, 9:55 PM CDT`
 
 Finished city of pain level. Good stealth level, but AI in Far Cry 4 is not excellent. Very easy to cheese the game. Going to eat and call it a night. Will play some more tomorrow. Next week is hellish, so I won't get a chance for a while. 
+
+#### Sunday, June 7, 2026, 6:27 PM CDT
+
+I started updating the diary and I thought I committed the changes, but not sure what happened. The changes never made it. 
+
+Anyway, it was a fun evening. I played some more, and I also streamed on Twitch for a friend. Finished one of the fortresses. I am going to call it a day. I have a hellish week. I am going to watch some Youtube and get ready to go to bed. I could use some extra sleep today. 
