@@ -1,7 +1,7 @@
 ---
 title: 'Battlefield 4 Map Reviews'
-date: 2026-06-07T20:50:02
-draft: true
+date: 2018-11-19T00:00:00
+draft: false
 cover:
   image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/battlefield4-map-reviews/01-battlefield4-map-reviews.jpg"
   alt: 'Battlefield 4 Map Reviews'
@@ -27,6 +27,8 @@ The MAA's existence has been questioned on this map, but I think skilled chopper
 
 __Grade: A__
 
+------
+
 ### Flood Zone
 
 <p>
@@ -40,6 +42,8 @@ This is one of those maps where the levolution really changes the ground combat.
 Flood Zone mainly caters to infantry combat. The area around B and C flag is a maze and success requires good map knowledge. This is an excellent example of a 64 player map with vertical gameplay done right.
 
 __Grade: A__
+
+----
 
 ### Golmud Railway
 
@@ -55,6 +59,8 @@ D flag on this map is actually the train itself, which moves from one side of th
 
 __Grade: A__
 
+----
+
 ### Hinan Resort
 
 <p>
@@ -69,8 +75,13 @@ While I love the concept, and the ambitious design, I cannot ignore the problems
 
 __Grade: D__
 
+----
+
 ### Lancang Dam
 
+<p>
+{{< youtube kPwtTU5U_O0 >}}
+</p>
 
 - Why can the MAA from one base, shoot choppers at the other base?
 - Why is there no cover at C flag?
@@ -79,4 +90,89 @@ __Grade: D__
 - Why is the section of the map behind the dam not playable?
 - Why is the performance of the map so unpredictable?
 
-Grade: D 
+__Grade: D__
+
+----
+
+### Operation Locker
+
+<p>
+{{< youtube xOm7w9Xl5JM >}}
+</p>
+
+Yet another missed opportunity here. They could have turned the prison section from the single player campaign into a multiplayer map. The single player level had a huge outdoor area, but that's nowhere to be seen in Operation Locker.
+
+The interior has a whole section of prison cells spanning multiple levels near the C flag that are not playable. A couple of entry points from the outside into the C flag would have made this map so much better, and it could have still been appealing to those who like to play Battlefield: Call of Duty.
+
+Instead they went for a linear choke point design, which is only marginally better than Operation Metro.
+
+__Grade: F__
+
+----
+
+### Paracel Storm
+
+<p>
+{{< youtube 0lk-DYX9hes >}}
+</p>
+
+This is an absolutely beautiful map, with a great levolution event, but it is ruined by the Commander mode. Fortunately, I played on servers that turned off Commander mode.
+
+A & B points are crucial to winning the game. I am not so sure that the MAA should have been tied to point B. Given the location of the point, infantry will gather there anyway. There are other parts of the map that are relatively unpopulated. An MAA would be a great asset to fight for.
+
+Naval combat is excellent on this map. Attack boats can be very powerful. Its a well balanced map for all kinds of gameplay.
+
+__Grade: B__
+
+----
+
+### Rogue Transmission
+
+<p>
+{{< youtube nWhNSPiSEgE >}}
+</p>
+
+The dish in the center of the map is the most distinctive feature of this map. Many epic Battlefield moments took place on and around this structure.
+
+My main complaint with this map again is the fact that the gunship and MAA are tied to the same point like in Paracel Storm. Leveloution would result in invisible walls, just like in Hainan Resort.
+
+Other than these two issues, the maps plays out extremely well more often than not.
+
+__Grade: B__
+
+----
+
+### Siege of Shanghai
+
+<p>
+{{< youtube oHbQ5KD8UaI >}}
+</p>
+
+The levolution event on this map is by far the best in Battlefield 4. It changes the map in many ways. The team controlling the tower has every reason to fight and make sure its not collapsed because it gives that team the ability to travel other capture points easily.
+
+I feel this map is a great example of an urban battlefield. There is plenty of land combat and the attack boat is occasionally useful. I think this part of the gameplay was very under developed, but that didn't make the map less fun for me. Like most of the maps in the game, vertical gameplay is excellent.
+
+Using a SRAW to take out a chopper from one of the rooftops is a great feeling.
+
+__Grade: A__
+
+----
+
+### Zavod 311
+
+<p>
+{{< youtube L9ew4gPTilY >}}
+</p>
+
+Infantry combat at its best along with Flood Zone, but its more closer to my idea of a Battlefield map because of the presence of heavy armor.
+
+While the destruction on this map is fantastic, it can lead to vehicles getting stuck on broken tree trunks, invisible walls between C & D flags.
+
+It is one of those rare maps that allow every class can be useful on this map provided the player goes for the objective.
+
+__Grade: A__
+
+----
+
+## China Rising
+
