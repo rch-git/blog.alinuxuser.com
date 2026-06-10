@@ -1,7 +1,7 @@
 ---
 title: 'Battlefield 4 Map Reviews'
 date: 2018-11-19T00:00:00
-draft: false
+draft: true
 cover:
   image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/battlefield4-map-reviews/01-battlefield4-map-reviews.jpg"
   alt: 'Battlefield 4 Map Reviews'
