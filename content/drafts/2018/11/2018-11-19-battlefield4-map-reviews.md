@@ -1,7 +1,7 @@
 ---
 title: 'Battlefield 4 Map Reviews'
 date: 2018-11-19T00:00:00
-draft: false
+draft: true
 cover:
   image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/battlefield4-map-reviews/01-battlefield4-map-reviews.jpg"
   alt: 'Battlefield 4 Map Reviews'
@@ -395,6 +395,78 @@ Choppers and boats play a major role in the outdoor areas. Boat combat is great 
 The beautiful visuals and the excellent map design make this the best map in the expansion for me.
 
 __Grade: A__
+
+----
+
+## Dragon's Teeth Maps Review
+
+Review of all the maps in Dragon's Teeth exapansion.
+
+### Lumphini Garden
+
+<p>
+{{< youtube ZzXsJ2Tbt38 >}}
+</p>
+
+Set in a gigantic garden modeled after the real life Lumphini Park in Bangkok, this offers some great infantry combat. There are a few problems with the design that can lead to one side getting spawn trapped.
+
+I loved sniping on map. There are some long lines of sight and it can be an effective class to play.
+
+The area around B capture point is not well designed in my opinion. There should have been more cover, and the spawns tend to be unfair. The game will sometimes spawn the player in a tiny room across the pond, and if the point is being contested it often leads to a quick death.
+
+The scripted envvironment destruction is quite good, and the side that has control over the train tracks has the incentive to prevent the destruction. With some slight changes to the layout and some cover to move between A and B, this map could have a lot better than it is.
+
+__Grade: B__
+
+----
+
+### Pearl Market
+
+<p>
+{{< youtube 2qeoxVlsHSQ >}}
+</p>
+
+This is the best map infantry map in Battlefield for me.
+
+The layout is fantastic, and its got a complex network of lanes and indoor areas, and good map knowledge is really pays off. The vertical gameplay is fantastic, and while it is not as fun as Dawnbreaker, Siege of Shanghai or Flood Zone, its still great. I happen to like vertical gameplay, when it is done right, because it can offer a way to flank enemies and I don't have to rely on the map designer providing specific lanes to flank. I can make my own lane.
+
+This is one of the best maps to play as an aggressive recon. Spawn beacon and tugs have never been more useful. Shotguns will shine here, and for those that do not like them, this is sure to send them into a fit of rage.
+
+Slow firing ARs can still be effective, when used in the right spots. I played with the CZ-805 quite a bit, and it can be very useful when engaging enemies (even snipers) from rooftops. All in all, this fantastic map provided hours of fun.
+
+__Grade: A__
+
+----
+
+### Propaganda
+
+<p>
+{{< youtube a8os5qlrgPY >}}
+</p>
+
+We get to play in the Supreme Leader's courtyard, the PLA fight the evil imperialist American forces.
+
+This is an excellent map for infantry and tank combat, but it has the same problems as Lumphini Garden, in that it is possible for one side to overwhelm the other side and completely spawn trap them. I have not experienced this too often, but because there are very limited ways out of the spawn, teams can find themselves in a situation where they cannot get out.
+
+Not a whole lot for snipers to do here, but all other classes can be effective. Traveling between capture points is easy enough, there is adequate cover, and the quad bikes come in handy.
+
+__Grade: B__
+
+----
+
+### Sunken Dragon
+
+<p>
+{{< youtube rm7wgq86VyA >}}
+</p>
+
+The center appears to be modeled after the Sea Palace restaurant in Amsterdam. I love the fact that Battlefield 4 allowed for DICE to get creative with the level design, something that historically accurate settings don't allow for.
+
+The center and the parking garage is where all the infantry action happens. Choppers can be useful, but the low map ceiling always bothered me (I am also not a good pilot). I understand they did this to prevent players from getting on the rooftops of the buildings which have no other access points, but I would have preferred they made the rooftops accessible either through elevators or paradrop spawns. This would have allowed for a higher ceiling, and choppers can easily deal with rooftop campers. I feel that DICE missed an opportunity here.
+
+I feel DICE needed to open up the map a little bit more towards the edges to allows players to escape the base and provide some cover around the center capture point to allow for flanking. The lack of this would at times lead to unbalnced gameplay.
+
+__Grade: B__
 
 ----
 
