@@ -39,6 +39,10 @@ mv ~/git/alinuxuser/hugo.yaml ~/git/alinuxuser/config.yaml
 sysuser@ubuntuprod:~/git/alinuxuser (dev -> origin/dev)$ hugo new posts/2017/02/reviews/witcher2-review.md
 sysuser@ubuntuprod:~/git/alinuxuser (dev -> origin/dev)$ hugo new drafts/2023/12/2023-12-22-assassinscreedorigins-diary.md
 
+## Hugo server commands
+
+hugo server --port 1315
+
 ##### ONE LINE COMMAND TO PUSH CHANGES TO MASTER AND SWITCH BACK #####
 # run this from the root directory
 # git checkout master && git pull && git merge dev && git push && git checkout dev
