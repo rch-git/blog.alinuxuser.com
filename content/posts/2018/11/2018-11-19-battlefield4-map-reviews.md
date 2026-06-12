@@ -1,7 +1,7 @@
 ---
 title: 'Battlefield 4 Map Reviews'
 date: 2018-11-19T00:00:00
-draft: true
+draft: false
 cover:
   image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/battlefield4-map-reviews/01-battlefield4-map-reviews.jpg"
   alt: 'Battlefield 4 Map Reviews'
@@ -470,3 +470,194 @@ __Grade: B__
 
 ----
 
+## Final Stand Maps Review
+
+Review of all the maps in Final Stand exapansion.
+
+### Giants of Karelia
+
+<p>
+{{< youtube maLXNlavOSA >}}
+</p>
+
+This map is set in Karelia, presumably the Russian part of the region. It somewhat deviates from the theme of the expansion and presents us with a lot of greenery. This is a vehicle heavy map, with all major vehicles included. Sort of reminds me of Golmud Railway, which is always a good thing.
+
+The center capture point is set inside a mech factory, with lots of lanes, and plenty of places to hide, and an opportunity for some interesting vertical gameplay. I love playing here as an agressive recon.
+
+The rest of the map is vehicle heavy. It is also a good map for attack choppers. I've had a lot of good rounds as a tanker, gunner and AA. I am glad they included the AA, but there is only one on the map, which spawns near the center. This becomes a much contested capture point in the beginning because of this. If the enemy team has a good attack chopper pilot, and they manage to get the AA, it can be tough.
+
+__Grade: B__
+
+----
+
+### Hammerhead
+
+<p>
+{{< youtube in0CtHGr_js >}}
+</p>
+
+Beautiful map with a frozen lake and a couple of research facilities (I think) in the center.
+
+This large map is excellent for choppers and land vehicles. Tanks and LAVs are great for the outdoors, and attack choppers can be very effective. There is no MAA on this map.
+
+The network of corridors connecting the research facilities is great for infantry battles. The facility seems to be built on a frozen lake, and in certain areas, the frozen surface can be broken down, and this can prevent tanks from passing through. I thought this was a neat addition to the map.
+
+__Grade: B__
+
+----
+
+### Hangar 21
+
+<p>
+{{< youtube RZBaSj-zvyw >}}
+</p>
+
+This is one of my absolute favorite maps in the entire Battlefield series, not just Battlefield 4.
+
+The complex level design in the hangar bay, the launch pods, snow covered mountain with the hangar inside it...its like a Bond movie.
+
+I would never miss an opportunity to play this map, even though there are design choices that are extremely annoying.
+
+Just like Dawnbreaker, I am not sure why jets exist on this map other than to the ram into attack choppers. Speaking of which, there is only one attack chopper on this map, and it spawns out in the open. I am fine with this because its risk vs. reward, however, because of the map layout, it is much easier to seek cover as one team compared to the other. The team that spawns closer to the mountain does not have as much cover for the attack chopper. Not sure why DICE would design the map in this manner. Also, enemy jets can follow the attack chopper all the way to their base. The stationary AA hardly seems to bother jets. Poor design of map boundaries in my opinion.
+
+However, I hadly ever played this map for vehicles but for the infantry combat in the hangar bay. Its so well desgined. The three capture points near the mountain can be their own map! It allows for so many different kinds of gameplay choices. Also, triggering the titan launch and killing enemies who are trying to make their way into the hanger from below is a lot of fun.
+
+DICE have delivered a fantastic map and a fantastic expansion as their final premium DLC.
+
+Grade: A
+
+----
+
+### Operation Whiteout
+
+<p>
+{{< youtube 8UBjq81rmY >}}
+</p>
+
+This is a large frozen desert, somewhat like Silk Road, but not as vehicle heavy. There are no tanks or jets on this map. I love the design of the interiors at B capture point. Great place to play as an aggressive recon.
+
+The map is also great for sniping. E and F capture points have some great place to setup a nest. The northwest section of the map feels like its set on a different planet. Its very beautiful.
+
+E capture point could have used more cover, but in general, this is a very well designed map.
+
+__Grade: B__
+
+----
+
+## Community Operations Map Review
+
+Review of Operation Outbreak in Community Operations expansion.
+
+### Operation Outbreak
+
+<p>
+{{< youtube yfT-a_42naY >}}
+</p>
+
+This map is designed with a lot of community feedback, and there were some great ideas submitted, and also some awful ideas. I watched the development progress from a whitebox to the final version. It was a great experience.
+
+The final result is a very well balanced map, that most infantry players would love. The temple area is very well designed. The forest area which is dense in the beginning but will get destroyed as the round progresses.
+
+Tanks and LAVs are will keep vehicle players happy, but this is mostly catered towards infantry players. Assault and Support are the best classes on this map for me. Being an engineer was handy when there is a good tank driver around, or if I was driving the tank.
+
+I thoroughly enjoyed this map. Its a fantastic effort by DICE.
+
+__Grade: A__
+
+----
+
+## CTE Maps Review
+
+Review of maps in CTE.
+
+### Golmud Railway Night
+
+<p>
+{{< youtube 1Z41BZH4TmQ >}}
+</p>
+
+I had a lot of fun on this map, but I feel this map would not have been liked by the community especially if it was played in Normal Mode. 3D spotting would absolutely ruin the experience.
+
+It is a very interesting take on this map, but I can understand why this was never released. It was a fun experiment. I had a lot of fun playing it in CTE in classic mode, but it was clear to me that it wouldn't work very well out in the public.
+
+__Grade: B__
+
+----
+
+### Infiltration of Shanghai
+
+<p>
+{{< youtube 9mBO9fHNM_s >}}
+</p>
+
+I only ever played this map once in CTE, and I have no footage of it. I regret that because I felt it would be released soon, and I was waiting to play the finished version. Little did I know that it would die in CTE.
+
+Like all night maps, this is best played in Classic Mode (without 3D spotting). It looks absolutely beautiful. There were talks about removing access to the high rises, and I felt that was a bad choice because its the high rises that seperate Siege of Shanghai from any random urban map. I couldn't wait to play in the center tower at night.
+
+Sadly I will never get to experience that.
+
+__Grade: -__
+
+----
+
+### Pearl Market Night
+
+<p>
+{{< youtube Gp1qzuczhZs >}}
+</p>
+
+This map should have been picked for Night Operations in my opinion. The presence of vehicles in night maps, combined with 3d spotting just doesn't work very well.
+
+Combat on this map was very intense, and taclights are extremely viable attachments.
+
+As a big fan of Peral Market, i so wish this map was available in the retail version of the game.
+
+__Grade: B__
+
+----
+
+## Night Operations Map Review
+
+Review of Zavod 311 Night in Night Operations expansion.
+
+### Zavod 311 Night
+
+<p>
+{{< youtube Gp1qzuczhZs >}}
+</p>
+
+I thought Zavod 311 was an excellent map. Its got a great mix of infantry and vehicle gameplay.
+
+The night version however does not work very well in my experience. Out in the public, Normal Mode ruins the gameplay. There is no tactics involved. It is possible to snipe at long range because of 3d spotting. All you have to do is shoot at dorritos.
+
+I definitely felt that the vehicles were out of place.
+
+Another bizzare design choice they made was removing the stair access to the tower at F. This meant the only way to get to the top was bvy a chopper. So if the idea is to prevent camping, why have choppers? I made no sense gameplay wise...
+
+I am glad DICE released free DLC to everyone, but from a gameplay perspective, this is not a great map for me.
+
+__Grade: C__
+
+----
+
+## Legacy Operations Map Review
+
+Review of Dragon Valley 2015 in Legacy Operations expansion.
+
+### Dragon Valley 2015
+
+<p>
+{{< youtube LmWl7NywwRQ >}}
+</p>
+
+This is it. The best map in the game. What a way to close the Battlefield 4 chapter.
+
+I was worried that DICE would pick an infantry map for this expansion. The open poll results had me a little worried because Grand Bazaar and Noshar Canals got a whole lot of votes. I do not think those are bad maps, I just did not want them remade because I could easily find servers with those maps in rotation.
+
+However, DICE had the right idea in mind when they decided that for Legacy Operations, they would pick a map from Battlefield 2. I felt that most of the maps from the game would work well because by and large, we did not have Metro like maps in that game. Strike at Karkand actually won the poll, and I would not have been unhappy with a re-imagined version of it. In hindsight, they made the a choice by not going with it because Dargon Valley 2015 turned out to be a fantastic map.
+
+I am not even sure where to begin describing this massive map. There is a large scale vehicle gameplay, and but there is also plenty to do for infantry. It just goes to show how well they designed it. There are 8 flag points on this map! It is the ideal Battlefield map for me. Sniping is a very viable on this map. The TDM version of this map is a re-imagined version of Noshar Canals from Battlefield 3.
+
+As I wait for Battlefield 2018 to be revealed, I am hoping DICE can make a game with more maps like this.
+
+__Grade: A__
