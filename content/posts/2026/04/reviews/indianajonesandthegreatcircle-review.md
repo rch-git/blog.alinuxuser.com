@@ -91,4 +91,4 @@ I’m really glad this game got made. I hope they make a sequel that fixes the r
 
 Overall, fun Indiana Jones adventure that fans will enjoy, especially if you can get it cheap.
 
-__Verdict: Buy it one sale.__
+__Verdict: Buy it on sale.__
