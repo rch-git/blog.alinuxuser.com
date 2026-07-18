@@ -188,4 +188,6 @@ Can't believe I hadn't played this game for a month. Playing a little bit today.
 
 `Saturday, July 18, 2026, 6:27 PM CDT`
 
-The Shangri-La mission is pretty crazy. Very much a Far Cry mission - its played in a drug induced state. 
+The Shangri-La mission is pretty crazy. Very much a Far Cry mission - its played in a drug induced state. I can't record videos like I used to anymore because storage is so expensive. A 22TB drive used to cost $230 about a year ago, and it is now $629. I have to be careful about using up the storage on my nas. 
+
+I am going to play more soon. I will get something to eat now. 
