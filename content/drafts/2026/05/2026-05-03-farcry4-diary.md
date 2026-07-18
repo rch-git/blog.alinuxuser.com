@@ -181,3 +181,8 @@ Can't believe it has been this long. I am going to play some here in a few. Life
 `Sunday, June 21, 2026, 7:58 PM CDT`
 
 Finished the brick factory mission. Went with Sabal. Amita was playing the gender card. 
+
+#### Saturday, July 18, 2026, 5:48 PM CDT
+
+Can't believe I hadn't played this game for a month. Playing a little bit today. Going to do some campaign missions. 
+
