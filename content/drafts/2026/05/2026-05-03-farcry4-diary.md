@@ -186,3 +186,6 @@ Finished the brick factory mission. Went with Sabal. Amita was playing the gende
 
 Can't believe I hadn't played this game for a month. Playing a little bit today. Going to do some campaign missions. 
 
+`Saturday, July 18, 2026, 6:27 PM CDT`
+
+The Shangri-La mission is pretty crazy. Very much a Far Cry mission - its played in a drug induced state. 
