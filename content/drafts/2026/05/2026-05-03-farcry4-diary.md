@@ -191,3 +191,9 @@ Can't believe I hadn't played this game for a month. Playing a little bit today.
 The Shangri-La mission is pretty crazy. Very much a Far Cry mission - its played in a drug induced state. I can't record videos like I used to anymore because storage is so expensive. A 22TB drive used to cost $230 about a year ago, and it is now $629. I have to be careful about using up the storage on my nas. 
 
 I am going to play more soon. I will get something to eat now. 
+
+#### Sunday, July 26, 2026, 6:59 PM CDT
+
+Passed my KCNA exam earlier this afternoon. Victory! Went grocery shopping, and now its Far Cry time. 
+
+Streamed the game a bit for a friend. Played for a couple of hours and completed 3 campaign missions, which included capturing a fort. I feel like I have sene everything I needed to see in the game. I still want to finish the game, but its not a top tier game. Enemy AI is not great. Better AI would have made this game better. 
