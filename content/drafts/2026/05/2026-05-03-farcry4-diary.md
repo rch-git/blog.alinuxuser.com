@@ -197,3 +197,15 @@ I am going to play more soon. I will get something to eat now.
 Passed my KCNA exam earlier this afternoon. Victory! Went grocery shopping, and now its Far Cry time. 
 
 Streamed the game a bit for a friend. Played for a couple of hours and completed 3 campaign missions, which included capturing a fort. I feel like I have sene everything I needed to see in the game. I still want to finish the game, but its not a top tier game. Enemy AI is not great. Better AI would have made this game better. 
+
+#### Saturday, August 1, 2026, 2:59 PM CDT
+
+Want to finish the game soon. There are so many games in my backlog. I was just irritated with Battlefield 6 and their lack of UI customization.
+
+I am going to start playing FC4 now, and make a lot of progress. 
+
+`Saturday, August 1, 2026, 3:59 PM CDT`
+
+I really dislike it when they take away your weapons and make you play a bad stealth game with instant game over state. Escape the prison camp is very boring.
+
+I want to skip this entire section. This is not how the game is meant to be played. Taking a break for a little bit.
