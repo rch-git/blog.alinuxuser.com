@@ -209,3 +209,16 @@ I am going to start playing FC4 now, and make a lot of progress.
 I really dislike it when they take away your weapons and make you play a bad stealth game with instant game over state. Escape the prison camp is very boring.
 
 I want to skip this entire section. This is not how the game is meant to be played. Taking a break for a little bit.
+
+`Saturday, August 1, 2026, 8:09 PM CDT`
+
+This mission is beyond irritating.
+
+`Saturday, August 1, 2026, 8:58 PM CDT`
+
+Finished that irritating mission. There is a spot in that mission that reminds of Tintin in Tibet comic. Very nice. Mission sucked, but the ending was nice. 
+
+Also finished the mission to capture the Kings Bridge. Will call it a day for now. 
+
+Will probably finish this game on the new computer. 
+
