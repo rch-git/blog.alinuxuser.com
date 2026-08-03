@@ -222,3 +222,14 @@ Also finished the mission to capture the Kings Bridge. Will call it a day for no
 
 Will probably finish this game on the new computer. 
 
+#### Sunday, August 2, 2026, 4:59 PM CDT
+
+Sick of Battlefield 6. Going to play Far Cry 4. Streaming for a friend. Also parts for the new PC got delayed from Amazon...this means, I won't be able to build the PC till towards the end of the week. 
+
+`Sunday, August 2, 2026, 7:02 PM CDT`
+
+Going to play some more now. 7 missions to go before I finish this game. 
+
+`Sunday, August 2, 2026, 8:11 PM CDT`
+
+Finished the last Longinus mission. He is not a bad guy. Going to take a break now. Will try to finish the game soon. Might wait till I am streaming with my friend to finish the game.
