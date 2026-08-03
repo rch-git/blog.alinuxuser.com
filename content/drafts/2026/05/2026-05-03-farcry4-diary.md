@@ -6,23 +6,23 @@ tags: ["game diary"]
 ---
 #### Sunday, May 3, 2026, 4:19 PM CDT
 
-Installing the game via UbiSoft Connect. Eew. I wish I had this game on Steam. Wouldn't have made much of a difference because I would still need UbiSoft Connect, but at least I can get reliable time tracking etc.
+Installing the game via UbiSoft Connect. Eew. I wish I had this game on Steam. Wouldn't have made much of a difference because I would still need UbiSoft Connect, but at least I could get reliable time tracking.
 
-I am looking forward to playing this game. I heard good things about it. Far Cry 3 was a good game. I don't know if UbiSoft bloat is particularly bad in this game.
+I am looking forward to playing this game. I heard good things about it. Far Cry 3 was a good game. I don't know if UbiSoft bloat is particularly bad in this one.
 
 `Sunday, May 3, 2026, 4:30 PM CDT`
 
-Finished installing. The game supports ultra wide resolution. Excellent. I am excited for it. I am not going to play today. There are things I need to finish. I will also publish some posts and prepare for work tomorrow. I will get back to this some time this week. I am taking off on 5/5 and 5/6/. Might play during those days if I get the chance.
+Finished installing. The game supports ultrawide resolution. Excellent. I am excited for it. I am not going to play today. There are things I need to finish. I will also publish some posts and prepare for work tomorrow. I will get back to this some time this week. I am taking off on 5/5 and 5/6. Might play during those days if I get the chance.
 
 #### Tuesday, May 5, 2026, 9:10 AM CDT
 
-Going to start the game and play for a little bit. I took the day off today for some medical stuff. Have to leave at 12PM to head to the city. Will play for a little bit.
+Going to start the game and play for a little bit. I took the day off today for some medical stuff. Have to leave at 12 PM to head to the city. Will play for a little bit.
 
 `Tuesday, May 5, 2026, 9:51 AM CDT`
 
-So many intro logos. Can't skip. Will try to find a way to skip them, but considering this is on Ubisoft Connect, it might not be as straight forward as Steam.
+So many intro logos. Can't skip them. Will try to find a way to skip them, but considering this is on Ubisoft Connect, it might not be as straightforward as Steam.
 
-Going to stop for now. Will play more later in the evening afer I am back from the city.
+Going to stop for now. Will play more later in the evening after I am back from the city.
 
 #### Thursday, May 7, 2026, 7:47 PM CDT
 
@@ -30,7 +30,7 @@ Time to play some more. I finished mowing the lawn. I am tired, but I want to pl
 
 `Thursday, May 7, 2026, 8:28 PM CDT`
 
-Finished the prologue and started the first mission. Went to the main hub area. Its weird that the game switches between hindi and english. Going to take a break now. I am too tired to play.
+Finished the prologue and started the first mission. Went to the main hub area. It's weird that the game switches between Hindi and English. Going to take a break now. I am too tired to play.
 
 `Friday, May 8, 2026, 6:48 PM CDT`
 
@@ -50,13 +50,13 @@ Woke up pretty early but spent time on infinitebacklog.net instead. I got my cof
 
 `Saturday, May 9, 2026, 9:53 AM CDT`
 
-Added the game on Steam. Going to try launching it via Steam and see if the launch options persist. The ingame menu shows the time spent. Going to play some more now.
+Added the game on Steam. Going to try launching it via Steam and see if the launch options persist. The in-game menu shows the time spent. Going to play some more now.
 
 `Saturday, May 9, 2026, 10:40 AM CDT`
 
-Finished one of the missions. Given a choice of a missions between the girl boss character and the wimpy guy character. Went with the guy.
+Finished one of the missions. Given a choice of missions between the girl boss character and the wimpy guy character. Went with the guy.
 
-Map scrolling is very bad. Unskippable cut scenes. Super boring. Loot management is lame. Constantly keep running out of room because a feather takes the same room as an animal skin. Not weight based.
+Map scrolling is very bad. Unskippable cutscenes. Super boring. Loot management is lame. Constantly keep running out of room because a feather takes the same room as an animal skin. Not weight based.
 
 Still a good game. Enjoying it.
 
@@ -68,17 +68,17 @@ Playing more.
 
 `Saturday, May 9, 2026, 2:18 PM CDT`
 
-I just saw the whole hawk getting the rabbit scene in Far Cry 4. I was very impressed by this in RDR2. Seems like Far Cry 4 did this first. In true UbiSoft fashion, it doesn't feel as polished as RDR2. Still though...credit where credit is due. So far, the open world in Far Cry 4 is quite good. I think its better than Far Cry 3.
+I just saw the whole hawk getting the rabbit scene in Far Cry 4. I was very impressed by this in RDR2. Seems like Far Cry 4 did this first. In true UbiSoft fashion, it doesn't feel as polished as RDR2. Still though, credit where credit is due. So far, the open world in Far Cry 4 is quite good. I think it's better than Far Cry 3.
 
 Going to edit some videos.
 
 `Saturday, May 9, 2026, 6:43 PM CDT`
 
-I received JBL Quantum 100M2 in the mail. I am using those now. Will play some more. Got my Dr. Thunder ready. Lets play!
+I received the JBL Quantum 100M2 in the mail. I am using those now. Will play some more. Got my Dr. Thunder ready. Let's play!
 
 `Saturday, May 9, 2026, 8:01 PM CDT`
 
-I don't mind this headset all. My only complaint is that the cord is a little shorter than I would have liked. Also finished a few missions. Liking the game. I think its a good game. I hope they made Far Cry 5 a lot better than this.
+I don't mind this headset at all. My only complaint is that the cord is a little shorter than I would have liked. Also finished a few missions. Liking the game. I think it's a good game. I hope they made Far Cry 5 a lot better than this.
 
 `Saturday, May 9, 2026, 8:41 PM CDT`
 
@@ -86,7 +86,7 @@ Another session.
 
 `Saturday, May 9, 2026, 9:29 PM CDT`
 
-Stopping for now. Will play more tomorrow. Its been a fun game.
+Stopping for now. Will play more tomorrow. It's been a fun game.
 
 #### Sunday, May 10, 2026, 7:51 AM CDT
 
@@ -102,15 +102,15 @@ Going to play the campaign mission.
 
 `Sunday, May 10, 2026, 10:26 AM CDT`
 
-Didn't finish the main mission. Got side tracked. Going to take a little break and work on the website.
+Didn't finish the main mission. Got sidetracked. Going to take a little break and work on the website.
 
 `Sunday, May 10, 2026, 11:38 AM CDT`
 
-Worked on the website. Got some coffee. Ready to play some more. Its a rainy day outside. Want to get lost in Far Cry 4.
+Worked on the website. Got some coffee. Ready to play some more. It's a rainy day outside. Want to get lost in Far Cry 4.
 
 `Sunday, May 10, 2026, 12:22 PM CDT`
 
-Played the main mission. Went with the girl character. Dedcided to protect the opimum fields instead of burning them. Should have gone with the guy character. Guy character was big mad I didn't burn the fields. Oh well. Got a phone call from family.
+Played the main mission. Went with the girl character. Decided to protect the opium fields instead of burning them. Should have gone with the guy character. Guy character was big mad I didn't burn the fields. Oh well. Got a phone call from family.
 
 `Sunday, May 10, 2026, 1:28 PM CDT`
 
@@ -126,7 +126,7 @@ Decided to play a little bit. Had my dinner. Got my Dr. Thunder. Time to play so
 
 `Sunday, May 10, 2026, 7:49 PM CDT`
 
-Calling it a night. I will play more throughout the week. Maybe.Enjoyed the game. 9 hours into the game.
+Calling it a night. I will play more throughout the week. Maybe. Enjoyed the game. 9 hours into the game.
 
 #### Saturday, June 6, 2026, 10:18 AM CDT
 
@@ -142,7 +142,7 @@ Played the arena mission. This game was made back when it was OK to have good lo
 
 `Saturday, June 6, 2026, 1:28 PM CDT`
 
-Playing some more. Liberated some bases, and outposts. Going to do some campaign missions in a bit. Got to cook.
+Playing some more. Liberated some bases and outposts. Going to do some campaign missions in a bit. Got to cook.
 
 `Saturday, June 6, 2026, 2:23 PM CDT`
 
@@ -154,55 +154,55 @@ Liberated a bell tower. Now time for food.
 
 `Saturday, June 6, 2026, 5:03 PM CDT`
 
-Finished cooking and cleaning. I am going to play some more now. 
+Finished cooking and cleaning. I am going to play some more now.
 
 `Saturday, June 6, 2026, 6:01 PM CDT`
 
-Finished the sleeping giants mission. Going to take a little break. Enjoying the game. 
+Finished the sleeping giants mission. Going to take a little break. Enjoying the game.
 
 `Saturday, June 6, 2026, 9:01 PM CDT`
 
-Playing again for a bit. 
+Playing again for a bit.
 
 `Saturday, June 6, 2026, 9:55 PM CDT`
 
-Finished city of pain level. Good stealth level, but AI in Far Cry 4 is not excellent. Very easy to cheese the game. Going to eat and call it a night. Will play some more tomorrow. Next week is hellish, so I won't get a chance for a while. 
+Finished city of pain level. Good stealth level, but AI in Far Cry 4 is not excellent. Very easy to cheese the game. Going to eat and call it a night. Will play some more tomorrow. Next week is hellish, so I won't get a chance for a while.
 
 #### Sunday, June 7, 2026, 6:27 PM CDT
 
-I started updating the diary and I thought I committed the changes, but not sure what happened. The changes never made it. 
+I started updating the diary and I thought I committed the changes, but not sure what happened. The changes never made it.
 
-Anyway, it was a fun evening. I played some more, and I also streamed on Twitch for a friend. Finished one of the fortresses. I am going to call it a day. I have a hellish week. I am going to watch some Youtube and get ready to go to bed. I could use some extra sleep today. 
+Anyway, it was a fun evening. I played some more, and I also streamed on Twitch for a friend. Finished one of the fortresses. I am going to call it a day. I have a hellish week. I am going to watch some YouTube and get ready to go to bed. I could use some extra sleep today.
 
 #### Sunday, June 21, 2026, 7:11 PM CDT
 
-Can't believe it has been this long. I am going to play some here in a few. Life has been busy. Today was a pretty busy day as well, returned from a busy day of grocery shopping. Going to play for maybe an hour or so. 
+Can't believe it has been this long. I am going to play some here in a few. Life has been busy. Today was a pretty busy day as well. Returned from a busy day of grocery shopping. Going to play for maybe an hour or so.
 
 `Sunday, June 21, 2026, 7:58 PM CDT`
 
-Finished the brick factory mission. Went with Sabal. Amita was playing the gender card. 
+Finished the brick factory mission. Went with Sabal. Amita was playing the gender card.
 
 #### Saturday, July 18, 2026, 5:48 PM CDT
 
-Can't believe I hadn't played this game for a month. Playing a little bit today. Going to do some campaign missions. 
+Can't believe I hadn't played this game for a month. Playing a little bit today. Going to do some campaign missions.
 
 `Saturday, July 18, 2026, 6:27 PM CDT`
 
-The Shangri-La mission is pretty crazy. Very much a Far Cry mission - its played in a drug induced state. I can't record videos like I used to anymore because storage is so expensive. A 22TB drive used to cost $230 about a year ago, and it is now $629. I have to be careful about using up the storage on my nas. 
+The Shangri-La mission is pretty crazy. Very much a Far Cry mission. It's played in a drug induced state. I can't record videos like I used to anymore because storage is so expensive. A 22TB drive used to cost $230 about a year ago, and it is now $629. I have to be careful about using up the storage on my NAS.
 
-I am going to play more soon. I will get something to eat now. 
+I am going to play more soon. I will get something to eat now.
 
 #### Sunday, July 26, 2026, 6:59 PM CDT
 
-Passed my KCNA exam earlier this afternoon. Victory! Went grocery shopping, and now its Far Cry time. 
+Passed my KCNA exam earlier this afternoon. Victory! Went grocery shopping, and now it's Far Cry time.
 
-Streamed the game a bit for a friend. Played for a couple of hours and completed 3 campaign missions, which included capturing a fort. I feel like I have sene everything I needed to see in the game. I still want to finish the game, but its not a top tier game. Enemy AI is not great. Better AI would have made this game better. 
+Streamed the game a bit for a friend. Played for a couple of hours and completed 3 campaign missions, which included capturing a fort. I feel like I have seen everything I needed to see in the game. I still want to finish the game, but it's not a top tier game. Enemy AI is not great. Better AI would have made this game better.
 
 #### Saturday, August 1, 2026, 2:59 PM CDT
 
 Want to finish the game soon. There are so many games in my backlog. I was just irritated with Battlefield 6 and their lack of UI customization.
 
-I am going to start playing FC4 now, and make a lot of progress. 
+I am going to start playing FC4 now, and make a lot of progress.
 
 `Saturday, August 1, 2026, 3:59 PM CDT`
 
@@ -216,19 +216,19 @@ This mission is beyond irritating.
 
 `Saturday, August 1, 2026, 8:58 PM CDT`
 
-Finished that irritating mission. There is a spot in that mission that reminds of Tintin in Tibet comic. Very nice. Mission sucked, but the ending was nice. 
+Finished that irritating mission. There is a spot in that mission that reminds me of Tintin in Tibet comic. Very nice. Mission sucked, but the ending was nice.
 
-Also finished the mission to capture the Kings Bridge. Will call it a day for now. 
+Also finished the mission to capture the Kings Bridge. Will call it a day for now.
 
-Will probably finish this game on the new computer. 
+Will probably finish this game on the new computer.
 
 #### Sunday, August 2, 2026, 4:59 PM CDT
 
-Sick of Battlefield 6. Going to play Far Cry 4. Streaming for a friend. Also parts for the new PC got delayed from Amazon...this means, I won't be able to build the PC till towards the end of the week. 
+Sick of Battlefield 6. Going to play Far Cry 4. Streaming for a friend. Also parts for the new PC got delayed from Amazon. This means I won't be able to build the PC till toward the end of the week.
 
 `Sunday, August 2, 2026, 7:02 PM CDT`
 
-Going to play some more now. 7 missions to go before I finish this game. 
+Going to play some more now. 7 missions to go before I finish this game.
 
 `Sunday, August 2, 2026, 8:11 PM CDT`
 
