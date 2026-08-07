@@ -237,3 +237,7 @@ Finished the last Longinus mission. He is not a bad guy. Going to take a break n
 #### Monday, August 3, 2026, 6:30 AM CDT
 
 Going to play a little bit.
+
+#### Thursday, August 6, 2026, 9:45 PM CDT
+
+Installed the on my new ArrowLake machine. Going to play some more tomorrow. 
