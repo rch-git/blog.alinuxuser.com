@@ -236,8 +236,21 @@ Finished the last Longinus mission. He is not a bad guy. Going to take a break n
 
 #### Monday, August 3, 2026, 6:30 AM CDT
 
-Going to play a little bit.
+Going to play a little bit. Getting closer to the end. Need to think about the next game. 
 
 #### Thursday, August 6, 2026, 9:45 PM CDT
 
 Installed the on my new ArrowLake machine. Going to play some more tomorrow. 
+
+#### Friday, August 7, 2026, 5:56 PM CDT
+
+Started streaming. Going to try to get to the end today. 
+
+`Friday, August 7, 2026, 6:39 PM CDT`
+
+Streamed Payback campaign mission. Had some audio glitches. 
+
+Mission is classing UbiSoft nonsense. I get to play with in a dream sequence with a bow. Don't know why they decide to take away my weapons, and make me play in the dumbest way possible. Makes no sense. 
+
+Going to play some more. 
+
