@@ -254,3 +254,6 @@ Mission is classing UbiSoft nonsense. I get to play with in a dream sequence wit
 
 Going to play some more. 
 
+`Friday, August 7, 2026, 7:40 PM CDT`
+
+Went with Sabal. Amita seemed annoying. I don't know. 5 more missions to and it appears that I have to do a bunch of dumb missions before the other campaign missions are available. Going to stop for now. Might end up buying a new CPU cooler tomorrow. 
