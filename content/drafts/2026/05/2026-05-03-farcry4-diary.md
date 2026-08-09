@@ -257,3 +257,13 @@ Going to play some more.
 `Friday, August 7, 2026, 7:40 PM CDT`
 
 Went with Sabal. Amita seemed annoying. I don't know. 5 more missions to and it appears that I have to do a bunch of dumb missions before the other campaign missions are available. Going to stop for now. Might end up buying a new CPU cooler tomorrow. 
+
+#### Sunday, August 9, 2026, 1:18 PM CDT
+
+Going to play some more. Getting very tired of this error every time I want to check in changes into my repo: 
+```
+error: object file .git/objects/c5/04d2c7f828f27ab5499fa15947362e97156618 is empty
+error: object file .git/objects/c5/04d2c7f828f27ab5499fa15947362e97156618 is empty
+```
+
+I am going to stream for a bit as well. I want to finish all the dumb missions to unlock the real missions. 
