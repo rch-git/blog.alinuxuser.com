@@ -56,7 +56,7 @@ Added the game on Steam. Going to try launching it via Steam and see if the laun
 
 Finished one of the missions. Given a choice of missions between the girl boss character and the wimpy guy character. Went with the guy.
 
-Map scrolling is very bad. Unskippable cutscenes. Super boring. Loot management is lame. Constantly keep running out of room because a feather takes the same room as an animal skin. Not weight-based.
+Map scrolling is very bad. Unskippable cutscenes. Super boring. Loot management is lame. Constantly keep running out of room because a feather takes the same room as an animal skin. Not weight based.
 
 Still a good game. Enjoying it.
 
@@ -126,4 +126,153 @@ Decided to play a little bit. Had my dinner. Got my Dr. Thunder. Time to play so
 
 `Sunday, May 10, 2026, 7:49 PM CDT`
 
-Calling it a night. I will play more throughout the week. Maybe. Enjoyed the game. 9 hours into the game
+Calling it a night. I will play more throughout the week. Maybe. Enjoyed the game. 9 hours into the game.
+
+#### Saturday, June 6, 2026, 10:18 AM CDT
+
+Did not play for almost a month. Work has been insane. Next week is awful. Going to play some today and take care of some work related items later today and tomorrow. Also have to cook.
+
+Forgot where I left off. I am going to make coffee first, and then start. Going to start the game via Steam because Ubisoft's useless launcher can't even track time.
+
+Going to play while I wait for coffee to brew.
+
+`Saturday, June 6, 2026, 11:49 AM CDT`
+
+Played the arena mission. This game was made back when it was OK to have good looking female characters in game.
+
+`Saturday, June 6, 2026, 1:28 PM CDT`
+
+Playing some more. Liberated some bases and outposts. Going to do some campaign missions in a bit. Got to cook.
+
+`Saturday, June 6, 2026, 2:23 PM CDT`
+
+Going to play some more before I start making food.
+
+`Saturday, June 6, 2026, 2:37 PM CDT`
+
+Liberated a bell tower. Now time for food.
+
+`Saturday, June 6, 2026, 5:03 PM CDT`
+
+Finished cooking and cleaning. I am going to play some more now.
+
+`Saturday, June 6, 2026, 6:01 PM CDT`
+
+Finished the sleeping giants mission. Going to take a little break. Enjoying the game.
+
+`Saturday, June 6, 2026, 9:01 PM CDT`
+
+Playing again for a bit.
+
+`Saturday, June 6, 2026, 9:55 PM CDT`
+
+Finished city of pain level. Good stealth level, but AI in Far Cry 4 is not excellent. Very easy to cheese the game. Going to eat and call it a night. Will play some more tomorrow. Next week is hellish, so I won't get a chance for a while.
+
+#### Sunday, June 7, 2026, 6:27 PM CDT
+
+I started updating the diary and I thought I committed the changes, but not sure what happened. The changes never made it.
+
+Anyway, it was a fun evening. I played some more, and I also streamed on Twitch for a friend. Finished one of the fortresses. I am going to call it a day. I have a hellish week. I am going to watch some YouTube and get ready to go to bed. I could use some extra sleep today.
+
+#### Sunday, June 21, 2026, 7:11 PM CDT
+
+Can't believe it has been this long. I am going to play some here in a few. Life has been busy. Today was a pretty busy day as well. Returned from a busy day of grocery shopping. Going to play for maybe an hour or so.
+
+`Sunday, June 21, 2026, 7:58 PM CDT`
+
+Finished the brick factory mission. Went with Sabal. Amita was playing the gender card.
+
+#### Saturday, July 18, 2026, 5:48 PM CDT
+
+Can't believe I hadn't played this game for a month. Playing a little bit today. Going to do some campaign missions.
+
+`Saturday, July 18, 2026, 6:27 PM CDT`
+
+The Shangri-La mission is pretty crazy. Very much a Far Cry mission. It's played in a drug induced state. I can't record videos like I used to anymore because storage is so expensive. A 22TB drive used to cost $230 about a year ago, and it is now $629. I have to be careful about using up the storage on my NAS.
+
+I am going to play more soon. I will get something to eat now.
+
+#### Sunday, July 26, 2026, 6:59 PM CDT
+
+Passed my KCNA exam earlier this afternoon. Victory! Went grocery shopping, and now it's Far Cry time.
+
+Streamed the game a bit for a friend. Played for a couple of hours and completed 3 campaign missions, which included capturing a fort. I feel like I have seen everything I needed to see in the game. I still want to finish the game, but it's not a top tier game. Enemy AI is not great. Better AI would have made this game better.
+
+#### Saturday, August 1, 2026, 2:59 PM CDT
+
+Want to finish the game soon. There are so many games in my backlog. I was just irritated with Battlefield 6 and their lack of UI customization.
+
+I am going to start playing FC4 now, and make a lot of progress.
+
+`Saturday, August 1, 2026, 3:59 PM CDT`
+
+I really dislike it when they take away your weapons and make you play a bad stealth game with instant game over state. Escape the prison camp is very boring.
+
+I want to skip this entire section. This is not how the game is meant to be played. Taking a break for a little bit.
+
+`Saturday, August 1, 2026, 8:09 PM CDT`
+
+This mission is beyond irritating.
+
+`Saturday, August 1, 2026, 8:58 PM CDT`
+
+Finished that irritating mission. There is a spot in that mission that reminds me of Tintin in Tibet comic. Very nice. Mission sucked, but the ending was nice.
+
+Also finished the mission to capture the Kings Bridge. Will call it a day for now.
+
+Will probably finish this game on the new computer.
+
+#### Sunday, August 2, 2026, 4:59 PM CDT
+
+Sick of Battlefield 6. Going to play Far Cry 4. Streaming for a friend. Also parts for the new PC got delayed from Amazon. This means I won't be able to build the PC till toward the end of the week.
+
+`Sunday, August 2, 2026, 7:02 PM CDT`
+
+Going to play some more now. 7 missions to go before I finish this game.
+
+`Sunday, August 2, 2026, 8:11 PM CDT`
+
+Finished the last Longinus mission. He is not a bad guy. Going to take a break now. Will try to finish the game soon. Might wait till I am streaming with my friend to finish the game.
+
+#### Monday, August 3, 2026, 6:30 AM CDT
+
+Going to play a little bit. Getting closer to the end. Need to think about the next game. 
+
+#### Thursday, August 6, 2026, 9:45 PM CDT
+
+Installed the on my new ArrowLake machine. Going to play some more tomorrow. 
+
+#### Friday, August 7, 2026, 5:56 PM CDT
+
+Started streaming. Going to try to get to the end today. 
+
+`Friday, August 7, 2026, 6:39 PM CDT`
+
+Streamed Payback campaign mission. Had some audio glitches. 
+
+Mission is classing UbiSoft nonsense. I get to play with in a dream sequence with a bow. Don't know why they decide to take away my weapons, and make me play in the dumbest way possible. Makes no sense. 
+
+Going to play some more. 
+
+`Friday, August 7, 2026, 7:40 PM CDT`
+
+Went with Sabal. Amita seemed annoying. I don't know. 5 more missions to and it appears that I have to do a bunch of dumb missions before the other campaign missions are available. Going to stop for now. Might end up buying a new CPU cooler tomorrow. 
+
+#### Sunday, August 9, 2026, 1:18 PM CDT
+
+Going to play some more. Getting very tired of this error every time I want to check in changes into my repo: 
+```
+error: object file .git/objects/c5/04d2c7f828f27ab5499fa15947362e97156618 is empty
+error: object file .git/objects/c5/04d2c7f828f27ab5499fa15947362e97156618 is empty
+```
+
+I am going to stream for a bit as well. I want to finish all the dumb missions to unlock the real missions. 
+
+`Sunday, August 9, 2026, 2:55 PM CDT`
+
+Finished the game while I was on stream with my friend. It was a good time. The end was interesting. I ended the game very abruptly. 
+
+I enjoyed the game, but the AI is very basic. 
+
+I am now looking for the next game. I am also going to work on a review for this game. I am going to close the diary for this game here. 
+
