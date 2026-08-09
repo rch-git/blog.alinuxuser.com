@@ -270,3 +270,9 @@ I am going to stream for a bit as well. I want to finish all the dumb missions t
 
 `Sunday, August 9, 2026, 2:55 PM CDT`
 
+Finished the game while I was on stream with my friend. It was a good time. The end was interesting. I ended the game very abruptly. 
+
+I enjoyed the game, but the AI is very basic. 
+
+I am now looking for the next game. I am also going to work on a review for this game. I am going to close the diary for this game here. 
+

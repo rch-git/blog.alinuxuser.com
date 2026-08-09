@@ -38,7 +38,7 @@ title: 'Gaming Backlog'
 - F.E.A.R. 3; 6h 32m
 - Fallout 4: Game of the Year Edition; 119h 53m
 - Fallout: New Vegas - Ultimate Edition; 82h 41m
-- Far Cry 4; 30h 46m
+- ~~Far Cry 4; 30h 46m~~
 - Far Cry 5; 29h 25m
 - Forza Horizon 4; 51h 40m
 - Frostpunk; 16h 9m

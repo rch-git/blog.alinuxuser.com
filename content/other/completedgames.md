@@ -415,3 +415,5 @@ cover:
   * Saturday, April 18, 2026, 4:36 PM
 * Batman Arkham Origins
   * Sunday, May 3, 2026, 3:55:00 PM
+* Far Cry 4
+  * Sunday, August 9, 2026, 2:55 PM CDT
