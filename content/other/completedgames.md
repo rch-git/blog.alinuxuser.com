@@ -410,7 +410,7 @@ cover:
 * Dishonored Death of the Outsider
   * Sunday, November 2, 2025, 1:33 PM
 ---
-### 2026 <sup>2</sup>
+### 2026 <sup>3</sup>
 * {{< newtab href="/posts/2026/04/reviews/robocoproguecity-review/" text="<span class='link-color'>RoboCop Rogue City</span>" >}}
   * Saturday, April 18, 2026, 4:36 PM
 * Batman Arkham Origins
