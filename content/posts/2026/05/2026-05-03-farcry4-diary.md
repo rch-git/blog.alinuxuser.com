@@ -56,7 +56,7 @@ Added the game on Steam. Going to try launching it via Steam and see if the laun
 
 Finished one of the missions. Given a choice of missions between the girl boss character and the wimpy guy character. Went with the guy.
 
-Map scrolling is very bad. Unskippable cutscenes. Super boring. Loot management is lame. Constantly keep running out of room because a feather takes the same room as an animal skin. Not weight based.
+Map scrolling is very bad. Unskippable cutscenes. Super boring. Loot management is lame. Constantly keep running out of room because a feather takes the same room as an animal skin. Not weight-based.
 
 Still a good game. Enjoying it.
 
@@ -130,7 +130,7 @@ Calling it a night. I will play more throughout the week. Maybe. Enjoyed the gam
 
 #### Saturday, June 6, 2026, 10:18 AM CDT
 
-Did not play for almost a month. Work has been insane. Next week is awful. Going to play some today and take care of some work related items later today and tomorrow. Also have to cook.
+Did not play for almost a month. Work has been insane. Next week is awful. Going to play some today and take care of some work-related items later today and tomorrow. Also have to cook.
 
 Forgot where I left off. I am going to make coffee first, and then start. Going to start the game via Steam because Ubisoft's useless launcher can't even track time.
 
@@ -138,7 +138,7 @@ Going to play while I wait for coffee to brew.
 
 `Saturday, June 6, 2026, 11:49 AM CDT`
 
-Played the arena mission. This game was made back when it was OK to have good looking female characters in game.
+Played the arena mission. This game was made back when it was OK to have good-looking female characters in game.
 
 `Saturday, June 6, 2026, 1:28 PM CDT`
 
@@ -188,7 +188,7 @@ Can't believe I hadn't played this game for a month. Playing a little bit today.
 
 `Saturday, July 18, 2026, 6:27 PM CDT`
 
-The Shangri-La mission is pretty crazy. Very much a Far Cry mission. It's played in a drug induced state. I can't record videos like I used to anymore because storage is so expensive. A 22TB drive used to cost $230 about a year ago, and it is now $629. I have to be careful about using up the storage on my NAS.
+The Shangri-La mission is pretty crazy. Very much a Far Cry mission. It's played in a drug-induced state. I can't record videos like I used to anymore because storage is so expensive. A 22TB drive used to cost $230 about a year ago, and it is now $629. I have to be careful about using up the storage on my NAS.
 
 I am going to play more soon. I will get something to eat now.
 
@@ -196,7 +196,7 @@ I am going to play more soon. I will get something to eat now.
 
 Passed my KCNA exam earlier this afternoon. Victory! Went grocery shopping, and now it's Far Cry time.
 
-Streamed the game a bit for a friend. Played for a couple of hours and completed 3 campaign missions, which included capturing a fort. I feel like I have seen everything I needed to see in the game. I still want to finish the game, but it's not a top tier game. Enemy AI is not great. Better AI would have made this game better.
+Streamed the game a bit for a friend. Played for a couple of hours and completed 3 campaign missions, which included capturing a fort. I feel like I have seen everything I needed to see in the game. I still want to finish the game, but it's not a top-tier game. Enemy AI is not great. Better AI would have made this game better.
 
 #### Saturday, August 1, 2026, 2:59 PM CDT
 
@@ -236,43 +236,42 @@ Finished the last Longinus mission. He is not a bad guy. Going to take a break n
 
 #### Monday, August 3, 2026, 6:30 AM CDT
 
-Going to play a little bit. Getting closer to the end. Need to think about the next game. 
+Going to play a little bit. Getting closer to the end. Need to think about the next game.
 
 #### Thursday, August 6, 2026, 9:45 PM CDT
 
-Installed the on my new ArrowLake machine. Going to play some more tomorrow. 
+Installed it on my new ArrowLake machine. Going to play some more tomorrow.
 
 #### Friday, August 7, 2026, 5:56 PM CDT
 
-Started streaming. Going to try to get to the end today. 
+Started streaming. Going to try to get to the end today.
 
 `Friday, August 7, 2026, 6:39 PM CDT`
 
-Streamed Payback campaign mission. Had some audio glitches. 
+Streamed Payback campaign mission. Had some audio glitches.
 
-Mission is classing UbiSoft nonsense. I get to play with in a dream sequence with a bow. Don't know why they decide to take away my weapons, and make me play in the dumbest way possible. Makes no sense. 
+Mission is classic UbiSoft nonsense. I get to play in a dream sequence with a bow. Don't know why they decide to take away my weapons, and make me play in the dumbest way possible. Makes no sense.
 
-Going to play some more. 
+Going to play some more.
 
 `Friday, August 7, 2026, 7:40 PM CDT`
 
-Went with Sabal. Amita seemed annoying. I don't know. 5 more missions to and it appears that I have to do a bunch of dumb missions before the other campaign missions are available. Going to stop for now. Might end up buying a new CPU cooler tomorrow. 
+Went with Sabal. Amita seemed annoying. I don't know. 5 more missions to go and it appears that I have to do a bunch of dumb missions before the other campaign missions are available. Going to stop for now. Might end up buying a new CPU cooler tomorrow.
 
 #### Sunday, August 9, 2026, 1:18 PM CDT
 
-Going to play some more. Getting very tired of this error every time I want to check in changes into my repo: 
+Going to play some more. Getting very tired of this error every time I want to check in changes into my repo:
 ```
 error: object file .git/objects/c5/04d2c7f828f27ab5499fa15947362e97156618 is empty
 error: object file .git/objects/c5/04d2c7f828f27ab5499fa15947362e97156618 is empty
 ```
 
-I am going to stream for a bit as well. I want to finish all the dumb missions to unlock the real missions. 
+I am going to stream for a bit as well. I want to finish all the dumb missions to unlock the real missions.
 
 `Sunday, August 9, 2026, 2:55 PM CDT`
 
-Finished the game while I was on stream with my friend. It was a good time. The end was interesting. I ended the game very abruptly. 
+Finished the game while I was on stream with my friend. It was a good time. The end was interesting. I ended the game very abruptly.
 
-I enjoyed the game, but the AI is very basic. 
+I enjoyed the game, but the AI is very basic.
 
-I am now looking for the next game. I am also going to work on a review for this game. I am going to close the diary for this game here. 
-
+I am now looking for the next game. I am also going to work on a review for this game. I am going to close the diary for this game here.
