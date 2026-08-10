@@ -64,3 +64,4 @@ I had never been to Dallas, and I didn't have a lot of interest in going there, 
 
 I needed to fill out the {{< newtab href="https://travel.state.gov/en/passports/apply/help/forms.html" text="DS-82" >}}. I am essentially renewing my current passport, and I will be getting the commemorative passport as a replacement.
 
+On August 4, 2026 at 8:04AM, I received a call from a number from Dallas, TX. I was on my way to work, and I generally ignore these calls, but I decided to pull over and answer the call. 
