@@ -64,4 +64,7 @@ I had never been to Dallas, and I didn't have a lot of interest in going there, 
 
 I needed to fill out the {{< newtab href="https://travel.state.gov/en/passports/apply/help/forms.html" text="DS-82" >}}. I am essentially renewing my current passport, and I will be getting the commemorative passport as a replacement.
 
-On August 4, 2026 at 8:04AM, I received a call from a number from Dallas, TX. I was on my way to work, and I generally ignore these calls, but I decided to pull over and answer the call. 
+#### August 4, 2026
+
+On August 4, 2026 at 8:04AM, I received a call from a number from Dallas, TX. I generally ignore calls from unknown numbers because of the spam call epidemic we live in, but I am glad I did not, because it was the passport office. The person on the call asked me if I could reschedule the appointment to 9AM on the same day. This was not ideal because I would have to start very early to get there, but I said yes. I was put on a spot, but this was a once in a lifetime event. I might as well commit to it. 
+
