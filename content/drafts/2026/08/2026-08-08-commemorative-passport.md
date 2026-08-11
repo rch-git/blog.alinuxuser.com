@@ -86,4 +86,4 @@ The person told us that they had a printing facility at the building and this al
 
 We were done with everything by around 930AM. Now we had a few hours to kill. 
 
-We walked around downtown Dallas. Checked out the 
+We walked around downtown Dallas. Checked out the the John F. Kennedy Memorial Plaza
