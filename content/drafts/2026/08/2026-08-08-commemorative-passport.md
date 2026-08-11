@@ -66,5 +66,24 @@ I needed to fill out the {{< newtab href="https://travel.state.gov/en/passports/
 
 #### August 4, 2026
 
-On August 4, 2026 at 8:04AM, I received a call from a number from Dallas, TX. I generally ignore calls from unknown numbers because of the spam call epidemic we live in, but I am glad I did not, because it was the passport office. The person on the call asked me if I could reschedule the appointment to 9AM on the same day. This was not ideal because I would have to start very early to get there, but I said yes. I was put on a spot, but this was a once in a lifetime event. I might as well commit to it. 
+On August 4, 2026 at 8:04AM, I received a call from a number from Dallas, TX. I generally ignore calls from unknown numbers because of the spam call epidemic we live in, but I am glad I did not, because it was the passport office. The person on the call asked me if I could reschedule the appointment to 9AM on the same day. This was not ideal because I would have to start very early to get there, but I said yes. I was put on a spot, but this was a once in a lifetime event. I might as well commit to it. Its going to be very inconvenient, but so be it. 
 
+#### August 8, 2026
+
+Left home very early in the day. It was still dark outside when we started to Dallas. Stopped at a small town gas station to pick up the obligatory Monster, specifically, White Ultra and Peach Ultra. 
+
+It was ~9AM by the time we reached downtown Dallas. Its an interesting downtown for sure. I had been there about 15 years ago in a Greyhound. I recognized the transfer station, which is now for sale. There is some sign of urban decay, but I feel like I have seen worse in places like NYC and Chicago. The passport office is located on Commerce Street in the heart of downtown. We found parking at the conveniently located parking lot right behind the federal building. Since this event was being held on a weekend, downtown was not very crowded and we found parking quite easily. It was $10 for 12 hours. Not too bad. 
+
+After we parked, we made our way to the federal building via the Commerce Street entrance. Encountered 3 homeless persons. There was a homeless person squatting close to the federal building, clearly under the influence of substances. 
+
+We entered the building, and there was a table setup right by the security to assist applicants. The lady at the table as me if I wanted to pick up my passport later in the day. I was surprised. I was told on the phone when I made the appointment that it would take up to 8 weeks. So when the lady told me that I can pick up the passport the same day, we decided to hang out in Dallas downtown. She said they will give us a call some time before 230PM that day to pick up the passport. 
+
+We were then led up the elevator to the 11th floor. I was called to a window, I made the payment. I made the mistake of applying for a passport and passport card, so this cost me $30 extra. Pointless. I should have kept the old passport card. 
+
+I paid $160 for both. I handed her my old passport, passport card, passport photograph, and I was done. Process took less than 10 minutes total. We had a security escort with us when we went to the 11th flood, and then we were led back by the same person down to the lobby. 
+
+The person told us that they had a printing facility at the building and this allowed them to print the new passport and give it to us same day. He said this is the facility for expedited passport applications. 
+
+We were done with everything by around 930AM. Now we had a few hours to kill. 
+
+We walked around downtown Dallas. Checked out the 
