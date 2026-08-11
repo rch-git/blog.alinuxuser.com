@@ -80,16 +80,20 @@ We entered the building, and there was a table setup right by the security to as
 
 We were then led up the elevator to the 11th floor. I was called to a window, I made the payment. I made the mistake of applying for a passport and passport card, so this cost me $30 extra. Pointless. I should have kept the old passport card. 
 
-I paid $160 for both. I handed her my old passport, passport card, passport photograph, and I was done. Process took less than 10 minutes total. We had a security escort with us when we went to the 11th flood, and then we were led back by the same person down to the lobby. 
+I paid $160 for both. I handed her my old passport, passport card, passport photograph, and I was done. Process took less than 10 minutes total. As we were leaving the security guard at the door gave us two goodie bags of travel.gov swag. The passport holder was made in China. We had another security escort with us when we went to the 11th flood, and then we were led back by the same person down to the lobby. 
 
 The person told us that they had a printing facility at the building and this allowed them to print the new passport and give it to us same day. He said this is the facility for expedited passport applications. 
 
-We were done with everything before 930AM. Now we had a few hours to kill. 
+We were done with everything before 930AM. Now we had a few hours to kill. I wanted to go to Micro Center and hang out there until I got the call back, but I realized that once we exited the parking lot, I would have to pay again to park when we come back to pick up the passport. I did not want to waste $10. There was another parking lot down the street https://maps.app.goo.gl/W1zEh8PqVU5gkPwB8. This parking lot lets you put the parking tag on the dash, and it looks like it is possible to exit the lot and come back. I will remember that if I ever go back to downtown. 
 
-We walked around downtown Dallas for a little bit. Checked out the the John F. Kennedy Memorial Plaza, the old historic courthouse. It was a hot day, so decided to get an iced coffee at McDonalds located next to the federal building.
+We walked around for a little bit. Checked out the the John F. Kennedy Memorial Plaza, the old historic courthouse. It was a hot day, so decided to get an iced coffee at McDonalds located next to the federal building.
 
 We sat there for a little when I received a call from a Washington D.C number. I answered it, and the lady on the phone asked me to submit a new passport picture because she said the one I gave her was the same picture used in the old passport which was issued in September 2025. I was very confused because the photo I submitted was taken on 8/7/2026. This was when I realized I was wearing the same jacket in both the pictures. I told her I took the picture last evening, and that I have the receipt from CVS. She asked me if I was wearing the same jacket, and I told her yes, and that I am wearing that same jacket right now, and I am happy to come meet her so she can see it, and also show her the receipt in person. She said she will double check and that I didn't need to come back to the passport office.
 
 I was left hoping that she would not deny my passport application based solely on the fact that she finds the old and new pictures too similar. Its not my fault that I wore the same jacket and that I did not significantly age. 
 
 We sat there for a little bit, and then went for another walk around the building, and then we found a subway with a $3.99 sandwich deal. I was saving my appetite to eat at In-N-Out. 
+
+The sandwich was good. At precisely 11AM, I received a call from the passport office and she told me that the passport was ready for pick up. I told her that I will be there very shortly. We quickly finished eating, and made our way to the passport office. I noticed that there were a lot more people in the lobby now. It appears that they narrowed down a few applicants and asked them to come in early, perhaps there was more demand than expected, and they wanted to spread out the process. As we cleared security, I was told to enter a room by the elevators. There was a desk setup, and I told the lady at the desk that I was there to pick up my passport. She directed me to another desk at the back, and the lady there handed me a America 250 envelope containing the new passport, passport card, old passport and passport card. 
+
+Definitely liked the look of the new passport compared to the old. It was a fun day, something very out of ordinary and once in a lifetime event. We took some pictures in the lobby, and made our way back to the parking lot and to Micro Center. 
