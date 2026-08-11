@@ -84,6 +84,12 @@ I paid $160 for both. I handed her my old passport, passport card, passport phot
 
 The person told us that they had a printing facility at the building and this allowed them to print the new passport and give it to us same day. He said this is the facility for expedited passport applications. 
 
-We were done with everything by around 930AM. Now we had a few hours to kill. 
+We were done with everything before 930AM. Now we had a few hours to kill. 
 
-We walked around downtown Dallas. Checked out the the John F. Kennedy Memorial Plaza
+We walked around downtown Dallas for a little bit. Checked out the the John F. Kennedy Memorial Plaza, the old historic courthouse. It was a hot day, so decided to get an iced coffee at McDonalds located next to the federal building.
+
+We sat there for a little when I received a call from a Washington D.C number. I answered it, and the lady on the phone asked me to submit a new passport picture because she said the one I gave her was the same picture used in the old passport which was issued in September 2025. I was very confused because the photo I submitted was taken on 8/7/2026. This was when I realized I was wearing the same jacket in both the pictures. I told her I took the picture last evening, and that I have the receipt from CVS. She asked me if I was wearing the same jacket, and I told her yes, and that I am wearing that same jacket right now, and I am happy to come meet her so she can see it, and also show her the receipt in person. She said she will double check and that I didn't need to come back to the passport office.
+
+I was left hoping that she would not deny my passport application based solely on the fact that she finds the old and new pictures too similar. Its not my fault that I wore the same jacket and that I did not significantly age. 
+
+We sat there for a little bit, and then went for another walk around the building, and then we found a subway with a $3.99 sandwich deal. I was saving my appetite to eat at In-N-Out. 
