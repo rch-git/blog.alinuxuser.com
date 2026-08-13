@@ -56,7 +56,7 @@ I had never been to Dallas, and I didn't have a lot of interest in going there, 
     src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/05-commemorative-passport.png"
     width="640"
     align="center"
-    caption="Dallas, TX was on the list."
+    caption="Confirmation email from state department."
     target="_blank"
     rel="noopener"
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/05-commemorative-passport.png"
@@ -110,7 +110,7 @@ I paid $160 for both. I handed her my old passport, passport card, passport phot
     src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/04-commemorative-passport.jpg"
     width="640"
     align="center"
-    caption="travel.gov swag"
+    caption="travel.state.gov swag"
     target="_blank"
     rel="noopener"
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/04-commemorative-passport.jpg"
@@ -118,7 +118,7 @@ I paid $160 for both. I handed her my old passport, passport card, passport phot
 
 The person told us that they had a printing facility at the building and this allowed them to print the new passport and give it to us same day. He said this is the facility for expedited passport applications. 
 
-We were done with everything before 930AM. Now we had a few hours to kill. I wanted to go to Micro Center and hang out there until I got the call back, but I realized that once we exited the parking lot, I would have to pay again to park when we come back to pick up the passport. I did not want to waste $10. There was another parking lot down the street https://maps.app.goo.gl/W1zEh8PqVU5gkPwB8. This parking lot lets you put the parking tag on the dash, and it looks like it is possible to exit the lot and come back. I will remember that if I ever go back to downtown. 
+We were done with everything before 930AM. Now we had a few hours to kill. I wanted to go to Micro Center and hang out there until I got the call back, but I realized that once we exited the parking lot, I would have to pay again to park when we come back to pick up the passport. I did not want to waste $10. There was another parking lot down the {{< newtab href="https://maps.app.goo.gl/W1zEh8PqVU5gkPwB8" text="street" >}}. This parking lot lets you put the parking tag on the dash, and it looks like it is possible to exit the lot and come back. I will remember that if I ever go back to downtown. 
 
 We walked around for a little bit. Checked out the the John F. Kennedy Memorial Plaza, the old historic courthouse. It was a hot day, so decided to get an iced coffee at McDonalds located next to the federal building.
 
@@ -141,4 +141,15 @@ We sat there for a little bit, and then went for another walk around the buildin
 
 The sandwich was good. At precisely 11AM, I received a call from the passport office and she told me that the passport was ready for pick up. I told her that I will be there very shortly. We quickly finished eating, and made our way to the passport office. I noticed that there were a lot more people in the lobby now. It appears that they narrowed down a few applicants and asked them to come in early, perhaps there was more demand than expected, and they wanted to spread out the process. As we cleared security, I was told to enter a room by the elevators. There was a desk setup, and I told the lady at the desk that I was there to pick up my passport. She directed me to another desk at the back, and the lady there handed me a America 250 envelope containing the new passport, passport card, old passport and passport card. 
 
-Definitely liked the look of the new passport compared to the old. It was a fun day, something very out of ordinary and once in a lifetime event. We took some pictures in the lobby, and made our way back to the parking lot and to Micro Center. 
+Definitely liked the look of the new passport compared to the old. It was a fun day, something very out of ordinary and once in a lifetime event. We took some pictures in the lobby, and made our way back to the parking lot and to Micro Center, followed by In-N-Out. 
+
+{{<
+    figure
+    src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/14-commemorative-passport.jpg"
+    width="640"
+    align="center"
+    caption="Micro Center & In-N-Out"
+    target="_blank"
+    rel="noopener"
+    link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/14-commemorative-passport.jpg"
+>}}
