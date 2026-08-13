@@ -1,7 +1,7 @@
 ---
 title: 'Acquiring the Commemorative Passport'
 date: 2026-08-09T13:16:08
-draft: true
+draft: false
 cover:
   image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/01-commemorative-passport.jpg"
   alt: 'Commemorative Passport'
@@ -23,7 +23,7 @@ Much to my surprise, on July 30, 2026, I saw this post from the Secretary of Sta
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/09-commemorative-passport.png"
 >}}
 
-They decided to make this service available across the country. 
+It appears that they decided to make this service available across the country, which is excellent. 
 
 {{<
     figure
@@ -36,7 +36,7 @@ They decided to make this service available across the country.
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/08-commemorative-passport.png"
 >}}
 
-Unfortunately, my home city was not on the list but Dallas, TX was on the list, and that was a few hours drive away from where I live. 
+Unfortunately, my home city was not on the list and the closest location is in Dallas, TX, and that was a few hours drive away from where I live. Not ideal, but at least it is in driving distance. 
 
 {{<
     figure
@@ -88,7 +88,7 @@ After we parked, we made our way to the federal building via the Commerce Street
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/10-commemorative-passport.jpg"
 >}}
 
-We entered the building, and there was a table setup right by the security to assist applicants. The lady at the table as me if I wanted to pick up my passport later in the day. I was surprised. I was told on the phone when I made the appointment that it would take up to 8 weeks. So when the lady told me that I can pick up the passport the same day, we decided to hang out in Dallas downtown. She said they will give us a call some time before 230PM that day to pick up the passport. 
+We entered the building, and there was a table setup right by the security to assist applicants. The lady at the table asked me if I wanted to pick up my passport later in the day. I was surprised because when I made the appointment I was told that it would take up to 8 weeks. We decided to hang out in Dallas downtown. She said they will give us a call some time before 2:30PM that day to pick up the passport. 
 
 {{<
     figure
@@ -105,11 +105,33 @@ We were then led up the elevator to the 11th floor. I was called to a window, I 
 
 I paid $160 for both. I handed her my old passport, passport card, passport photograph, and I was done. Process took less than 10 minutes total. As we were leaving the security guard at the door gave us two goodie bags of travel.gov swag. The passport holder was made in China. We had another security escort with us when we went to the 11th flood, and then we were led back by the same person down to the lobby. 
 
+{{<
+    figure
+    src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/04-commemorative-passport.jpg"
+    width="640"
+    align="center"
+    caption="travel.gov swag"
+    target="_blank"
+    rel="noopener"
+    link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/04-commemorative-passport.jpg"
+>}}
+
 The person told us that they had a printing facility at the building and this allowed them to print the new passport and give it to us same day. He said this is the facility for expedited passport applications. 
 
 We were done with everything before 930AM. Now we had a few hours to kill. I wanted to go to Micro Center and hang out there until I got the call back, but I realized that once we exited the parking lot, I would have to pay again to park when we come back to pick up the passport. I did not want to waste $10. There was another parking lot down the street https://maps.app.goo.gl/W1zEh8PqVU5gkPwB8. This parking lot lets you put the parking tag on the dash, and it looks like it is possible to exit the lot and come back. I will remember that if I ever go back to downtown. 
 
 We walked around for a little bit. Checked out the the John F. Kennedy Memorial Plaza, the old historic courthouse. It was a hot day, so decided to get an iced coffee at McDonalds located next to the federal building.
+
+{{<
+    figure
+    src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/13-commemorative-passport.jpg"
+    width="640"
+    align="center"
+    caption="JFK Memorial"
+    target="_blank"
+    rel="noopener"
+    link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/13-commemorative-passport.jpg"
+>}}
 
 We sat there for a little when I received a call from a Washington D.C number. I answered it, and the lady on the phone asked me to submit a new passport picture because she said the one I gave her was the same picture used in the old passport which was issued in September 2025. I was very confused because the photo I submitted was taken on 8/7/2026. This was when I realized I was wearing the same jacket in both the pictures. I told her I took the picture last evening, and that I have the receipt from CVS. She asked me if I was wearing the same jacket, and I told her yes, and that I am wearing that same jacket right now, and I am happy to come meet her so she can see it, and also show her the receipt in person. She said she will double check and that I didn't need to come back to the passport office.
 

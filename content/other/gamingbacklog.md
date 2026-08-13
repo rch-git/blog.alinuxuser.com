@@ -40,6 +40,7 @@ title: 'Gaming Backlog'
 - Fallout: New Vegas - Ultimate Edition; 82h 41m
 - ~~Far Cry 4; 30h 46m~~
 - Far Cry 5; 29h 25m
+- Far Cry Primal; 24h 50m
 - Forza Horizon 4; 51h 40m
 - Frostpunk; 16h 9m
 - Full Spectrum Warrior; 9h 31m
