@@ -9,9 +9,9 @@ cover:
   relative: false # ← explicit for static folder images
 tags: ["travel"]
 ---
-I read about the Commemorative Passport being issued by the State Department for America 250, however, this was only available at the Washington D.C field office. There was no way I was going to be able to go there to apply for one. 
+I read about the Commemorative Passport being issued by the State Department for America 250. Unfortunately, this was only available at the Washington D.C field office. There was no way I was going to be able to go there to apply for one.
 
-Much to my surprise, on July 30, 2026, I saw this post from the Secretary of State. I decided to click on it, and check out what they had planned. 
+On July 30, 2026, I saw this post from the Secretary of State. I decided to click on it, and check out what they had planned. 
 
 {{<
     figure
@@ -23,7 +23,7 @@ Much to my surprise, on July 30, 2026, I saw this post from the Secretary of Sta
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/09-commemorative-passport.png"
 >}}
 
-It appears that they decided to make this service available across the country, which is excellent. 
+Much to my surprise, it appears that they decided to make this service available across the country. Excellent.
 
 {{<
     figure
@@ -36,7 +36,7 @@ It appears that they decided to make this service available across the country, 
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/08-commemorative-passport.png"
 >}}
 
-Unfortunately, my home city was not on the list and the closest location is in Dallas, TX, and that was a few hours drive away from where I live. Not ideal, but at least it is in driving distance. 
+Unfortunately, my home city was not on the list and the closest location is in Dallas, TX, and that was a few hours drive away from where I live. Not ideal, but at least it is in driving distance.
 
 {{<
     figure
@@ -49,7 +49,7 @@ Unfortunately, my home city was not on the list and the closest location is in D
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/07-commemorative-passport.png"
 >}}
 
-I had never been to Dallas, and I didn't have a lot of interest in going there, but I decided to give the number a call and see if they actually answered. It was past 7PM, but I was surprised that someone did pick up the phone. I told the lady on the phone that I am calling about the special passport, and directed my call to someone else. This person told me that this is a special one day event, and that I have to show up on time, with the necessary documents, and that it will take 8 weeks for me to get my passport. In the spur of the moment, I decided to make the appointment. I got an email from the passport agency with a confirmation number. I scheduled an appointment on 8/8/2026 at 11:15AM. 
+I had never been to Dallas and didn’t have much interest in going there. But this was a once in a lifetime opportunity, so I decided to call the number just to see if anyone would actually pick up. It was past 7 PM, so I wasn’t expecting much. Someone answered anyway. I told the woman I was calling about the special passport, and she transferred me to an agent who handled scheduling for the commemorative passports. The agent said it was a single day event only. I had to show up on time with the right documents, and it would take about eight weeks to get the passport. On a whim I booked the appointment. A few minutes after the call I got an email from the passport agency with a confirmation number. My slot was set for `August 8, 2026 at 11:15 AM`.
 
 {{<
     figure
@@ -62,18 +62,17 @@ I had never been to Dallas, and I didn't have a lot of interest in going there, 
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/05-commemorative-passport.png"
 >}}
 
-I needed to fill out the {{< newtab href="https://travel.state.gov/en/passports/apply/help/forms.html" text="DS-82" >}}. I am essentially renewing my current passport, and I will be getting the commemorative passport as a replacement.
+I needed to fill out the {{< newtab href="https://travel.state.gov/en/passports/apply/help/forms.html" text="DS-82" >}}. I am essentially renewing my current passport, and I will be getting the special passport as a replacement.
 
 #### August 4, 2026
 
-On August 4, 2026 at 8:04AM, I received a call from a number from Dallas, TX. I generally ignore calls from unknown numbers because of the spam call epidemic we live in, but I am glad I did not, because it was the passport office. The person on the call asked me if I could reschedule the appointment to 9AM on the same day. This was not ideal because I would have to start very early to get there, but I said yes. I was put on a spot, but this was a once in a lifetime event. I might as well commit to it. Its going to be very inconvenient, but so be it. 
+On August 4, 2026 at 8:04 AM, I got a call from a Dallas number. I usually ignore unknown numbers because of all the spam, but this time I’m glad I answered. It was the passport office. The person asked if I could move my appointment to 9 AM the same day. That meant leaving a lot earlier than planned, which wasn’t ideal, but I said yes on the spot. I’d already come this far, so I figured I might as well go through with it. It’s going to be inconvenient, but so be it.
 
 #### August 8, 2026
 
 Left home very early in the day. It was still dark outside when we started to Dallas. Stopped at a small town gas station to pick up the obligatory Monster, specifically, White Ultra and Peach Ultra. 
 
 It was ~9AM by the time we reached downtown Dallas. Its an interesting downtown for sure. I had been there about 15 years ago in a Greyhound. I recognized the transfer station, which is now for sale. There is some sign of urban decay, but I feel like I have seen worse in places like NYC and Chicago. The passport office is located on Commerce Street in the heart of downtown. We found parking at the conveniently located parking lot right behind the federal building. Since this event was being held on a weekend, downtown was not very crowded and we found parking quite easily. It was $10 for 12 hours. Not too bad. 
-
 
 After we parked, we made our way to the federal building via the Commerce Street entrance. Encountered 3 homeless persons. There was a homeless person squatting close to the federal building, clearly under the influence of substances. 
 
