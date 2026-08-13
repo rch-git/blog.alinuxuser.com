@@ -70,11 +70,11 @@ On August 4, 2026 at 8:04 AM, I got a call from a Dallas number. I usually ignor
 
 #### August 8, 2026
 
-Left home very early in the day. It was still dark outside when we started to Dallas. Stopped at a small town gas station to pick up the obligatory Monster, specifically, White Ultra and Peach Ultra. 
+We left home very early. It was still dark when we headed out for Dallas. We stopped at a small-town gas station for the obligatory Monster, White Ultra and Peach Ultra.
 
-It was ~9AM by the time we reached downtown Dallas. Its an interesting downtown for sure. I had been there about 15 years ago in a Greyhound. I recognized the transfer station, which is now for sale. There is some sign of urban decay, but I feel like I have seen worse in places like NYC and Chicago. The passport office is located on Commerce Street in the heart of downtown. We found parking at the conveniently located parking lot right behind the federal building. Since this event was being held on a weekend, downtown was not very crowded and we found parking quite easily. It was $10 for 12 hours. Not too bad. 
+We reached downtown Dallas around 9 AM. The timing worked out perfectly. It’s an interesting downtown. I had been there about fifteen years earlier on a Greyhound and recognized the old transfer station, now boarded up and for sale. There’s some urban decay, but I’ve seen worse in places like New York and Chicago. The passport office sits on Commerce Street right in the middle of it all. We found a parking lot conveniently located just behind the federal building. Since it was a weekend, downtown was quiet and parking was easy. Ten dollars for twelve hours. Not bad.
 
-After we parked, we made our way to the federal building via the Commerce Street entrance. Encountered 3 homeless persons. There was a homeless person squatting close to the federal building, clearly under the influence of substances. 
+After parking we walked over to the federal building through the Commerce Street entrance. We passed three homeless people along the way. One was squatting near the building, clearly high. I didn’t have time to dwell on the managed decline of society. We were right on time and headed inside.
 
 {{<
     figure
@@ -87,7 +87,7 @@ After we parked, we made our way to the federal building via the Commerce Street
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/10-commemorative-passport.jpg"
 >}}
 
-We entered the building, and there was a table setup right by the security to assist applicants. The lady at the table asked me if I wanted to pick up my passport later in the day. I was surprised because when I made the appointment I was told that it would take up to 8 weeks. We decided to hang out in Dallas downtown. She said they will give us a call some time before 2:30PM that day to pick up the passport. 
+As we entered the building, there was security check, right past that there was a table setup to assist applicants. The lady at the table looked up my appointment and asked me if I wanted to pick up my passport later in the day. I was surprised because when I made the appointment, I was told that it would take up to 8 weeks. I said I wanted to pick up the passport in person. She told me they will give us a call some time before 2:30PM that day to pick up the passport. We decided to hang out in Dallas downtown until then.
 
 {{<
     figure
