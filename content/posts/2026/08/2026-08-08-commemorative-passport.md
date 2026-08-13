@@ -1,7 +1,7 @@
 ---
 title: 'Acquiring the Commemorative Passport'
 date: 2026-08-09T13:16:08
-draft: false
+draft: true
 cover:
   image: "https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/01-commemorative-passport.jpg"
   alt: 'Commemorative Passport'
@@ -74,9 +74,32 @@ Left home very early in the day. It was still dark outside when we started to Da
 
 It was ~9AM by the time we reached downtown Dallas. Its an interesting downtown for sure. I had been there about 15 years ago in a Greyhound. I recognized the transfer station, which is now for sale. There is some sign of urban decay, but I feel like I have seen worse in places like NYC and Chicago. The passport office is located on Commerce Street in the heart of downtown. We found parking at the conveniently located parking lot right behind the federal building. Since this event was being held on a weekend, downtown was not very crowded and we found parking quite easily. It was $10 for 12 hours. Not too bad. 
 
+
 After we parked, we made our way to the federal building via the Commerce Street entrance. Encountered 3 homeless persons. There was a homeless person squatting close to the federal building, clearly under the influence of substances. 
 
+{{<
+    figure
+    src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/10-commemorative-passport.jpg"
+    width="640"
+    align="center"
+    caption="Dallas Passport Office"
+    target="_blank"
+    rel="noopener"
+    link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/10-commemorative-passport.jpg"
+>}}
+
 We entered the building, and there was a table setup right by the security to assist applicants. The lady at the table as me if I wanted to pick up my passport later in the day. I was surprised. I was told on the phone when I made the appointment that it would take up to 8 weeks. So when the lady told me that I can pick up the passport the same day, we decided to hang out in Dallas downtown. She said they will give us a call some time before 230PM that day to pick up the passport. 
+
+{{<
+    figure
+    src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/02-commemorative-passport.jpg"
+    width="640"
+    align="center"
+    caption="Commemorative Passport Event"
+    target="_blank"
+    rel="noopener"
+    link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/02-commemorative-passport.jpg"
+>}}
 
 We were then led up the elevator to the 11th floor. I was called to a window, I made the payment. I made the mistake of applying for a passport and passport card, so this cost me $30 extra. Pointless. I should have kept the old passport card. 
 
