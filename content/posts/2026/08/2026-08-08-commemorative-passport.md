@@ -9,9 +9,11 @@ cover:
   relative: false # ← explicit for static folder images
 tags: ["travel"]
 ---
-I read about the Commemorative Passport being issued by the State Department for America 250. Unfortunately, this was only available at the Washington D.C field office. There was no way I was going to be able to go there to apply for one.
+#### July 30, 2026
 
-On July 30, 2026, I saw this post from the Secretary of State. I decided to click on it, and check out what they had planned. 
+I read about the Commemorative Passport being issued by the State Department for America 250. Unfortunately, this was only available at the Washington, D.C. field office. There was no way I was going to be able to go there to apply for one.
+
+I saw this post from the Secretary of State. I decided to click on it and check out what they had planned.
 
 {{<
     figure
@@ -23,7 +25,7 @@ On July 30, 2026, I saw this post from the Secretary of State. I decided to clic
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/09-commemorative-passport.png"
 >}}
 
-Much to my surprise, it appears that they decided to make this service available across the country. Excellent.
+Much to my surprise, it appears they decided to make this service available across the country. Excellent.
 
 {{<
     figure
@@ -36,7 +38,7 @@ Much to my surprise, it appears that they decided to make this service available
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/08-commemorative-passport.png"
 >}}
 
-Unfortunately, my home city was not on the list and the closest location is in Dallas, TX, and that was a few hours drive away from where I live. Not ideal, but at least it is in driving distance.
+Unfortunately, my home city was not on the list, and the closest location is in Dallas, TX, a few hours’ drive from where I live. Not ideal, but at least it is within driving distance.
 
 {{<
     figure
@@ -49,7 +51,7 @@ Unfortunately, my home city was not on the list and the closest location is in D
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/07-commemorative-passport.png"
 >}}
 
-I had never been to Dallas and didn’t have much interest in going there. But this was a once in a lifetime opportunity, so I decided to call the number just to see if anyone would actually pick up. It was past 7 PM, so I wasn’t expecting much. Someone answered anyway. I told the woman I was calling about the special passport, and she transferred me to an agent who handled scheduling for the commemorative passports. The agent said it was a single day event only. I had to show up on time with the right documents, and it would take about eight weeks to get the passport. On a whim I booked the appointment. A few minutes after the call I got an email from the passport agency with a confirmation number. My slot was set for `August 8, 2026 at 11:15 AM`.
+I had never been to Dallas and didn’t have much interest in going there. But this was a once-in-a-lifetime opportunity, so I decided to call the number just to see if anyone would actually pick up. It was past 7 PM, so I wasn’t expecting much. Someone answered anyway. I told the woman I was calling about the special passport, and she transferred me to an agent who handled scheduling for the commemorative passports. The agent said it was a single-day event only. I had to show up on time with the right documents, and it would take about eight weeks to get the passport. On a whim, I booked the appointment. A few minutes after the call, I got an email from the passport agency with a confirmation number. My slot was set for August 8, 2026, at 11:15 AM.
 
 {{<
     figure
@@ -66,15 +68,35 @@ I needed to fill out the {{< newtab href="https://travel.state.gov/en/passports/
 
 #### August 4, 2026
 
-On August 4, 2026 at 8:04 AM, I got a call from a Dallas number. I usually ignore unknown numbers because of all the spam, but this time I’m glad I answered. It was the passport office. The person asked if I could move my appointment to 9 AM the same day. That meant leaving a lot earlier than planned, which wasn’t ideal, but I said yes on the spot. I’d already come this far, so I figured I might as well go through with it. It’s going to be inconvenient, but so be it.
+On August 4, 2026, at 8:04 AM, I got a call from a Dallas number. I usually ignore unknown numbers because of all the spam, but this time I’m glad I answered. It was the passport office. The person asked if I could move my appointment to 9 AM the same day. That meant leaving a lot earlier than planned, which wasn’t ideal, but I said yes on the spot. I’d already come this far, so I figured I might as well go through with it. It’s going to be inconvenient, but so be it.
+
+#### August 7, 2026
+
+I received a reminder email about my passport appointment. I am glad I read the email because it mentioned in the email that I should not sign the application forms. 
+```
+Save time on the day of your appointment by and printing it before you go to the agency. Bring the printed out form to your appointment and remember not to sign the application before instructed to do so.
+```
+
+I went to the office to print new forms, and this time I left the signature field unsigned. Who knows what would have happened had I not see the reminder email. I wouldn't want to find out.
+
+{{<
+    figure
+    src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/06-commemorative-passport.png"
+    width="640"
+    align="center"
+    caption="Reminder email."
+    target="_blank"
+    rel="noopener"
+    link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/06-commemorative-passport.png"
+>}}
 
 #### August 8, 2026
 
-We left home very early. It was still dark when we headed out for Dallas. We stopped at a small-town gas station for the obligatory Monster, White Ultra and Peach Ultra.
+We left home very early. It was still dark when we headed out for Dallas. We stopped at a small-town gas station for the obligatory Monster, White Ultra, and Peach Ultra.
 
 We reached downtown Dallas around 9 AM. The timing worked out perfectly. It’s an interesting downtown. I had been there about fifteen years earlier on a Greyhound and recognized the old transfer station, now boarded up and for sale. There’s some urban decay, but I’ve seen worse in places like New York and Chicago. The passport office sits on Commerce Street right in the middle of it all. We found a parking lot conveniently located just behind the federal building. Since it was a weekend, downtown was quiet and parking was easy. Ten dollars for twelve hours. Not bad.
 
-After parking we walked over to the federal building through the Commerce Street entrance. We passed three homeless people along the way. One was squatting near the building, clearly high. I didn’t have time to dwell on the managed decline of society. We were right on time and headed inside.
+After parking, we walked over to the federal building through the Commerce Street entrance. We passed three homeless people along the way. One was squatting near the building, clearly high. I didn’t have time to dwell on the managed decline of society. We were right on time and headed inside.
 
 {{<
     figure
@@ -87,7 +109,7 @@ After parking we walked over to the federal building through the Commerce Street
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/10-commemorative-passport.jpg"
 >}}
 
-As we entered the building, there was security check, right past that there was a table setup to assist applicants. The lady at the table looked up my appointment and asked me if I wanted to pick up my passport later in the day. I was surprised because when I made the appointment, I was told that it would take up to 8 weeks. I said I wanted to pick up the passport in person. She told me they will give us a call some time before 2:30PM that day to pick up the passport.
+As we entered the building, there was a security check. Right past that, there was a table set up to assist applicants. The lady at the table looked up my appointment and asked me if I wanted to pick up my passport later in the day. I was surprised because when I made the appointment, I was told that it would take up to eight weeks. I said I wanted to pick up the passport in person. She told me they would give us a call sometime before 2:30 PM that day to pick up the passport.
 
 {{<
     figure
@@ -100,7 +122,18 @@ As we entered the building, there was security check, right past that there was 
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/02-commemorative-passport.jpg"
 >}}
 
-We were then led up the elevator to the 11th floor by an employee, and ushered into a room which had America 250 decorations. The room kind of resembled a DMV, but it was well decorated. In about 2 minutes, I was called to a window. I handed the old passport, passport card, the printed application and my photograph. I was given a receipt with a number and told to wait my turn. Very shortly after that my number was called to make the payment. I made the mistake of applying for a passport and passport card, which cost me $30 extra. Pointless. I should have kept the old passport card. I paid $160 for both. I got a receipt and I was done. The process took less than 10 minutes. As we were leaving the security guard at the door gave us two goodie bags of travel.gov swag. The passport holder was made in China. We were ushered back to the elevator by the same employee, and we rode down the elevator back to the lobby. 
+{{<
+    figure
+    src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/03-commemorative-passport.jpg"
+    width="640"
+    align="center"
+    caption="Display in the lobby of the federal building"
+    target="_blank"
+    rel="noopener"
+    link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/03-commemorative-passport.jpg"
+>}}
+
+We were then led up the elevator to the 11th floor by an employee and ushered into a room that had America 250 decorations. The room kind of resembled a DMV, but it was well decorated. In about two minutes, I was called to a window. I handed over the old passport, passport card, the printed application, and my photograph. I was given a receipt with a number and told to wait my turn. Very shortly after that, my number was called to make the payment. I made the mistake of applying for a passport and passport card, which cost me $30 extra. Pointless. I should have kept the old passport card. I paid $160 for both. I got a receipt and I was done. The process took less than 10 minutes. As we were leaving, the security guard at the door gave us two goodie bags of travel.gov swag. The passport holder was made in China. We were ushered back to the elevator by the same employee, and we rode down to the lobby. 
 
 {{<
     figure
@@ -113,11 +146,11 @@ We were then led up the elevator to the 11th floor by an employee, and ushered i
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/commemorative-passport/04-commemorative-passport.jpg"
 >}}
 
-The person told us that they had a printing facility in the building and this allowed them to print the new passport and give it to us same day. He said this is the facility for expedited passport applications.
+The person told us that they had a printing facility in the building, and this allowed them to print the new passport and give it to us the same day. He said this is the facility for expedited passport applications.
 
-We were done with everything before 930AM. Now we had a few hours to kill. My original plan was to finish the application process and go to Micro Center, there was a CPU cooler that I wanted to buy, and then go to In-N-Out and then drive back. I obviously did not plan on staying in downtown. Also, if I exited the parking lot now I would have to pay again to park when we come back to pick up the passport. I did not want to waste $10. There was another parking lot {{< newtab href="https://maps.app.goo.gl/W1zEh8PqVU5gkPwB8" text="down the street" >}}. This parking lot lets you put the parking tag on the dash, and it looks like it is possible to exit the lot and come back. I will remember that if I ever go back to downtown. As such, we have a couple of hours to kill. 
+We were done with everything before 9:30 AM. Now we had a few hours to kill. My original plan was to finish the application process and go to Micro Center—there was a CPU cooler that I wanted to buy—then go to In-N-Out and drive back. I obviously did not plan on staying in downtown. Also, if I exited the parking lot now, I would have to pay again to park when we came back to pick up the passport. I did not want to waste $10. There was another parking lot {{< newtab href="https://maps.app.goo.gl/W1zEh8PqVU5gkPwB8" text="down the street" >}}. This parking lot lets you put the parking tag on the dash, and it looks like it is possible to exit the lot and come back. I will remember that if I ever go back to downtown. As such, we had a couple of hours to kill.
 
-We walked around for a little bit. Checked out the the John F. Kennedy Memorial Plaza, the old historic courthouse. It was a hot day, so decided to get an iced coffee at McDonalds located next to the federal building.
+We walked around for a little bit. Checked out the John F. Kennedy Memorial Plaza and the old historic courthouse. It was a hot day, so we decided to get an iced coffee at the McDonald’s located next to the federal building.
 
 {{<
     figure
@@ -138,11 +171,11 @@ I was left hoping she wouldn’t deny the application just because the old and n
 
 ##### Pick up call
 
-We sat in McDonald's for a little bit, and then went for another walk around the building. We were getting a little hungry, but I was saving my appetite for later in the afternoon. I then spotted a Subway, and it said they had a a $3.99 sandwich deal. This was perfect. We could split the sandwich, it will satiate us for a while. So we went in. There was only one other customer. The sandwich was what you would expect from Subway. 
+We sat in McDonald’s for a little bit and then went for another walk around the building. We were getting a little hungry, but I was saving my appetite for later in the afternoon. I then spotted a Subway, and it said they had a $3.99 sandwich deal. This was perfect. We could split the sandwich; it would satiate us for a while. So we went in. There was only one other customer. The sandwich was what you would expect from Subway.
 
-At precisely 11AM, I received a call from the passport office and she told me that the passport was ready for pick up. I told her that I will be there very shortly. We quickly finished eating, and made our way to the passport office. I noticed that there were a lot more people in the lobby now. It appears that they cherry picked a few applicants and asked them to come in early, perhaps there was more demand than expected, and they wanted to spread out the process. We cleared security, and the lady at the front desk told me to head over to a room by the elevators. There was a desk setup, and I told the lady at the desk that I was there to pick up my passport. She directed me to another desk at the back of the room. I walked over the desk, and the lady there handed me a America 250 envelope containing the new passport, passport card, and my old documents. 
+At precisely 11 AM, I received a call from the passport office, and she told me that the passport was ready for pickup. I told her that I would be there very shortly. We quickly finished eating and made our way to the passport office. I noticed that there were a lot more people in the lobby now. It appears that they cherry-picked a few applicants and asked them to come in early; perhaps there was more demand than expected, and they wanted to spread out the process. We cleared security, and the lady at the front desk told me to head over to a room by the elevators. There was a desk set up, and I told the lady at the desk that I was there to pick up my passport. She directed me to another desk at the back of the room. I walked over to the desk, and the lady there handed me an America 250 envelope containing the new passport, passport card, and my old documents.
 
-I walked out of the room, and looked through my patriot passport. Definitely liked the look of it compared to the old passport. We paused to take some pictures in the lobby. It was a fun day, something very out of ordinary and I Was very glad I went through with it. We made our way back to the parking lot and to head out to Micro Center, followed by In-N-Out. 
+I walked out of the room and looked through my patriot passport. I definitely liked the look of it compared to the old passport. We paused to take some pictures in the lobby. It was a fun day, something very out of the ordinary, and I was very glad I went through with it. We made our way back to the parking lot and headed out to Micro Center, followed by In-N-Out.
 
 {{<
     figure
