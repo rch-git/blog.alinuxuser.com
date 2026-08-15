@@ -2,7 +2,7 @@
 title: 'Far Cry 4 Diary'
 date: 2026-05-03T16:19:18
 draft: false
-tags: ["game diary"]
+tags: ["game diary", "far cry"]
 ---
 #### Sunday, May 3, 2026, 4:19 PM CDT
 
