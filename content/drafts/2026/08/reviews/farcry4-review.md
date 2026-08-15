@@ -10,3 +10,8 @@ The parts that I did not like in this game are the AI. Its very basic. They go f
 
 Story is boring. The bad good is interesting, but the rest of the characters except Longinus are super boring. I did not pay any attention to the story. The basic premise of the plot is dumb to begin with. An American goes to a war torn country to scatter his mother's ashes, and somehow gets invested in the cause of the rebels and gets dragged into a civil war? I could not care about the story. The start of the game was pretty interesting, but the story got boring quickly. Longinus is the only character that I paid any attention to. The choice between Amita and Sabal is boring as well. Nothing about the story is convincing. 
 
+The parts of the game that make you play the hallucination missions were boring to me. I did not like them in Far Cry 3 and I did not like them. There are also annoying missions where you lose access to your weapons. I always thought this was a dumb idea in video games. 
+
+The skill system is boring, and poorly implemented. Its feels like a by the numbers design of a skill system. I did not bother upgrading all the skills. Didn't have much of an impact on the gameplay. 
+
+Weapons are well done, but once you get a suppressed sniper rifle, you can dominate the enemies. 
