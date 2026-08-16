@@ -25,3 +25,7 @@ Going to play some more now.
 Trying to liberate Dutch's island. Game looks good. I think I am going to enjoy it. Not a big fan of the HUD. There is no minimap, so I either have to look at the big map and figure out how to get to my next objective or have floating icons, which I don't like. 
 
 Going to take a little break. Might play some more later. 
+
+`Sunday, August 16, 2026, 1:56 PM CDT`
+
+Going to play some more, probably finish the first story mission, and then work on the build log post. 
