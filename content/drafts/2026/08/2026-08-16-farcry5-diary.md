@@ -29,3 +29,9 @@ Going to take a little break. Might play some more later.
 `Sunday, August 16, 2026, 1:56 PM CDT`
 
 Going to play some more, probably finish the first story mission, and then work on the build log post. 
+
+`Sunday, August 16, 2026, 2:52 PM CDT`
+
+Done for the day. Unlocked more missions. So far, I think I like this game better than Far Cry 4. Enemy AI is not the best, but it feels like it is better than the last game. 
+
+I am going to work on the build log now. 
