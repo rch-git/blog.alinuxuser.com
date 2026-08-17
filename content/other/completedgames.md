@@ -73,7 +73,7 @@ cover:
 ### 2007 <sup>14</sup>
 * Medal of Honor Allied Assault
   * Thursday, January 25, 2007, 9:49 AM
-* Call of Duty
+* {{< newtab href="/posts/2007/04/reviews/callofduty-review/" text="<span class='link-color'>Call of Duty</span>" >}}
   * Thursday, February 1, 2007, 4:56 PM
 * Call of Duty United Offensive
   * Monday, February 5, 2007, 10:52 AM
