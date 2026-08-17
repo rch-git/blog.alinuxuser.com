@@ -361,7 +361,7 @@ cover:
   * Sunday, November 5, 2023, 5:19 PM
 * Titanfall 2
   * Sunday, November 12, 2023, 6:49 PM
-* Wolfenstein The Old Blood
+* {{< newtab href="/posts/2023/11/reviews/wolfensteintheoldblood-review/" text="<span class='link-color'>Wolfenstein The Old Blood</span>" >}}
   * Wednesday, November 22, 2023, 7:31 PM
 * {{< newtab href="/posts/2023/12/reviews/mirrorsedgecatalyst-review/" text="<span class='link-color'>Mirror's Edge Catalyst</span>" >}}
   * Saturday, December 16, 2023, 9:53 PM
@@ -417,5 +417,5 @@ cover:
   * Sunday, May 3, 2026, 3:55:00 PM
 * {{< newtab href="/posts/2026/08/reviews/farcry4-review/" text="<span class='link-color'>Far Cry 4</span>" >}}
   * Sunday, August 9, 2026, 2:55 PM CDT
-* F.E.A.R 3
+* {{< newtab href="/posts/2026/08/reviews/fear3-review/" text="<span class='link-color'>F.E.A.R 3</span>" >}}
   * Saturday, August 15, 2026, 5:55:00 PM CDT
