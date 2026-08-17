@@ -73,7 +73,7 @@ cover:
 ### 2007 <sup>14</sup>
 * Medal of Honor Allied Assault
   * Thursday, January 25, 2007, 9:49 AM
-* Call of Duty
+* {{< newtab href="/posts/2007/04/reviews/callofduty-review/" text="<span class='link-color'>Call of Duty</span>" >}}
   * Thursday, February 1, 2007, 4:56 PM
 * Call of Duty United Offensive
   * Monday, February 5, 2007, 10:52 AM
@@ -335,19 +335,19 @@ cover:
   * Friday, January 13, 2023, 9:43 PM
 * Assassin's Creed Unity: Dead Kings
   * Sunday, January 15, 2023, 6:36 PM
-* Gun
+* {{< newtab href="/posts/2023/01/reviews/gun-review/" text="<span class='link-color'>Gun</span>" >}}
   * Saturday, January 28, 2023, 12:20 AM
-* Ghost Recon Advanced Warfighter
+* {{< newtab href="/posts/2023/02/reviews/graw-review/" text="<span class='link-color'>Ghost Recon Advanced Warfighter</span>" >}}
   * Saturday, February 25, 2023, 11:13 PM
 * {{< newtab href="/posts/2026/04/reviews/doom-review/" text="<span class='link-color'>DOOM (2016)</span>" >}}
   * Monday, May 8, 2023, 8:55 PM
-* Star Wars Jedi Fallen Order
+* {{< newtab href="/posts/2023/06/reviews/swjfo-review/" text="<span class='link-color'>Star Wars Jedi Fallen Order</span>" >}}
   * Saturday, June 3, 2023, 8:38 PM
-* Alan Wake
+* {{< newtab href="/posts/2023/06/reviews/alanwake-review/" text="<span class='link-color'>Alan Wake</span>" >}}
   * Thursday, June 29, 2023, 9:10 PM
 * Alan Wake American Nightmare
   * Saturday, July 1, 2023, 11:39 AM
-* SUPERHOT
+* {{< newtab href="/posts/2023/07/reviews/superhot-review/" text="<span class='link-color'>SUPERHOT</span>" >}}
   * Sunday, July 2, 2023, 3:31 PM
 * {{< newtab href="/posts/2023/09/reviews/halflifeblueshift-review/" text="<span class='link-color'>Half-Life Blue Shift</span>" >}}
   * Saturday, September 16, 2023, 1:39 PM
@@ -361,7 +361,7 @@ cover:
   * Sunday, November 5, 2023, 5:19 PM
 * Titanfall 2
   * Sunday, November 12, 2023, 6:49 PM
-* Wolfenstein The Old Blood
+* {{< newtab href="/posts/2023/11/reviews/wolfensteintheoldblood-review/" text="<span class='link-color'>Wolfenstein The Old Blood</span>" >}}
   * Wednesday, November 22, 2023, 7:31 PM
 * {{< newtab href="/posts/2023/12/reviews/mirrorsedgecatalyst-review/" text="<span class='link-color'>Mirror's Edge Catalyst</span>" >}}
   * Saturday, December 16, 2023, 9:53 PM
@@ -417,5 +417,5 @@ cover:
   * Sunday, May 3, 2026, 3:55:00 PM
 * {{< newtab href="/posts/2026/08/reviews/farcry4-review/" text="<span class='link-color'>Far Cry 4</span>" >}}
   * Sunday, August 9, 2026, 2:55 PM CDT
-* F.E.A.R 3
+* {{< newtab href="/posts/2026/08/reviews/fear3-review/" text="<span class='link-color'>F.E.A.R 3</span>" >}}
   * Saturday, August 15, 2026, 5:55:00 PM CDT
