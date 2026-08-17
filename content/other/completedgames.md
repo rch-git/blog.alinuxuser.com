@@ -335,19 +335,19 @@ cover:
   * Friday, January 13, 2023, 9:43 PM
 * Assassin's Creed Unity: Dead Kings
   * Sunday, January 15, 2023, 6:36 PM
-* Gun
+* {{< newtab href="/posts/2023/01/reviews/gun-review/" text="<span class='link-color'>Gun</span>" >}}
   * Saturday, January 28, 2023, 12:20 AM
-* Ghost Recon Advanced Warfighter
+* {{< newtab href="/posts/2023/02/reviews/graw-review/" text="<span class='link-color'>Ghost Recon Advanced Warfighter</span>" >}}
   * Saturday, February 25, 2023, 11:13 PM
 * {{< newtab href="/posts/2026/04/reviews/doom-review/" text="<span class='link-color'>DOOM (2016)</span>" >}}
   * Monday, May 8, 2023, 8:55 PM
-* Star Wars Jedi Fallen Order
+* {{< newtab href="/posts/2023/06/reviews/swjfo-review/" text="<span class='link-color'>Star Wars Jedi Fallen Order</span>" >}}
   * Saturday, June 3, 2023, 8:38 PM
-* Alan Wake
+* {{< newtab href="/posts/2023/06/reviews/alanwake-review/" text="<span class='link-color'>Alan Wake</span>" >}}
   * Thursday, June 29, 2023, 9:10 PM
 * Alan Wake American Nightmare
   * Saturday, July 1, 2023, 11:39 AM
-* SUPERHOT
+* {{< newtab href="/posts/2023/07/reviews/superhot-review/" text="<span class='link-color'>SUPERHOT</span>" >}}
   * Sunday, July 2, 2023, 3:31 PM
 * {{< newtab href="/posts/2023/09/reviews/halflifeblueshift-review/" text="<span class='link-color'>Half-Life Blue Shift</span>" >}}
   * Saturday, September 16, 2023, 1:39 PM
