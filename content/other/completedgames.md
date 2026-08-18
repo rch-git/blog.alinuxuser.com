@@ -67,7 +67,7 @@ cover:
   * Wednesday, August 9, 2006, 4:07 PM
 * Half Life
   * Wednesday, October 25, 2006, 7:54 PM
-* Jedi Knight II Jedi Outcast
+* {{< newtab href="/posts/2008/03/reviews/swjediknight2-review/" text="<span class='link-color'>Jedi Knight II Jedi Outcast</span>" >}}
   * Thursday, November 30, 2006, 10:11 AM
 ---
 ### 2007 <sup>14</sup>
@@ -79,13 +79,13 @@ cover:
   * Monday, February 5, 2007, 10:52 AM
 * Prince of Persia Sands of Time
   * Monday, February 26, 2007, 7:49 PM
-* Soldier of Fortune 2
+* {{< newtab href="/posts/2007/06/reviews/soldieroffortune2-review/" text="<span class='link-color'>Soldier of Fortune 2</span>" >}}
   * Sunday, March 18, 2007, 11:04 PM
 * Unreal Tournament 2003
   * Friday, March 23, 2007, 2:22 AM
 * Need For Speed Underground 2
   * Saturday, May 19, 2007, 5:23 AM
-* Red Faction
+* {{< newtab href="/posts/2007/06/reviews/redfaction-review/" text="<span class='link-color'>Red Faction</span>" >}}
   * Tuesday, June 12, 2007, 10:19 PM
 * Deus Ex
   * Thursday, August 2, 2007, 8:17 PM
@@ -117,7 +117,7 @@ cover:
   * Tuesday, March 25, 2008, 6:28 PM
 * Half Life: Opposing Force
   * Monday, March 31, 2008, 10:49 PM
-* Far Cry
+* {{< newtab href="/posts/2008/07/reviews/farcry-review/" text="<span class='link-color'>Far Cry</span>" >}}
   * Thursday, May 1, 2008, 9:31 PM
 * Prince of Persia: Warrior Within
   * Tuesday, June 3, 2008, 2:14 AM
@@ -125,11 +125,11 @@ cover:
 ### 2009 <sup>17</sup>
 * Half Life 2: Lost Coast
   * Monday, March 16, 2009, 3:31 PM
-* Call of Duty 2
+* {{< newtab href="/posts/2009/03/reviews/callofduty2-review/" text="<span class='link-color'>Call of Duty 2</span>" >}}
   * Thursday, March 19, 2009, 11:19 PM
 * Diablo 2
   * Friday, April 17, 2009, 11:24 PM
-* Crysis
+* {{< newtab href="/posts/2009/06/reviews/crysis-review/" text="<span class='link-color'>Crysis</span>" >}}
   * Wednesday, April 29, 2009, 3:36 PM
 * Need For Speed Most Wanted
   * Thursday, May 28, 2009, 8:05 PM
