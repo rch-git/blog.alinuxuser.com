@@ -159,7 +159,7 @@ cover:
   * Thursday, December 10, 2009, 8:44 PM
 ---
 ### 2010 <sup>12</sup>
-* Bioshock
+* {{< newtab href="/posts/2010/05/reviews/bioshock-review/" text="<span class='link-color'>Bioshock</span>" >}}
   * Tuesday, February 16, 2010, 9:45 PM
 * Need For Speed Shift
   * Tuesday, March 2, 2010, 12:22 AM
@@ -241,15 +241,15 @@ cover:
   * Saturday, August 22, 2015, 7:46 PM
 ---
 ### 2016 <sup>5</sup>
-* F.E.A.R
+* {{< newtab href="/posts/2022/05/reviews/fear-review/" text="<span class='link-color'>F.E.A.R</span>" >}}
   * Sunday, February 7, 2016, 2:37 PM
 * Need For Speed 2 Shift Unleashed
   * Saturday, March 12, 2016, 3:10 PM
-* GTA 4
+* {{< newtab href="/posts/2016/08/reviews/grandtheftauto4-review/" text="<span class='link-color'>Grand Theft Auto 4</span>" >}}
   * Sunday, May 22, 2016, 4:03 PM
 * Battlefield Hardline
   * Friday, July 8, 2016, 11:24 PM
-* The Witcher
+* {{< newtab href="/posts/2017/05/reviews/witcher-review/" text="<span class='link-color'>The Witcher</span>" >}}
   * Saturday, December 10, 2016, 10:06 PM
 ---
 ### 2017 <sup>9</sup>
@@ -285,15 +285,15 @@ cover:
   * Sunday, August 19, 2018, 2:30 PM
 * Homefront
   * Saturday, September 1, 2018, 4:16 PM
-* Middle Earth Shadow of Mordor
+* {{< newtab href="/posts/2019/04/reviews/middleearthshadowofmordor-review/" text="<span class='link-color'>Middle Earth Shadow of Mordor</span>" >}}
   * Wednesday, December 26, 2018, 8:23 PM
-* Hard Reset
+* {{< newtab href="/posts/2018/12/reviews/hardreset-review/" text="<span class='link-color'>Hard Reset</span>" >}}
   * Monday, December 31, 2018, 12:52 PM
 ---
 ### 2019 <sup>4</sup>
 * BioShock Infinite
   * Sunday, January 13, 2019, 3:51 PM
-* Tomb Raider (2013)
+* {{< newtab href="/posts/2019/04/reviews/tombraider2013-review/" text="<span class='link-color'>Tomb Raider (2013)</span>" >}}
   * Sunday, February 10, 2019, 9:14 PM
 * Tomb Raider Legend
   * Tuesday, April 30, 2019, 7:31 PM
@@ -301,7 +301,7 @@ cover:
   * Sunday, August 4, 2019, 2:48 PM
 ---
 ### 2021 <sup>2</sup>
-* Firewatch
+* {{< newtab href="/posts/2021/10/reviews/firewatch-review/" text="<span class='link-color'>Firewatch</span>" >}}
   * Monday, October 11, 2021, 2:15 PM
 * The Wolf Among Us
   * Saturday, October 16, 2021, 7:46 PM
@@ -309,21 +309,21 @@ cover:
 ### 2022 <sup>11</sup>
 * Crysis 3
   * Tuesday, March 15, 2022, 7:42 PM
-* Assassins's Creed Black Flag
+* {{< newtab href="/posts/2022/04/reviews/acblackflag-review/" text="<span class='link-color'>Assassins's Creed Black Flag</span>" >}}
   * Saturday, April 16, 2022, 1:15 PM
-* Assassins Creed Rogue
+* {{< newtab href="/posts/2022/05/reviews/assassinscreedrogue-review/" text="<span class='link-color'>Assassins Creed Rogue</span>" >}}
   * Friday, May 6, 2022, 11:17 PM
 * ABZU
   * Saturday, May 14, 2022, 1:39 PM
-* Age of Empires III Definitive Edition
+* {{< newtab href="/posts/2022/09/reviews/ageofempires3-review/" text="<span class='link-color'>Age of Empires III Definitive Edition</span>" >}}
   * Saturday, July 16, 2022, 10:36 PM
-* F.E.A.R Extraction Point
+* {{< newtab href="/posts/2022/10/reviews/fearextractionpoint-review/" text="<span class='link-color'>F.E.A.R Extraction Point</span>" >}}
   * Sunday, July 17, 2022, 6:05 PM
 * Age of Empires III: Warchiefs
   * Friday, July 29, 2022, 3:45 PM
 * Age of Empires III: Asian Dynasties
   * Sunday, September 18, 2022, 1:55 PM
-* Cyberpunk 2077
+* {{< newtab href="/posts/2023/04/reviews/cyberpunk2077-review/" text="<span class='link-color'>Cyberpunk 2077</span>" >}}
   * Sunday, September 18, 2022, 4:38 PM
 * Life is Strange Episode 1
   * Sunday, October 2, 2022, 4:34 PM

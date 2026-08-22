@@ -35,3 +35,11 @@ Going to play some more, probably finish the first story mission, and then work 
 Done for the day. Unlocked more missions. So far, I think I like this game better than Far Cry 4. Enemy AI is not the best, but it feels like it is better than the last game. 
 
 I am going to work on the build log now. 
+
+#### Saturday, August 22, 2026, 2:26 AM CDT
+
+Did not play for a few days. Real life has been insane. Company going through an acquisition, life being a little uncertain...its all happening. Slept this evening for a few hours and I can't sleep. Might as well play. 
+
+`Saturday, August 22, 2026, 3:19 AM CDT`
+
+Played a little bit. Feeling too sleepy. Going to go to bed. 
