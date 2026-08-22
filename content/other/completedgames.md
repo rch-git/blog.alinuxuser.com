@@ -133,7 +133,7 @@ cover:
   * Wednesday, April 29, 2009, 3:36 PM
 * Need For Speed Most Wanted
   * Thursday, May 28, 2009, 8:05 PM
-* Quake 4
+* {{< newtab href="/posts/2009/06/reviews/quake4-review/" text="<span class='link-color'>Quake 4</span>" >}}
   * Saturday, June 6, 2009, 11:49 PM
 * Diablo 2: Lord of Destruction
   * Saturday, June 13, 2009, 1:43 AM
@@ -151,11 +151,11 @@ cover:
   * Friday, September 25, 2009, 7:39 PM
 * Crysis Warhead
   * Friday, September 25, 2009, 11:28 PM
-* STALKER
+* {{< newtab href="/posts/2010/10/reviews/stalkershadowofchernobyl-review/" text="<span class='link-color'>S.T.A.L.K.E.R.: Shadow of Chernobyl</span>" >}}
   * Friday, October 2, 2009, 5:30 PM
-* Lord of the Rings Battle for Middle Earth
+* {{< newtab href="/posts/2010/01/reviews/lotrbfme-review/" text="<span class='link-color'>Lord of the Rings Battle for Middle Earth</span>" >}}
   * Sunday, October 25, 2009, 10:50 PM
-* Mass Effect
+* {{< newtab href="/posts/2010/03/reviews/masseffect-review/" text="<span class='link-color'>Mass Effect</span>" >}}
   * Thursday, December 10, 2009, 8:44 PM
 ---
 ### 2010 <sup>12</sup>
@@ -235,7 +235,7 @@ cover:
 ### 2015 <sup>3</sup>
 * S.T.A.L.K.E.R Call of Pripyat
   * Sunday, February 1, 2015, 2:41 AM
-* Far Cry 3
+* {{< newtab href="/posts/2017/07/reviews/farcry3-review/" text="<span class='link-color'>Far Cry 3</span>" >}}
   * Wednesday, April 22, 2015, 11:38 PM
 * Watch Dogs
   * Saturday, August 22, 2015, 7:46 PM
@@ -273,15 +273,15 @@ cover:
   * Sunday, November 12, 2017, 10:58 AM
 ---
 ### 2018 <sup>8</sup>
-* Witcher 3
+* {{< newtab href="/posts/2018/04/reviews/thewitcher3-review/" text="<span class='link-color'>Witcher 3</span>" >}}
   * Saturday, April 7, 2018, 11:24 PM
 * The Witcher 3: Hearts of Stone
   * Saturday, April 21, 2018, 8:58 PM
 * The Witcher 3: Blood and Wine
   * Monday, June 25, 2018, 12:15 AM
-* Mad Max
+* {{< newtab href="/posts/2018/10/reviews/madmax-review/" text="<span class='link-color'>Mad Max</span>" >}}
   * Sunday, August 12, 2018, 7:33 PM
-* Far Cry 3 Blood Dragon
+* {{< newtab href="/posts/2018/12/reviews/farcry3blooddragon-review/" text="<span class='link-color'>Far Cry 3 Blood Dragon</span>" >}}
   * Sunday, August 19, 2018, 2:30 PM
 * Homefront
   * Saturday, September 1, 2018, 4:16 PM
