@@ -43,3 +43,9 @@ Did not play for a few days. Real life has been insane. Company going through an
 `Saturday, August 22, 2026, 3:19 AM CDT`
 
 Played a little bit. Feeling too sleepy. Going to go to bed. 
+
+`Saturday, August 22, 2026, 1:17 PM CDT`
+
+Going to play some more now. Might stream. 
+
+Actually going to play some Battlefield 6, and then come back to FC5. 
