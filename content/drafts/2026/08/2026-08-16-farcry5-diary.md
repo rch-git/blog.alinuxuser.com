@@ -49,3 +49,13 @@ Played a little bit. Feeling too sleepy. Going to go to bed.
 Going to play some more now. Might stream. 
 
 Actually going to play some Battlefield 6, and then come back to FC5. 
+
+`Saturday, August 22, 2026, 4:34 PM CDT`
+
+Phone call. Now I am going to play for sure. 
+
+`Saturday, August 22, 2026, 5:23 PM CDT`
+
+This game is on the verge of greatness. Enemy AI is very dumb at times. In addition to this, the UbiSoft formula is what holds the game back. Everything is done by the numbers. There is no creativity. Unfortunate. 
+
+I need to figure out how to auto disable radio in cars. It is so distracting. 
