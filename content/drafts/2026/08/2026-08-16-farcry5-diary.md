@@ -95,3 +95,14 @@ Looked at the walkthrough. Have to cheese the game.
 Slept for a bit. Woke up, did chores around the house, shower, made coffee. Sat down to play a dumb War on Drugs mission. The game just does not spawn enough trucks and boats. Super annoying. Had to keep cruising around the main road, until I finally saw enough of them. There is no in game notification that there is a supply truck nearby.
 
 I am going to play some more liberation missions. I wish UbiSoft leaned more towards Red Dead Redemption style gameplay, and less towards the Far Cry 3 formula. The world is so well made. Visuals are beautiful. AI and gameplay are a let down. 
+
+`Sunday, August 23, 2026, 1:01 PM CDT`
+
+More side content. 
+
+`Sunday, August 23, 2026, 1:24 PM CDT`
+
+The story is bad. We are supposed to believe that a religious cult took over an entire county in Montana (because its obvious that civilians there are unarmed), and had their own supply chains. The US Marshals went there to arrest the leader, but when law enforcement never made it back, the US government just ignored it? What about the national guard? Its so silly. 
+
+Villain is a religious zealot, clearly a meant to be a republican. This game was made in 2018 after all, and we all know who the president was in 2018.
+
