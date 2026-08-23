@@ -14,7 +14,7 @@ Download progressing at 850Mbps. Insane. Should be done soon. Excited to see wha
 
 Did some bench marking. Performs very well. Game looks good. Got to get the HUD just right. 
 
-So the story is like this, a religious cult shows up, and slowly starts buying up land, starts buying political influence, and gains power over the people. Sounds like something like that could happen in 2026. 
+Story is dumb. A religious cult shows up, and slowly starts buying up land, starts buying political influence, and gains power over the people. Sounds like something that could happen in 2026. 
 
 `Sunday, August 16, 2026, 12:46 PM CDT`
 
@@ -102,7 +102,7 @@ More side content.
 
 `Sunday, August 23, 2026, 1:24 PM CDT`
 
-The story is bad. We are supposed to believe that a religious cult took over an entire county in Montana (because its obvious that civilians there are unarmed), and had their own supply chains. The US Marshals went there to arrest the leader, but when law enforcement never made it back, the US government just ignored it? What about the national guard? Its so silly. 
+The story is bad. We are supposed to believe that a religious cult took over an entire county in Montana (because its obvious that civilians there are unarmed), and had their own supply chains, farms etc. The US Marshals went there to arrest the leader, but when law enforcement never made it back, the US government just ignored it? What about the national guard? Its so silly. 
 
 Villain is a religious zealot, clearly a meant to be a republican. This game was made in 2018 after all, and we all know who the president was in 2018.
 
