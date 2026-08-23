@@ -106,4 +106,13 @@ The story is bad. We are supposed to believe that a religious cult took over an 
 
 Villain is a religious zealot, clearly a meant to be a republican. This game was made in 2018 after all, and we all know who the president was in 2018.
 
-I am fine with the story being extremely stupid as long as the gameplay is solid. I can't figure out which story is dumber - this or Far Cry 4. I am going to go with this game.
+I am fine with the story being extremely stupid as long as the gameplay is solid. I can't figure out which story is dumber - this or Far Cry 4. I am going to say Far Cry 5 has the dumber story. 
+
+`Sunday, August 23, 2026, 2:10 PM CDT`
+
+Going to play some more and then get something to eat. 
+
+`Sunday, August 23, 2026, 4:29 PM CDT`
+
+Going to play for a little bit more. Finished eating. Was on the phone for a bit. Once I am done with this, I am going to call it a day. I will work on a review for Batman Arkham Origins. 
+
