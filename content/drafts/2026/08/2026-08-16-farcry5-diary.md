@@ -59,3 +59,13 @@ Phone call. Now I am going to play for sure.
 This game is on the verge of greatness. Enemy AI is very dumb at times. In addition to this, the UbiSoft formula is what holds the game back. Everything is done by the numbers. There is no creativity. Unfortunate. 
 
 I need to figure out how to auto disable radio in cars. It is so distracting. 
+
+`Saturday, August 22, 2026, 6:23 PM CDT`
+
+Turns out I cannot disable the radio. I have to do it each time I get into a car. Annoying.
+
+Going to play some more. I acquired another weapon slot.
+
+`Saturday, August 22, 2026, 7:30 PM CDT`
+
+Played a couple of story missions. I am enjoying the sandbox nature of the game. This could have been better than RDR2, but UbiSoft just can't help themselves. 
