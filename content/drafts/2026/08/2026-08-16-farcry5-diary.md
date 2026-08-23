@@ -69,3 +69,8 @@ Going to play some more. I acquired another weapon slot.
 `Saturday, August 22, 2026, 7:30 PM CDT`
 
 Played a couple of story missions. I am enjoying the sandbox nature of the game. This could have been better than RDR2, but UbiSoft just can't help themselves. 
+
+`Saturday, August 22, 2026, 9:30 PM CDT`
+
+Started writing review of Arkham Origins. I will play some more now. 
+
