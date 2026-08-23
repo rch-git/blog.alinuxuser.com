@@ -106,3 +106,4 @@ The story is bad. We are supposed to believe that a religious cult took over an 
 
 Villain is a religious zealot, clearly a meant to be a republican. This game was made in 2018 after all, and we all know who the president was in 2018.
 
+I am fine with the story being extremely stupid as long as the gameplay is solid. I can't figure out which story is dumber - this or Far Cry 4. I am going to go with this game.
