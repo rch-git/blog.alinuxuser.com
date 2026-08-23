@@ -81,3 +81,17 @@ I am really starting to like the game. I feel that fast travel kills immersion. 
 #### Sunday, August 23, 2026, 4:13 AM CDT
 
 Couldn't sleep. Going to play some more. 
+
+`Sunday, August 23, 2026, 5:13 AM CDT`
+
+Trying to finish the War on Drugs mission. Can't find the trucks I need to destroy. Will look at a walkthrough. 
+
+`Sunday, August 23, 2026, 6:27 AM CDT`
+
+Looked at the walkthrough. Have to cheese the game. 
+
+`Sunday, August 23, 2026, 12:24 PM CDT`
+
+Slept for a bit. Woke up, did chores around the house, shower, made coffee. Sat down to play a dumb War on Drugs mission. The game just does not spawn enough trucks and boats. Super annoying. Had to keep cruising around the main road, until I finally saw enough of them. There is no in game notification that there is a supply truck nearby.
+
+I am going to play some more liberation missions. I wish UbiSoft leaned more towards Red Dead Redemption style gameplay, and less towards the Far Cry 3 formula. The world is so well made. Visuals are beautiful. AI and gameplay are a let down. 
