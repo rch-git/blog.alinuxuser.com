@@ -77,3 +77,7 @@ Started writing review of Arkham Origins. I will play some more now.
 `Saturday, August 22, 2026, 11:02 PM CDT`
 
 I am really starting to like the game. I feel that fast travel kills immersion. Reason why Red Dead Redemption 2 was so great is partly because it did not have fast travel. Going to call it a night. Will play more tomorrow. 
+
+#### Sunday, August 23, 2026, 4:13 AM CDT
+
+Couldn't sleep. Going to play some more. 
