@@ -116,3 +116,8 @@ Going to play some more and then get something to eat.
 
 Going to play for a little bit more. Finished eating. Was on the phone for a bit. Once I am done with this, I am going to call it a day. I will work on a review for Batman Arkham Origins. 
 
+`Sunday, August 23, 2026, 4:58 PM CDT`
+
+I feel too tired to play. Too much carbs. Got to stop doing that. I didn't finish the mission I wanted to finish. I will play more soon. Judging by the way things are going, I don't think I will play more during the week. I will get to the game over the next weekend. 
+
+For now, I will close this. I will use the laptop in bed to work on the Batman Arkham Origins review. 
