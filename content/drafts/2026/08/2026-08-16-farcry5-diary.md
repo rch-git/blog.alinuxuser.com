@@ -14,7 +14,7 @@ Download progressing at 850Mbps. Insane. Should be done soon. Excited to see wha
 
 Did some bench marking. Performs very well. Game looks good. Got to get the HUD just right. 
 
-So the story is like this, a religious cult shows up, and slowly starts buying up land, starts buying political influence, and gains power over the people. Sounds like something like that could happen in 2026. 
+Story is dumb. A religious cult shows up, and slowly starts buying up land, starts buying political influence, and gains power over the people. Sounds like something that could happen in 2026. 
 
 `Sunday, August 16, 2026, 12:46 PM CDT`
 
@@ -43,3 +43,81 @@ Did not play for a few days. Real life has been insane. Company going through an
 `Saturday, August 22, 2026, 3:19 AM CDT`
 
 Played a little bit. Feeling too sleepy. Going to go to bed. 
+
+`Saturday, August 22, 2026, 1:17 PM CDT`
+
+Going to play some more now. Might stream. 
+
+Actually going to play some Battlefield 6, and then come back to FC5. 
+
+`Saturday, August 22, 2026, 4:34 PM CDT`
+
+Phone call. Now I am going to play for sure. 
+
+`Saturday, August 22, 2026, 5:23 PM CDT`
+
+This game is on the verge of greatness. Enemy AI is very dumb at times. In addition to this, the UbiSoft formula is what holds the game back. Everything is done by the numbers. There is no creativity. Unfortunate. 
+
+I need to figure out how to auto disable radio in cars. It is so distracting. 
+
+`Saturday, August 22, 2026, 6:23 PM CDT`
+
+Turns out I cannot disable the radio. I have to do it each time I get into a car. Annoying.
+
+Going to play some more. I acquired another weapon slot.
+
+`Saturday, August 22, 2026, 7:30 PM CDT`
+
+Played a couple of story missions. I am enjoying the sandbox nature of the game. This could have been better than RDR2, but UbiSoft just can't help themselves. 
+
+`Saturday, August 22, 2026, 9:30 PM CDT`
+
+Started writing review of Arkham Origins. I will play some more now. 
+
+`Saturday, August 22, 2026, 11:02 PM CDT`
+
+I am really starting to like the game. I feel that fast travel kills immersion. Reason why Red Dead Redemption 2 was so great is partly because it did not have fast travel. Going to call it a night. Will play more tomorrow. 
+
+#### Sunday, August 23, 2026, 4:13 AM CDT
+
+Couldn't sleep. Going to play some more. 
+
+`Sunday, August 23, 2026, 5:13 AM CDT`
+
+Trying to finish the War on Drugs mission. Can't find the trucks I need to destroy. Will look at a walkthrough. 
+
+`Sunday, August 23, 2026, 6:27 AM CDT`
+
+Looked at the walkthrough. Have to cheese the game. 
+
+`Sunday, August 23, 2026, 12:24 PM CDT`
+
+Slept for a bit. Woke up, did chores around the house, shower, made coffee. Sat down to play a dumb War on Drugs mission. The game just does not spawn enough trucks and boats. Super annoying. Had to keep cruising around the main road, until I finally saw enough of them. There is no in game notification that there is a supply truck nearby.
+
+I am going to play some more liberation missions. I wish UbiSoft leaned more towards Red Dead Redemption style gameplay, and less towards the Far Cry 3 formula. The world is so well made. Visuals are beautiful. AI and gameplay are a let down. 
+
+`Sunday, August 23, 2026, 1:01 PM CDT`
+
+More side content. 
+
+`Sunday, August 23, 2026, 1:24 PM CDT`
+
+The story is bad. We are supposed to believe that a religious cult took over an entire county in Montana (because its obvious that civilians there are unarmed), and had their own supply chains, farms etc. The US Marshals went there to arrest the leader, but when law enforcement never made it back, the US government just ignored it? What about the national guard? Its so silly. 
+
+Villain is a religious zealot, clearly a meant to be a republican. This game was made in 2018 after all, and we all know who the president was in 2018.
+
+I am fine with the story being extremely stupid as long as the gameplay is solid. I can't figure out which story is dumber - this or Far Cry 4. I am going to say Far Cry 5 has the dumber story. 
+
+`Sunday, August 23, 2026, 2:10 PM CDT`
+
+Going to play some more and then get something to eat. 
+
+`Sunday, August 23, 2026, 4:29 PM CDT`
+
+Going to play for a little bit more. Finished eating. Was on the phone for a bit. Once I am done with this, I am going to call it a day. I will work on a review for Batman Arkham Origins. 
+
+`Sunday, August 23, 2026, 4:58 PM CDT`
+
+I feel too tired to play. Too much carbs. Got to stop doing that. I didn't finish the mission I wanted to finish. I will play more soon. Judging by the way things are going, I don't think I will play more during the week. I will get to the game over the next weekend. 
+
+For now, I will close this. I will use the laptop in bed to work on the Batman Arkham Origins review. 
