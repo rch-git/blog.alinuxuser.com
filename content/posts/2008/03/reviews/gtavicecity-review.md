@@ -1,5 +1,5 @@
 ---
-title: ' Grand Theft Auto Vice City (PC) Review'
+title: 'Grand Theft Auto: Vice City (PC) Review'
 date: 2008-03-08T00:00:00
 draft: false
 tags: ["game review", "grand theft auto"]
@@ -28,9 +28,9 @@ Sound is very good, with excellent voice acting from Hollywood celebrities. I al
 
 Given the excellent features of the game, I have some mixed feelings. The game is brilliant. There is no doubt about that, I would not spend 46 hours playing it, if it was not good, but the game has certain inexplicable flaws.
 
-To being with, getting to a mission involves driving to a certain place, picking up a certain person etc. Sadly, it is not possible to save the game during a mission, or even at the start of a mission. One slight mistake is enough to fail in the mission, which most of the times means you will have to restart from a previous save point, and go through the whole process of driving to the place, going through the cut scene and what not. To add to the frustrating, you die for stupid reasons such as falling into a puddle.
+To begin with, getting to a mission involves driving to a certain place, picking up a certain person etc. Sadly, it is not possible to save the game during a mission, or even at the start of a mission. One slight mistake is enough to fail in the mission, which most of the times means you will have to restart from a previous save point, and go through the whole process of driving to the place, going through the cut scene and what not. To add to the frustration, you die for stupid reasons such as falling into a puddle.
 
-Controlling the flying vehicles, especially the RC (Remote Control) Helicopter is extremely tough. You are a given a mission where you need to pick up and drop bombs in certain places using the RC Helicopter within a time limit, and there are people shooting at it.
+Controlling the flying vehicles, especially the RC (Remote Control) Helicopter is extremely tough. You are given a mission where you need to pick up and drop bombs in certain places using the RC Helicopter within a time limit, and there are people shooting at it.
 
 Similarly, you need to control an RC Plane while it is being shot at, and its fuel is running low. I just could not get this to work on my keyboard, and I had to resort to my controller, which defeats the whole purpose of playing on the PC.
 

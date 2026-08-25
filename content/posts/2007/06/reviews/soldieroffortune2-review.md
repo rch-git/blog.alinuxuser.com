@@ -1,7 +1,7 @@
 ---
 title: 'Soldier of Fortune II: Double Helix (PC) Review'
 date: 2007-06-26T00:00:00
-draft: true
+draft: false
 tags: ["game review", "soldier of fortune"]
 ---
 _I finished this game on `Sunday, March 18, 2007, 11:04:00 PM`. This review was first published on GameSpot on June 26, 2007._

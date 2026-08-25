@@ -63,7 +63,7 @@ cover:
   * Friday, March 24, 2006, 11:30 AM
 * Terminator 3 - War of the Machines
   * Saturday, July 22, 2006, 5:41 PM
-* Desert Storm
+* {{< newtab href="/posts/2008/03/reviews/conflictdesertstorm-review/" text="<span class='link-color'>Conflict: Desert Storm</span>" >}}
   * Wednesday, August 9, 2006, 4:07 PM
 * Half Life
   * Wednesday, October 25, 2006, 7:54 PM
@@ -89,19 +89,19 @@ cover:
   * Tuesday, June 12, 2007, 10:19 PM
 * {{< newtab href="/posts/2009/10/reviews/deusex-review/" text="<span class='link-color'>Deus Ex</span>" >}}
   * Thursday, August 2, 2007, 8:17 PM
-* Commandos 2
+* {{< newtab href="/posts/2009/09/reviews/commandos2-review/" text="<span class='link-color'>Commandos 2: Men of Courage</span>" >}}
   * Monday, August 13, 2007, 1:21 AM
-* Red Faction 2
+* {{< newtab href="/posts/2009/06/reviews/redfaction2-review/" text="<span class='link-color'>Red Faction 2</span>" >}}
   * Wednesday, August 29, 2007, 8:03 AM
 * {{< newtab href="/posts/2008/01/reviews/half-life2-review/" text="<span class='link-color'>Half Life 2</span>" >}}
   * Tuesday, October 30, 2007, 6:37 PM
 * {{< newtab href="/posts/2008/02/reviews/nolf2-review/" text="<span class='link-color'>No One Lives Forever 2: A Spy in H.A.R.M.s Way</span>" >}}
   * Tuesday, November 27, 2007, 2:35 PM
-* Half Life 2: Episode One
+* {{< newtab href="/posts/2008/01/reviews/halflife2episodeone-review/" text="<span class='link-color'>Half-Life 2: Episode One</span>" >}}
   * Friday, December 21, 2007, 4:26 PM
 ---
 ### 2008 <sup>10</sup>
-* Diablo
+* {{< newtab href="/posts/2008/04/reviews/diablo-review/" text="<span class='link-color'>Diablo</span>" >}}
   * Thursday, January 3, 2008, 9:30 AM
 * Portal
   * Wednesday, January 9, 2008, 10:37 AM
@@ -109,13 +109,13 @@ cover:
   * Wednesday, January 16, 2008, 10:20 PM
 * Max Payne 2: Fall of Max Payne
   * Saturday, January 26, 2008, 7:43 PM
-* GTA Vice City
+* {{< newtab href="/posts/2008/03/reviews/gtavicecity-review/" text="<span class='link-color'>Grand Theft Auto: Vice City</span>" >}}
   * Wednesday, March 5, 2008, 1:40 AM
 * Half Life 2: Episode Two
   * Sunday, March 9, 2008, 12:46 AM
 * Splinter Cell
   * Tuesday, March 25, 2008, 6:28 PM
-* Half Life: Opposing Force
+* Half-Life: Opposing Force
   * Monday, March 31, 2008, 10:49 PM
 * {{< newtab href="/posts/2008/07/reviews/farcry-review/" text="<span class='link-color'>Far Cry</span>" >}}
   * Thursday, May 1, 2008, 9:31 PM
