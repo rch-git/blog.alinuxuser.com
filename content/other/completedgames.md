@@ -171,7 +171,7 @@ cover:
   * Wednesday, July 14, 2010, 3:04 PM
 * Call of Duty: Modern Warfare 2
   * Wednesday, August 11, 2010, 7:30 PM
-* Far Cry 2
+* {{< newtab href="/posts/2010/11/reviews/farcry2-review/" text="<span class='link-color'>Far Cry 2</span>" >}}
   * Friday, August 20, 2010, 8:48 PM
 * Torchlight
   * Wednesday, September 1, 2010, 6:48 PM
