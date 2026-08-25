@@ -22,7 +22,7 @@ I think this is a better Far Cry 3 with a slightly less interesting villain. Alm
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/farcry4-review/03-farcry4-review.jpg"
 >}}
 
-The story is boring. Pagan Min and Longinus are the only interesting characters in the game for me. Troy Baker is a wonderful voice actor, and Pagan Min is a memorable character because of Troy Baker's wonderful voice acting. I did not pay any attention to the story after the first few cutscenes because the basic premise of the plot was too dumb to begin with. An American goes to a war-torn country to scatter his mother's ashes, and somehow gets invested in the cause of the rebels and gets dragged into a civil war? Not convincing. If the writers want me to be invested in the story, they should create something that is at least a little bit plausible. Ajay never tries to leave the country, which would be the natural reaction to the events of the game. The start of the game was pretty interesting, but the story got boring quickly. The moment Amita and Sabal show up, I lost interest in the plot. The choices between the two are somewhat interesting, but the payoff at the end was boring to me. 
+The story is boring. Pagan Min and Longinus are the only interesting characters in the game for me. Pagan Min is a memorable character because of Troy Baker's wonderful voice acting. I did not pay any attention to the story after the first few cutscenes because the basic premise of the plot was too weak to begin with. An American goes to a war-torn country to scatter his mother's ashes, and somehow gets invested in the cause of the rebels and gets dragged into a civil war? Not convincing. If the writers want me to be invested in the story, they should create something that is at least a little bit plausible. Ajay never tries to leave the country, which would be the natural reaction to the events of the game. The start of the game was pretty interesting, but the story got boring quickly. The moment Amita and Sabal show up, I lost interest in the plot. The choices between the two are somewhat interesting though, but the payoff at the end was underwhelming.
 
 {{<
     figure
@@ -63,6 +63,6 @@ Most of the mechanics in the game feel like they are designed by a committee. Cr
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/farcry4-review/05-farcry4-review.jpg"
 >}}
 
-The game tries to add level variety by making you play hallucination missions which are very boring to me. I did not like them in Far Cry 3 and I did not like them here. There are also annoying missions where you lose access to your weapons. I always thought this was a dumb idea in video games. I spent time and effort acquiring these weapons only for the game to take them away from me for arbitrary reasons. 
+The game tries to add level variety by making you play hallucination missions which are tedious. I did not like them in Far Cry 3 and I did not like them here. There are also annoying missions where you lose access to your weapons. I always thought this was a dumb idea in video games. I spent time and effort acquiring these weapons only for the game to take them away from me for arbitrary reasons. 
 
 I enjoyed Far Cry 4. I am quite certain I got this for free. I recommend picking this game up on sale.
