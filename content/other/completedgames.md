@@ -275,7 +275,7 @@ cover:
 ### 2018 <sup>8</sup>
 * {{< newtab href="/posts/2018/04/reviews/thewitcher3-review/" text="<span class='link-color'>Witcher 3</span>" >}}
   * Saturday, April 7, 2018, 11:24 PM
-* The Witcher 3: Hearts of Stone
+* {{< newtab href="/posts/2018/08/reviews/witcher3heartsofstone-review/" text="<span class='link-color'>The Witcher 3: Hearts of Stone</span>" >}}
   * Saturday, April 21, 2018, 8:58 PM
 * The Witcher 3: Blood and Wine
   * Monday, June 25, 2018, 12:15 AM
