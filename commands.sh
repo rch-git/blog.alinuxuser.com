@@ -60,3 +60,6 @@ git fetch origin && git reset --hard origin/dev
 git checkout master
 git reset --hard dev
 git push --force
+
+# copy file from one location to another when the directories in the destination might not exist
+sysuser@ubuntuprod:~/git/blog.alinuxuser.com (dev -> origin/dev)$ install -D content/posts/2007/06/reviews/soldieroffortune2-review.md content/drafts/2007/06/reviews/soldieroffortune2-review.md
