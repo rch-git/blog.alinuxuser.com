@@ -1,20 +1,12 @@
 ---
 title: 'Soldier of Fortune II: Double Helix (PC) Review'
 date: 2007-06-26T00:00:00
-draft: false
+draft: true
 tags: ["game review", "soldier of fortune"]
 ---
 _I finished this game on `Sunday, March 18, 2007, 11:04:00 PM`. This review was first published on GameSpot on June 26, 2007._
 
-Let us ask ourselves, why do we play games? Is it for entertainment? For kicks? To escape reality? To vent our anger and not end up jail?
-
-If you want to vent your anger then you should play Soldier of Fortune 2, because it can work wonders that way. You get to show all your anger on the helpless enemies, who don’t stand a semblance of a chance against your Rambo like ability. You can dismember their body parts, send their heads flying across the room, and spill more blood than you would find in a lot of blood banks…combined.
-
-By the time you are done with this game, you will no longer feel the need to attack your classmate/boss/colleague/ with a shotgun and splatter his/her brains on the wall. You can live your like any normal person without any outward trace of homicidal tendencies. Outward traces, mind you.
-
-Now I might have come across as being mocking, but I am not. This game is certainly not normal that way. Let me explain.
-
-This game is a successor to the violent classic Soldier of Fortune. When Soldier of Fortune was released, it was genre defining in some ways, more so because of the realistic violence within in the game. Until then FPS games were about shooting zombies, stroggs or terrorists holding hostages in tall buildings. They all strived to be politically correct. Not Soldier of Fortune. It couldn’t have cared less about politics.
+Soldier of Fortune II: Double Helix is a successor to the violent classic Soldier of Fortune. When Soldier of Fortune was released, it was genre defining in some ways, more so because of the realistic violence within in the game. Until then FPS games were about shooting zombies, stroggs or terrorists holding hostages in tall buildings. They all strived to be politically correct. Not Soldier of Fortune. It couldn’t have cared less about politics.
 
 That game was one of the most violent games ever to have been released. Before you go on tell me about 11 other games that are equally violent, let me tell you, I haven’t heard of those, so they are not popular enough. But I did hear about Soldier of Fortune, I played and finished the game. I even killed Saddam Hussein and his posse in the game (I told you the game didn’t care about politics).
 
@@ -35,7 +27,7 @@ The locales are varied, and you don’t linger in one place for too long, so at 
 
 There are a variety of weapons, like knives, M1911A1 semi-automatic, AK-47, the special military OICW, shotgun, Uzi pistols, grenade launcher etc. Pistols and Uzi can be dual wielded, although I didn’t use this feature a whole lot, it’s fun initially.
 
-The sound is top notch, with excellent effects. The weapons sound very realistic and they deliver just as well. The enemies emit a guttural sound when they are shot at, scream in different languages depending upon the location. It’s a good acoustic experience with my Creative speakers and Audigy soundcard. Everything sounds crips and clear. Very nice. But the story didn’t have to be believable, although it tries to be. As I said before, its one man out to save the world from a mad terrorist who unleashes a deadly virus onto the world and tries to make millions by manufacturing the antidote. It really doesn’t matter too much; your job is to kill anyone pointing a gun at you. And that’s where the violence comes in.
+The sound is top notch, with excellent effects. The weapons sound very realistic and they deliver just as well. The enemies emit a guttural sound when they are shot at, scream in different languages depending upon the location. It’s a good acoustic experience with my Creative speakers and Audigy soundcard. Everything sounds crisp and clear. Very nice. But the story didn’t have to be believable, although it tries to be. As I said before, its one man out to save the world from a mad terrorist who unleashes a deadly virus onto the world and tries to make millions by manufacturing the antidote. It really doesn’t matter too much; your job is to kill anyone pointing a gun at you. And that’s where the violence comes in.
 
 The violence is very believable. There are a lot of hit zones on the enemies, so they would react depending on where they are shot at. Apparently there are 16 dismemberment zones and 36 damage zones, and they can be killed in a variety of ways using the same weapon, and they will not have the same reaction.
 
