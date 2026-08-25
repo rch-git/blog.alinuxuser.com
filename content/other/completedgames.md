@@ -13,7 +13,7 @@ cover:
   * Thursday, September 7, 2000, 1:30 PM
 ---
 ### 2001 <sup>1</sup>
-* Tomb Raider: The Last Revelation
+* {{< newtab href="/posts/2026/05/reviews/tombraider4-review/" text="<span class='link-color'>Tomb Raider: The Last Revelation</span>" >}}
   * Tuesday, May 29, 2001, 12:29 PM
 ---
 ### 2002 <sup>2</sup>
@@ -75,9 +75,9 @@ cover:
   * Thursday, January 25, 2007, 9:49 AM
 * {{< newtab href="/posts/2007/04/reviews/callofduty-review/" text="<span class='link-color'>Call of Duty</span>" >}}
   * Thursday, February 1, 2007, 4:56 PM
-* Call of Duty United Offensive
+* {{< newtab href="/posts/2009/06/reviews/callofdutyunitedoffensive-review/" text="<span class='link-color'>Call of Duty United Offensive</span>" >}}
   * Monday, February 5, 2007, 10:52 AM
-* Prince of Persia Sands of Time
+* {{< newtab href="/posts/2007/07/reviews/princeofpersiasandsoftime-review/" text="<span class='link-color'>Prince of Persia Sands of Time</span>" >}}
   * Monday, February 26, 2007, 7:49 PM
 * {{< newtab href="/posts/2007/06/reviews/soldieroffortune2-review/" text="<span class='link-color'>Soldier of Fortune 2</span>" >}}
   * Sunday, March 18, 2007, 11:04 PM
@@ -87,15 +87,15 @@ cover:
   * Saturday, May 19, 2007, 5:23 AM
 * {{< newtab href="/posts/2007/06/reviews/redfaction-review/" text="<span class='link-color'>Red Faction</span>" >}}
   * Tuesday, June 12, 2007, 10:19 PM
-* Deus Ex
+* {{< newtab href="/posts/2009/10/reviews/deusex-review/" text="<span class='link-color'>Deus Ex</span>" >}}
   * Thursday, August 2, 2007, 8:17 PM
 * Commandos 2
   * Monday, August 13, 2007, 1:21 AM
 * Red Faction 2
   * Wednesday, August 29, 2007, 8:03 AM
-* Half Life 2
+* {{< newtab href="/posts/2008/01/reviews/half-life2-review/" text="<span class='link-color'>Half Life 2</span>" >}}
   * Tuesday, October 30, 2007, 6:37 PM
-* No One Lives Forever 2
+* {{< newtab href="/posts/2008/02/reviews/nolf2-review/" text="<span class='link-color'>No One Lives Forever 2: A Spy in H.A.R.M.s Way</span>" >}}
   * Tuesday, November 27, 2007, 2:35 PM
 * Half Life 2: Episode One
   * Friday, December 21, 2007, 4:26 PM
@@ -119,7 +119,7 @@ cover:
   * Monday, March 31, 2008, 10:49 PM
 * {{< newtab href="/posts/2008/07/reviews/farcry-review/" text="<span class='link-color'>Far Cry</span>" >}}
   * Thursday, May 1, 2008, 9:31 PM
-* Prince of Persia: Warrior Within
+* {{< newtab href="/posts/2009/03/reviews/princeofpersiawarriorwithin-review/" text="<span class='link-color'>Prince of Persia: Warrior Within</span>" >}}
   * Tuesday, June 3, 2008, 2:14 AM
 ---
 ### 2009 <sup>17</sup>
@@ -145,9 +145,9 @@ cover:
   * Friday, July 31, 2009, 1:03 AM
 * Call of Duty 4: Modern Warfare
   * Saturday, August 1, 2009, 3:18 AM
-* Wolfenstein
+* {{< newtab href="/posts/2009/10/reviews/wolfenstein-review/" text="<span class='link-color'>Wolfenstein (2009)</span>" >}}
   * Thursday, September 3, 2009, 3:02 AM
-* Mirror's Edge
+* {{< newtab href="/posts/2009/09/reviews/mirrorsedge-review/" text="<span class='link-color'>Mirror's Edge</span>" >}}
   * Friday, September 25, 2009, 7:39 PM
 * Crysis Warhead
   * Friday, September 25, 2009, 11:28 PM
@@ -413,7 +413,7 @@ cover:
 ### 2026 <sup>4</sup>
 * {{< newtab href="/posts/2026/04/reviews/robocoproguecity-review/" text="<span class='link-color'>RoboCop Rogue City</span>" >}}
   * Saturday, April 18, 2026, 4:36 PM
-* Batman Arkham Origins
+* {{< newtab href="/posts/2026/08/reviews/batmanarkhamorigins-review/" text="<span class='link-color'>Batman Arkham Origins</span>" >}}
   * Sunday, May 3, 2026, 3:55:00 PM
 * {{< newtab href="/posts/2026/08/reviews/farcry4-review/" text="<span class='link-color'>Far Cry 4</span>" >}}
   * Sunday, August 9, 2026, 2:55 PM CDT

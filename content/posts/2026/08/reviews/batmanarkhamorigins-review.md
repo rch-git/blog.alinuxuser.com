@@ -7,6 +7,8 @@ cover:
   relative: false # ← explicit for static folder images
 tags: ["game review", "batman"]
 ---
+_Finished this game on `Sunday, May 3, 2026, 3:55:00 PM`_
+
 Batman Arkham Origins was developed by WB Games Montreal, while Rocksteady was busy working on Arkham Knight. This game felt like a slightly buggy, less polished prequel of Arkham City. Origins is often forgotten when talking about Batman games; they are referred to as the Arkham trilogy. It is very evident that this game was made to fill in the gap while Rocksteady was busy working on the final game in the trilogy.
 
 Gameplay and combat is very similar to Arkham City. If you liked Arkham City, this is more of the same, but a little less polished. There is a lot of side content in the game. I spent some time doing a little bit of it, but pivoted to doing the story missions. Side content got too repetitive for me. There are some technical issues tied to framerate, and I had to play this game in DX10 mode with certain effects turned off. It ran fine at ultrawide resolution (3440x1440), surprising considering it is made with console in mind. Gameplay, UI are console centric. This is not a horrible PC port, but its definitely not made to take advantage of PC. It manages to look fantastic in certain areas, but having to turn down the visual effects and restricting the framerate in certain areas are classic examples of console first design.
