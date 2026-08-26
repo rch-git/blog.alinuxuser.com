@@ -28,9 +28,9 @@ I decided it wasn't for me. I gave up on it.
 
 ### Battlefield 3 Part 1
 
-After the disaster that was the Alpha, I decided Battlefield and multiplayer gaming wasn't for me. I played singleplayer games, and went on with life.
+After the disaster that was the Alpha, I decided Battlefield and multiplayer gaming wasn't for me. I played single player games, and went on with life.
 
-In december 2011, Battlefield 3 entered my gaming conscious again. I don't remember what led to this, but I wanted to give it another go. Something about the game just caught my attention. Was it the gun play (which i was horrible at)? Was it the gritty military aesthetic? Was it the stellar graphics? Can't say, but I ended up buying it. On Thursday, December 1, 2011, I purchased Battlefield 3 on Amazon for $49.51.
+In December 2011, Battlefield 3 entered my gaming conscious again. I don't remember what led to this, but I wanted to give it another go. Something about the game just caught my attention. Was it the gun play (which i was horrible at)? Was it the gritty military aesthetic? Was it the stellar graphics? Can't say, but I ended up buying it. On Thursday, December 1, 2011, I purchased Battlefield 3 on Amazon for $49.51.
 
 After I downloaded the full game, and I installed it, I opened Battlelog again. This was still something I thought was silly and I hated the idea of launching the game via the browser. I started browsing Battlelog, and I remembered that back when I played Battlefield 2 demo with bots, I played the conquest mode (even though I didn't really understand what conquest meant. I used to play conquest like TDM). So I decided to look for conquest games in the server browser. Having found one, I joined it, and I remember it put me to Grand Bazar. I remember thinking the map looked amazing. I was still very bad at the game. I finished near the bottom. Maybe got one or two kills. Quite sure I played as Engineer, and tried to use the RPG on infantry, expecting it to work like Quake 3, and of course it didn't. I got killed almost immediately.
 
