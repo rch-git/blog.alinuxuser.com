@@ -20,7 +20,8 @@ Aiming with the mouse definitely feels a little bit off, but that could be becau
 
 `Wednesday, August 26, 2026, 7:55 PM CDT`
 
-Camera is weird. Combat is not horrible. There is definitely something wrong with the way the camera works in this game. When I try to rotate the camera by moving the mouse, sometimes it just does not respond, almost as if the game is holding the camera at a static angle because it wants me to look at something, but there is nothing to look at. Its not like The Witcher 3.
+Combat is not horrible. There is definitely something wrong with the way the camera works in this game. When I try to rotate the camera by moving the mouse, sometimes it just does not respond, almost as if the game is holding the camera at a static angle because it wants me to look at something, but there is nothing to look at. Its not like The Witcher 3.
 
-Game definitely does not want you to have full control over the camera. 
+Game definitely does not want you to have full control over the camera. Its not a very smooth experience.
 
+Going to play for a little bit more. I feel I should stream this game, but it will probably be a waste of  Twitch's bandwidth. 
