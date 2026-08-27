@@ -32,3 +32,18 @@ Final session before I call it a night.
 
 Had to stop because of a phone call. Will play more tomorrow. 
 
+`Thursday, August 27, 2026, 5:31 AM CDT`
+
+Weekday early morning gaming. Going to try and finish the game before the weekend. Have a dentist appointment tomorrow, and also took the day off from work.
+
+I am not super impressed with the game so far. Lets see if it changes. 
+
+`Thursday, August 27, 2026, 5:45 AM CDT`
+
+This game came out in 2013. I had to lock the framerate and enable vsyc for the game to not be jittery. It didn't help. I am not sure I want to continue playing. I will look for a patch or a mod that can resolve this. 
+
+`Thursday, August 27, 2026, 6:17 AM CDT`
+
+Applying the fixes from pcgamingwiki didn't really seem to solve the problem. For now, I have to play with vsync enabled and live with ~60 fps or so. Very poorly optimized game for the PC. Its meant to played at 30 fps on consoles. Looks good though. Can't believe Crytek made a game like this. 
+
+I think this game is meant for the retro PC. Its not meant to be played on Alderlake. 
