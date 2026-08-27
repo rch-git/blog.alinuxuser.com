@@ -24,4 +24,11 @@ Combat is not horrible. There is definitely something wrong with the way the cam
 
 Game definitely does not want you to have full control over the camera. Its not a very smooth experience.
 
-Going to play for a little bit more. I feel I should stream this game, but it will probably be a waste of  Twitch's bandwidth. 
+Going to play for a little bit more. I feel I should stream this game, but it will probably be a waste of Twitch's bandwidth. 
+
+`Wednesday, August 26, 2026, 8:22 PM CDT`
+
+Final session before I call it a night. 
+
+Had to stop because of a phone call. Will play more tomorrow. 
+
