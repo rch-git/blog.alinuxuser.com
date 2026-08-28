@@ -55,3 +55,11 @@ Installed the game on Ivylake. Going to see how it will perform.
 Well, the performance is awful. Even worse. I don't understand how this game from 2013 performs to poorly. I played it on a machine with 3080Ti and I am now playing on a machine with 1070Ti. Its awful on both machines. I don't get it. Should I continue to play at ~30-45 FPS? Or is life too short for that?
 
 I played a little bit more. Its a fun enough game, but the performance is really awful. I am going to stop for now and think about my refinance options and then sleep early because I have a dentist appointment coming up. 
+
+`Friday, August 28, 2026, 10:51 AM CDT`
+
+Got the game working on Alderlake with some tweaks. I had to enable some settings in the Nvidia app to get the game to run without the stuttering. Easy enough. 
+
+Enemy models are recycled. Often times you fight with two identical enemies at the same time. Goofy. 
+
+Good looking game, but this is meant for console players. 
