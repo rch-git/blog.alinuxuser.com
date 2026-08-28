@@ -2,7 +2,7 @@
 title: 'Ryse Son of Rome Diary'
 date: 2026-08-26T16:46:17
 draft: false
-tags: ["game review"]
+tags: ["game diary"]
 ---
 #### Wednesday, August 26, 2026, 4:47 PM CDT
 
@@ -63,3 +63,21 @@ Got the game working on Alderlake with some tweaks. I had to enable some setting
 Enemy models are recycled. Often times you fight with two identical enemies at the same time. Goofy. 
 
 Good looking game, but this is meant for console players. 
+
+Checkpoints are also uneven and annoying. Of course this game doesn't have quick or manual save. Its like developers think that having a manual save system would confuse console players or something. 
+
+`Friday, August 28, 2026, 12:57 PM CDT`
+
+Streaming some more. 
+
+`Friday, August 28, 2026, 2:20 PM CDT`
+
+Absolutely no enemy variety. Its just not a good game. The tone shifts from regular battles to a weird survival horror theme. I don't get it. I would be shocked if this game scored anything above a 6/10.
+
+`Friday, August 28, 2026, 3:20 PM CDT`
+
+Going to play some more. Not streaming. 
+
+`Friday, August 28, 2026, 3:51 PM CDT`
+
+Glott fight is the dumbest thing. I am going to retire the game. 
