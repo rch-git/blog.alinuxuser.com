@@ -47,3 +47,11 @@ This game came out in 2013. I had to lock the framerate and enable vsyc for the 
 Applying the fixes from pcgamingwiki didn't really seem to solve the problem. For now, I have to play with vsync enabled and live with ~60 fps or so. Very poorly optimized game for the PC. Its meant to played at 30 fps on consoles. Looks good though. Can't believe Crytek made a game like this. 
 
 I think this game is meant for the retro PC. Its not meant to be played on Alderlake. 
+
+`Thursday, August 27, 2026, 8:05 PM CDT`
+
+Installed the game on Ivylake. Going to see how it will perform. 
+
+Well, the performance is awful. Even worse. I don't understand how this game from 2013 performs to poorly. I played it on a machine with 3080Ti and I am now playing on a machine with 1070Ti. Its awful on both machines. I don't get it. Should I continue to play at ~30-45 FPS? Or is life too short for that?
+
+I played a little bit more. Its a fun enough game, but the performance is really awful. I am going to stop for now and think about my refinance options and then sleep early because I have a dentist appointment coming up. 
