@@ -96,3 +96,8 @@ Can't wait to write a negative review of this game. Also, this will be the last 
 
 I will see if I can finish the game today. I can if I push myself. 
 
+`Friday, August 28, 2026, 10:33 PM CDT`
+
+Finished the game. Bad game. I don't know how it got positive reviews. Compared to anything Crytek made, this is subpar. The last level is boring. Everything is padded to extend gameplay time. 
+
+You fight the same characters over and over again. Combat is repetitive. If this is considered a good game by console players, then I have to conclude that their tolerance for very mediocre games is very high. 
