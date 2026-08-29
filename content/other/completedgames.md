@@ -419,5 +419,5 @@ cover:
   * Sunday, August 9, 2026, 2:55 PM CDT
 * {{< newtab href="/posts/2026/08/reviews/fear3-review/" text="<span class='link-color'>F.E.A.R 3</span>" >}}
   * Saturday, August 15, 2026, 5:55:00 PM CDT
-* {{< newtab href="/posts/2026/08/reviews/risesonofrome-review/" text="<span class='link-color'>Ryse: Son of Rome</span>" >}}
+* {{< newtab href="/posts/2026/08/reviews/rysesonofrome-review/" text="<span class='link-color'>Ryse: Son of Rome</span>" >}}
   * Friday, August 28, 2026, 10:32:00 PM CDT
