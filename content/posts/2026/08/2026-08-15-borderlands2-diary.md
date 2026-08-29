@@ -23,3 +23,5 @@ Finished one of the boss levels. Not too bad. Not a big fan of the save system. 
 Has the problem where you get stuck on terrain. 
 
 Going to pause for now, and get back to it. Might play some FC5 on ArrowLake.
+
+Feels like a much more polished version of the first game. Inventory is not excellent. 
