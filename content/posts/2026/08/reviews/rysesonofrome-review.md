@@ -15,7 +15,7 @@ This one could have been amazing. Design choices turned it into an extremely med
 
 The only real positive is that it is short. Steam shows 8.3 hours played. Roughly spent 1 hour troubleshooting technical issues.
 
-## A bad console port
+### A bad console port
 
 The game has framerate problems. On my main machine (i7-12700K, RTX 3080 Ti, 2560×1440) I was stuck around 30 FPS. I run a 320 Hz monitor and wondered if that was causing the stutter. So I installed it on my retro PC (i7-4770K, GTX 1070 Ti, 1920×1200 @ 60 Hz). Same issue.
 
@@ -32,7 +32,7 @@ A bit of searching turned up some helpful fixes: a few configuration-file tweaks
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/rysesonofrome-review/02-rysesonofrome-review.jpg"
 >}}
 
-#### Looks expensive, plays cheap
+### Looks expensive, plays cheap
 
 There are maybe five character models in the entire game and they get recycled constantly. You fight the same faces over and over. It gave me The Witcher vibes (that game was notorious for reusing NPCs).
 
