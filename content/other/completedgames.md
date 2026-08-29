@@ -113,7 +113,7 @@ cover:
   * Wednesday, March 5, 2008, 1:40 AM
 * Half Life 2: Episode Two
   * Sunday, March 9, 2008, 12:46 AM
-* Splinter Cell
+* {{< newtab href="/posts/2008/04/reviews/splintercell-review/" text="<span class='link-color'>Tom Clancy's Splinter Cell</span>" >}}
   * Tuesday, March 25, 2008, 6:28 PM
 * Half-Life: Opposing Force
   * Monday, March 31, 2008, 10:49 PM
