@@ -410,7 +410,7 @@ cover:
 * Dishonored Death of the Outsider
   * Sunday, November 2, 2025, 1:33 PM
 ---
-### 2026 <sup>4</sup>
+### 2026 <sup>5</sup>
 * {{< newtab href="/posts/2026/04/reviews/robocoproguecity-review/" text="<span class='link-color'>RoboCop Rogue City</span>" >}}
   * Saturday, April 18, 2026, 4:36 PM
 * {{< newtab href="/posts/2026/08/reviews/batmanarkhamorigins-review/" text="<span class='link-color'>Batman Arkham Origins</span>" >}}
@@ -419,3 +419,5 @@ cover:
   * Sunday, August 9, 2026, 2:55 PM CDT
 * {{< newtab href="/posts/2026/08/reviews/fear3-review/" text="<span class='link-color'>F.E.A.R 3</span>" >}}
   * Saturday, August 15, 2026, 5:55:00 PM CDT
+* {{< newtab href="/posts/2026/08/reviews/risesonofrome-review/" text="<span class='link-color'>Ryse: Son of Rome</span>" >}}
+  * Friday, August 28, 2026, 10:32:00 PM CDT
