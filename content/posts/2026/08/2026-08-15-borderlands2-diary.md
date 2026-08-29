@@ -15,3 +15,11 @@ Still yet to play it. Finished a couple of games. Will probably start playing th
 `Saturday, August 29, 2026, 3:13 PM CDT`
 
 Played the game for a bit. Liking it. The floating movement from the first game is still there. I think there are good times to be with this game. It looks a lot better. 
+
+`Saturday, August 29, 2026, 4:04 PM CDT`
+
+Finished one of the boss levels. Not too bad. Not a big fan of the save system. Starts you all the way at the mission if you quit in between. It is more forgiving if you die mid mission. 
+
+Has the problem where you get stuck on terrain. 
+
+Going to pause for now, and get back to it. Might play some FC5 on ArrowLake
