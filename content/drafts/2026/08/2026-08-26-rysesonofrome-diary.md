@@ -81,3 +81,18 @@ Going to play some more. Not streaming.
 `Friday, August 28, 2026, 3:51 PM CDT`
 
 Glott fight is the dumbest thing. I am going to retire the game. 
+
+`Friday, August 28, 2026, 4:32 PM CDT`
+
+Finished the Glott fight. It was dumb. The next level is dumb too. If the repetitive fights, cut scenes are removed, this game will be like 3 hours long. 
+
+`Friday, August 28, 2026, 5:03 PM CDT`
+
+Playing again. 
+
+Can't wait to write a negative review of this game. Also, this will be the last bad game I will play. Not worth my time. 
+
+`Friday, August 28, 2026, 7:26 PM CDT`
+
+I will see if I can finish the game today. I can if I push myself. 
+
