@@ -129,3 +129,19 @@ Playing some more. I do not like the music in this game. Especially the menu mus
 `Sunday, August 30, 2026, 8:37 AM CDT`
 
 I am finding this game boring now. The repetitive open world stuff is getting to me. Might take a break from this game for a while. 
+
+`Sunday, August 30, 2026, 9:49 AM CDT`
+
+Not much of a break. I am going to play some more and then I will head out for grocery shopping and pizza. 
+
+`Sunday, August 30, 2026, 10:40 AM CDT`
+
+Closing now. I will resume later today. I might play Borderlands 2 on AlderLake. I should think of a game to run on IvyBridge. 
+
+`Sunday, August 30, 2026, 4:36 PM CDT`
+
+Going to play some more. Done with shopping. 
+
+`Sunday, August 30, 2026, 4:45 PM CDT`
+
+Feel like taking a nap. Will eat something and nap for a while. 
