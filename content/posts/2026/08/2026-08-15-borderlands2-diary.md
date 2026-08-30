@@ -33,3 +33,7 @@ I am going to play some more. Just about to get access to a vehicle.
 `Saturday, August 29, 2026, 8:50 PM CDT`
 
 Vehicle handling is just as bad as Borderlands. Not a fan. 
+
+`Saturday, August 29, 2026, 10:04 PM CDT`
+
+Played some more. Closing for the night. Might not get to play tomorrow. Have to do grocery shopping tomorrow. 
