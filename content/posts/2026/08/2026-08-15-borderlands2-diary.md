@@ -25,3 +25,11 @@ Has the problem where you get stuck on terrain.
 Going to pause for now, and get back to it. Might play some FC5 on ArrowLake.
 
 Feels like a much more polished version of the first game. Inventory is not excellent. 
+
+`Saturday, August 29, 2026, 5:41 PM CDT`
+
+I am going to play some more. Just about to get access to a vehicle. 
+
+`Saturday, August 29, 2026, 8:50 PM CDT`
+
+Vehicle handling is just as bad as Borderlands. Not a fan. 
