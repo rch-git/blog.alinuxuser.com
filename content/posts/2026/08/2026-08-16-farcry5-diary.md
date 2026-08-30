@@ -124,4 +124,8 @@ For now, I will close this. I will use the laptop in bed to work on the Batman A
 
 #### Sunday, August 30, 2026, 7:52 AM CDT
 
-Playing some more. I do not like the music in this game. Especially the menu music. 
+Playing some more. I do not like the music in this game. Especially the menu music. Not being able to globally disable radio in vehicles is super annoying. 
+
+`Sunday, August 30, 2026, 8:37 AM CDT`
+
+I am finding this game boring now. The repetitive open world stuff is getting to me. Might take a break from this game for a while. 
