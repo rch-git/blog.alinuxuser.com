@@ -121,3 +121,7 @@ Going to play for a little bit more. Finished eating. Was on the phone for a bit
 I feel too tired to play. Too much carbs. Got to stop doing that. I didn't finish the mission I wanted to finish. I will play more soon. Judging by the way things are going, I don't think I will play more during the week. I will get to the game over the next weekend. 
 
 For now, I will close this. I will use the laptop in bed to work on the Batman Arkham Origins review. 
+
+#### Sunday, August 30, 2026, 7:52 AM CDT
+
+Playing some more. I do not like the music in this game. Especially the menu music. 
