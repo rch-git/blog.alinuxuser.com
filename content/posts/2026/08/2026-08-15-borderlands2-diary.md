@@ -37,3 +37,11 @@ Vehicle handling is just as bad as Borderlands. Not a fan.
 `Saturday, August 29, 2026, 10:04 PM CDT`
 
 Played some more. Closing for the night. Might not get to play tomorrow. Have to do grocery shopping tomorrow. 
+
+#### Monday, August 31, 2026, 7:38 PM CDT
+
+Weekday gaming. 
+
+Action packed level. Enjoyed it. Penalty for death is high. Died like 3 times. Each time is was over $100. Very steep.
+
+When looting bodies, you get maybe $5. Insane. 
