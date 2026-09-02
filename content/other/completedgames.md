@@ -387,7 +387,7 @@ cover:
   * Saturday, July 27, 2024, 2:21 PM
 * {{< newtab href="/posts/2024/08/reviews/borderlands-review/" text="<span class='link-color'>Borderlands</span>" >}}
   * Saturday, August 3, 2024, 11:18 AM
-* X-Men Origins: Wolverine Uncaged Edition
+* {{< newtab href="/posts/2026/08/reviews/xmenoriginswolverine-review/" text="<span class='link-color'>X-Men Origins: Wolverine Uncaged Edition</span>" >}}
   * Saturday, August 3, 2024, 5:37 PM
 * Dishonored Knife of Dunwall
   * Saturday, August 10, 2024, 7:29 AM
