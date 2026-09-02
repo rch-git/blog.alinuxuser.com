@@ -2,6 +2,10 @@
 title: 'X-Men Origins: Wolverine Uncaged Edition (PC) Review'
 date: 2026-08-29T16:19:54
 draft: false
+cover:
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/xmenoriginswolverine-review/01-xmenoriginswolverine-review.jpg"
+  caption: 'Made with Grok'
+  relative: false # ← explicit for static folder images
 tags: ["game review", "xmen"]
 ---
 _I finished this game on `Saturday, August 3, 2024, 5:37 PM`._
@@ -14,9 +18,31 @@ The console-centric design is obvious. You get the usual suspects: repetitive le
 
 Some boss fights, like the Sentinel encounters, are fun. The Leviathan fights can go to hell. They weren't even enjoyable the first time, let alone when you have to do them again. It didn't take me long to finish the game. There are a couple of frustrating sections here and there, but overall they managed to keep it from becoming irritating.
 
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/xmenoriginswolverine-review/03-xmenoriginswolverine-review.jpg"
+    width="640"
+    align="center"
+    caption="Leviathan"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/xmenoriginswolverine-review/03-xmenoriginswolverine-review.jpg"
+>}}
+
 When the levels aren't being repetitive, some of the locations are quite interesting. The African levels could never be made today. Corporate would never approve them. Game journalists would feign outrage, and everyone would have to pretend it was a human rights violation.
 
 The game follows the movie's plot. It tries to stay true to it and does a good job. There are a few changes here and there, but they stuck to the events of the film. You also get to fight the mute Deadpool as shown in the movie. I like the developers' attention to detail and their commitment to Wolverine's history. The loading screens have some interesting trivia, which I enjoyed. There's also a Portal reference. This was 2009. The Orange Box was a cultural phenomenon.
+
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/xmenoriginswolverine-review/04-xmenoriginswolverine-review.jpg"
+    width="640"
+    align="center"
+    caption="Deadpool"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/xmenoriginswolverine-review/04-xmenoriginswolverine-review.jpg"
+>}}
 
 Voice acting is quite good. If I'm not mistaken, they had the movie cast do the voice work.
 
