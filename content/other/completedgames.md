@@ -113,7 +113,7 @@ cover:
   * Wednesday, March 5, 2008, 1:40 AM
 * Half Life 2: Episode Two
   * Sunday, March 9, 2008, 12:46 AM
-* Splinter Cell
+* {{< newtab href="/posts/2008/04/reviews/splintercell-review/" text="<span class='link-color'>Tom Clancy's Splinter Cell</span>" >}}
   * Tuesday, March 25, 2008, 6:28 PM
 * Half-Life: Opposing Force
   * Monday, March 31, 2008, 10:49 PM
@@ -387,7 +387,7 @@ cover:
   * Saturday, July 27, 2024, 2:21 PM
 * {{< newtab href="/posts/2024/08/reviews/borderlands-review/" text="<span class='link-color'>Borderlands</span>" >}}
   * Saturday, August 3, 2024, 11:18 AM
-* X-Men Origins: Wolverine Uncaged Edition
+* {{< newtab href="/posts/2026/08/reviews/xmenoriginswolverine-review/" text="<span class='link-color'>X-Men Origins: Wolverine Uncaged Edition</span>" >}}
   * Saturday, August 3, 2024, 5:37 PM
 * Dishonored Knife of Dunwall
   * Saturday, August 10, 2024, 7:29 AM

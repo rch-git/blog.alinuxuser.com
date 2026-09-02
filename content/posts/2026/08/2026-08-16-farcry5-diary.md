@@ -121,3 +121,27 @@ Going to play for a little bit more. Finished eating. Was on the phone for a bit
 I feel too tired to play. Too much carbs. Got to stop doing that. I didn't finish the mission I wanted to finish. I will play more soon. Judging by the way things are going, I don't think I will play more during the week. I will get to the game over the next weekend. 
 
 For now, I will close this. I will use the laptop in bed to work on the Batman Arkham Origins review. 
+
+#### Sunday, August 30, 2026, 7:52 AM CDT
+
+Playing some more. I do not like the music in this game. Especially the menu music. Not being able to globally disable radio in vehicles is super annoying. 
+
+`Sunday, August 30, 2026, 8:37 AM CDT`
+
+I am finding this game boring now. The repetitive open world stuff is getting to me. Might take a break from this game for a while. 
+
+`Sunday, August 30, 2026, 9:49 AM CDT`
+
+Not much of a break. I am going to play some more and then I will head out for grocery shopping and pizza. 
+
+`Sunday, August 30, 2026, 10:40 AM CDT`
+
+Closing now. I will resume later today. I might play Borderlands 2 on AlderLake. I should think of a game to run on IvyBridge. 
+
+`Sunday, August 30, 2026, 4:36 PM CDT`
+
+Going to play some more. Done with shopping. 
+
+`Sunday, August 30, 2026, 4:45 PM CDT`
+
+Feel like taking a nap. Will eat something and nap for a while. 

@@ -63,3 +63,8 @@ git push --force
 
 # copy file from one location to another when the directories in the destination might not exist
 sysuser@ubuntuprod:~/git/blog.alinuxuser.com (dev -> origin/dev)$ install -D content/posts/2007/06/reviews/soldieroffortune2-review.md content/drafts/2007/06/reviews/soldieroffortune2-review.md
+
+
+mkdir -p /home/sysuser/git/blog.alinuxuser.com/content/posts/2026/08/reviews && \
+mv /home/sysuser/git/blog.alinuxuser.com/content/drafts/2026/08/reviews/xmenoriginswolverine-review.md \
+   /home/sysuser/git/blog.alinuxuser.com/content/posts/2026/08/reviews/xmenoriginswolverine-review.md
