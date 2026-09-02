@@ -46,6 +46,6 @@ The game follows the movie's plot. It tries to stay true to it and does a good j
 
 Voice acting is quite good. If I'm not mistaken, they had the movie cast do the voice work.
 
-I played this at a point in my life when I was spending time on mediocre games. I was approaching my backlog all wrong. Life is too short, and I don't know how long PC gaming as a hobby will stay affordable, so it matters not to waste time on mediocre games. The best games in the backlog should be tackled first, no matter how long they take. Greatness has to be experienced fully. Only then should the mediocre ones get a turn.
+I played this at a point in my life when I was spending time on mediocre games. I was approaching my backlog all wrong. Life is too short, and I don't know how long PC gaming as a hobby will stay affordable. The best games in the backlog should be tackled first, no matter how long they take. Greatness has to be experienced fully. Only then should the mediocre ones get a turn.
 
 Would I recommend playing this in 2026? Assuming you can get your hands on it and have nothing else to play, sure. I think it's a better game than Ryse: Son of Rome. It would have been a great game if it had managed to free itself from the shackles of corporate-imposed mediocrity.
