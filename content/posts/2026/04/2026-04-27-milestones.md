@@ -20,7 +20,7 @@ Sherlock Holmes captured the feeling perfectly:
 
 To keep my “brain attic” clear, I quit reading headlines entirely. The Middle East could have been collapsing, the market could have been crashing—I remained happily ignorant. I also stopped checking my portfolio. I know I won’t make decisions based on daily noise, and watching volatility added nothing useful.
 
-On April 16, 2026, while stuck in the Charleston, SC airport on my way home, I finally glanced at the market. The S&P 500 had closed at `7041.28`. My 100% US-equity portfolio had quietly hit a major milestone.
+On April 16, 2026, while waiting for my flight Charleston, SC airport on my way home, I finally glanced at the market. The S&P 500 had closed at `7041.28`. My 100% US-equity portfolio had quietly hit a major milestone.
 
 {{<
     figure
@@ -45,7 +45,7 @@ I still remember the infamous 2016 CNN headline: {{< newtab href="https://raw.gi
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/trump_stocks_DE5mdvKVYAAxlY0.jpg"
 >}}
 
-Today—2,460 trading days later—the S&P 500 closed at `7126.03` (April 17, 2026). In nearly 2,400 days, not a single week passed without someone predicting imminent collapse, World War III, or the next civilization-ending pandemic. None of it materialized anywhere near the scale the experts claimed. Could something catastrophic still be around the corner? Of course. No one knows. That’s precisely the point. The talking heads pretend they do; the rest of us simply live with uncertainty.
+Today, 2,460 trading days later, the S&P 500 closed at `7126.03` (April 17, 2026). In nearly 2,400 days, not a single week passed without someone predicting imminent collapse, World War III, or the next civilization-ending pandemic. None of it materialized anywhere near the scale the experts claimed. Could something catastrophic still be around the corner? Of course. No one knows. That’s precisely the point. The talking heads pretend they do; the rest of us simply live with uncertainty.
 
 {{<
     figure
@@ -86,7 +86,7 @@ Coming to the current situation, we see a similar trend.
 | April 8, 2026     | Rebound           | U.S.-Iran ceasefire/truce signals emerge; major relief rally begins as investors price in de-escalation.  |
 | April 15, 2026    | `7022.95`         | New all-time high; S&P 500 surpasses previous record (Jan 28 high) and crosses back above 7000. Full recovery of all Iran-war losses + new record set.|
 
-All the while, there were people online who were predicting the end of the world. Whether they truly believed these delusions or they were doing this for attention is hard to say. I am not in favor of wars, that said, if a war is inevitable, I'd rather America win by crushing its enemies. Can all this change on Monday April 20, 2026? Yes. I know I will not be doing anything different, I will stay the course.
+All the while, there were people online who were predicting the end of the world. Whether they truly believed these delusions or they were doing this for attention is hard to say. I am not in favor of wars, that said, if a war is inevitable, I'd rather America win. Can all this change on Monday April 20, 2026? Yes. I know I will not be doing anything different, I will stay the course.
 
 #### A Personal Milestone
 
@@ -109,8 +109,6 @@ Going forward I want to think less about numbers and more about life. The last f
 
 I refuse lifestyle inflation. Buying things creates stress, not joy. Instead, I want to spend more on experiences. Going out alone for a meal was uncharacteristic for me, yet surprisingly pleasant. I plan to do it more often. A few dollars here and there won’t matter at this stage.
 
-Wins in life are rare. I am going to celebrate them. I know I’m not the only person quietly marking financial milestones—plenty in the FI community do the same—but I have no interest in FIRE. I like the “FI” part; the “RE” part holds no appeal. I want to do meaningful work for as long as I can.
-
-Another, larger milestone is still ahead. When I reach it, I’ll celebrate that one too.
+Wins in life are rare. I am going to celebrate them. Another, larger milestone is still ahead. When I reach it, I’ll celebrate that one too.
 
 *This post is published on April 18, 2026, Saturday, 10:11:19 AM CDT*

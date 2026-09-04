@@ -22,7 +22,7 @@ I am going to talk about the game from the perspective of someone who played it 
 
 Tomb Raider III was a tough game to start my Tomb Raider journey. I did not realize this at the time, but it is infamous for its difficulty. I just assumed that Tomb Raider games were _supposed_ to be so difficult. I needed a walkthrough for that game from the get-go. My 17-year-old non-gamer brain just couldn't figure out the puzzles. Tomb Raider IV is not quite as difficult. I gained some experience at this point, and I was able to make my way through the levels initially without too much difficulty.
 
-However, there are some levels that are notoriously bad due to their arbitrary design. There are some levels towards the end that are a total nightmare -- especially levels with underwater puzzles, and guardians that cannot be killed. Back then, without a video walk-through, the only option was to read the walk-through, memorize as much as possible, and start the game and play it -- Alt-Tab didn't work very well for 3D applications.
+However, there are some levels that are notoriously bad due to their arbitrary design -- especially levels with underwater puzzles, and guardians that cannot be killed. Back then the only option was to read the walk-through, memorize as much as possible, and start the game and play it -- Alt-Tab didn't work very well for 3D applications.
 
 Without GameRevolution.com, I never would have finished the classic Tomb Raider games.
 
