@@ -161,3 +161,21 @@ Thankfully, found a bear in the wild. Finished the mission. I realized I have to
 Far Cry 5 can't decide what it wants to be. Its trying to be an open world RPG, but all the RPG systems are so damn shallow. I see games making this mistake where they can't really commit to one philosophy, and try to be everything for everyone, and this just dilutes the experience. 
 
 This is what Red Dead Redemption 2 got right. It has silly RPG elements, but the game is about exploring the world, the fantastic random encounters, the wildlife...all that is extremely well done. Far Cry 5 is very shallow in that regard. 
+
+`Friday, September 4, 2026, 1:53 PM CDT`
+
+Came back from dentist. Ate ice cream. Left side of my face feels funny. Time for some Far Cry 5. 
+
+When you are in Faith's region, she interrupts your game, and now you are having to listen to this long cut scene and doing some random mission. Super irritating. Just let me play my game! 
+
+`Friday, September 4, 2026, 2:44 PM CDT`
+
+Finished a main mission. The one where I have to topple a giant statue. I am going to take a break. Eat something and get some sleep. My face hurts. 
+
+`Friday, September 4, 2026, 4:45 PM CDT`
+
+I ate, got some Dr. Thunder, time to play more story missions. 
+
+`Friday, September 4, 2026, 5:37 PM CDT`
+
+Need to find 3 grizzly bear skins. No clue where I might find it. I am bored. I will take a break and play again. Going to take a nap. 
