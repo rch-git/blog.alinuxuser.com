@@ -145,3 +145,7 @@ Going to play some more. Done with shopping.
 `Sunday, August 30, 2026, 4:45 PM CDT`
 
 Feel like taking a nap. Will eat something and nap for a while. 
+
+#### Friday, September 4, 2026, 6:36 AM CDT
+
+Far Cry 5 time. Got a dentist appointment for deep cleaning at 10:10AM. I will try to finish the game over the weekend. Unlikely. 
