@@ -61,3 +61,13 @@ Weekday gaming. Got to finish this mission. No idea why I am doing what I am doi
 `Tuesday, September 1, 2026, 9:07 PM CDT`
 
 Finished the Save Roland mission. Back in Sanctuary. Back to bed. 
+
+#### Thursday, September 3, 2026, 9:39 PM CDT
+
+Going to play for a little bit. 
+
+`Thursday, September 3, 2026, 10:22 PM CDT`
+
+Finished a long pizza delivery side mission. Had to go back to the same bloodshot(?) hideout that I went to in the previous main mission. 
+
+Still not a big fan of Diablo like save system. Too much backtracking. Like the game overall. 
