@@ -20,7 +20,7 @@ Sherlock Holmes captured the feeling perfectly:
 
 To keep my “brain attic” clear, I quit reading headlines entirely. The Middle East could have been collapsing, the market could have been crashing—I remained happily ignorant. I also stopped checking my portfolio. I know I won’t make decisions based on daily noise, and watching volatility added nothing useful.
 
-On April 16, 2026, while waiting for my flight Charleston, SC airport on my way home, I finally glanced at the market. The S&P 500 had closed at `7041.28`. My 100% US-equity portfolio had quietly hit a major milestone.
+On April 16, 2026, while waiting for my flight in Charleston, SC airport, I finally glanced at the market. S&P 500 closed at `7041.28`. My 100% US-equity portfolio quietly hit a major milestone.
 
 {{<
     figure
