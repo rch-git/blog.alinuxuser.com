@@ -149,3 +149,15 @@ Feel like taking a nap. Will eat something and nap for a while.
 #### Friday, September 4, 2026, 6:36 AM CDT
 
 Far Cry 5 time. Got a dentist appointment for deep cleaning at 10:10AM. I will try to finish the game over the weekend. Unlikely. 
+
+`Friday, September 4, 2026, 7:48 AM CDT`
+
+I will try to finish the main mission for the doctor character. Got to hunt some animals. That's not a lot of fun. 
+
+`Friday, September 4, 2026, 8:05 AM CDT`
+
+Thankfully, found a bear in the wild. Finished the mission. I realized I have to talk to characters to unlock main missions. This is the part I did not like. Boring exposition.
+
+Far Cry 5 can't decide what it wants to be. Its trying to be an open world RPG, but all the RPG systems are so damn shallow. I see games making this mistake where they can't really commit to one philosophy, and try to be everything for everyone, and this just dilutes the experience. 
+
+This is what Red Dead Redemption 2 got right. It has silly RPG elements, but the game is about exploring the world, the fantastic random encounters, the wildlife...all that is extremely well done. Far Cry 5 is very shallow in that regard. 
