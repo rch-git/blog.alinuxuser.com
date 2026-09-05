@@ -208,4 +208,8 @@ Might go to Sam's later. I will play for a little bit more. The game is so well 
 
 `Saturday, September 5, 2026, 10:31 AM CDT`
 
-Will finish another mission and then get ready to go to Sam's. 
+Will finish another mission and then get ready to go to Sam's.
+
+`Saturday, September 5, 2026, 10:53 AM CDT`
+
+Another mission where I lose my weapons and have to stumble may around some idiotic scenario concocted by the developers to pad gameplay. This is boring. Going to take a break and play again after I am back from Sam's. 
