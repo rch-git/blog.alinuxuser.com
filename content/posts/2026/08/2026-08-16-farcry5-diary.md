@@ -179,3 +179,15 @@ I ate, got some Dr. Thunder, time to play more story missions.
 `Friday, September 4, 2026, 5:37 PM CDT`
 
 Need to find 3 grizzly bear skins. No clue where I might find it. I am bored. I will take a break and play again. Going to take a nap. 
+
+`Friday, September 4, 2026, 7:33 PM CDT`
+
+Slept for a bit. Feel better. Eating ice cream. Going to play some more now. 
+
+`Friday, September 4, 2026, 8:54 PM CDT`
+
+The mission where you have to get 3 grizzly bear skins is one of the dumbest. There is no area on the map that spawn grizzly bears. They just teleport randomly in Faith's region, at least that's how I got all three. I just have to hang out in that area and kill time, and they spawn. Its so stupid. 
+
+`Friday, September 4, 2026, 11:06 PM CDT`
+
+Finished the Faith region. There are two more to go. Dream sequences are a total nuisance. The story is just the dumbest thing in the entire series. 
