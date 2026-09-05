@@ -201,3 +201,7 @@ Goal is finish one of the other regions today.
 I did the Widowmaker mission. Its fun. Keeping coming back to the design choices. 
 
 Taking a little break. 
+
+`Saturday, September 5, 2026, 9:31 AM CDT`
+
+Might go to Sam's later. I will play for a little bit more. The game is so well done in certain parts. Pity the entire game isn't like that. Beautiful graphics. 
