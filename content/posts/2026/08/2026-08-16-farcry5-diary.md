@@ -213,3 +213,12 @@ Will finish another mission and then get ready to go to Sam's.
 `Saturday, September 5, 2026, 10:53 AM CDT`
 
 Another mission where I lose my weapons and have to stumble may around some idiotic scenario concocted by the developers to pad gameplay. This is boring. Going to take a break and play again after I am back from Sam's. 
+
+`Saturday, September 5, 2026, 3:06 PM CDT`
+
+Got back from Sam's. Pizza was good. Now, its time to game. 
+
+`Saturday, September 5, 2026, 4:15 PM CDT`
+
+Finished a couple of missions. The mission where I lose access to my weapons is super annoying. I got over it quick. 
+
