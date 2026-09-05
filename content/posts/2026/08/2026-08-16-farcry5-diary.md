@@ -191,3 +191,13 @@ The mission where you have to get 3 grizzly bear skins is one of the dumbest. Th
 `Friday, September 4, 2026, 11:06 PM CDT`
 
 Finished the Faith region. There are two more to go. Dream sequences are a total nuisance. The story is just the dumbest thing in the entire series. 
+
+#### Saturday, September 5, 2026, 7:51 AM CDT
+
+Goal is finish one of the other regions today. 
+
+`Saturday, September 5, 2026, 8:42 AM CDT`
+
+I did the Widowmaker mission. Its fun. Keeping coming back to the design choices. 
+
+Taking a little break. 
