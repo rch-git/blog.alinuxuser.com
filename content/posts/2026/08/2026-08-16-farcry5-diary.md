@@ -252,4 +252,14 @@ Playing more while watching Peter Santenello's video on Flint, MI. Some really k
 
 `Sunday, September 6, 2026, 11:00 AM CDT`
 
-Finished the Grandview hotel mission. Pretty good. Enemy AI is dumb as bricks. 
+Finished the Grandview hotel mission. Pretty good. Enemy AI is dumb as rocks. 
+
+`Sunday, September 6, 2026, 11:39 AM CDT`
+
+Uploaded the video. More missions. 
+
+`Sunday, September 6, 2026, 12:29 PM CDT`
+
+Finished the radio tower mission. Game cannot figure out how to map controls. It does not distinguish between on-foot controls, and in-vehicle controls. Such a basic distinction. 
+
+In addition to this, I cannot seem change the weapons in slots without going through an elaborate process of completely switching out the weapons at the store. So stupid. 
