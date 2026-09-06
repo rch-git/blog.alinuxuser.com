@@ -222,3 +222,10 @@ Got back from Sam's. Pizza was good. Now, its time to game.
 
 Finished a couple of missions. The mission where I lose access to my weapons is super annoying. I got over it quick. 
 
+`Saturday, September 5, 2026, 4:54 PM CDT`
+
+More missions. 
+
+`Saturday, September 5, 2026, 8:10 PM CDT`
+
+Finished John's region. Story gets dumber. I will play Jacob's region tomorrow. 
