@@ -228,4 +228,12 @@ More missions.
 
 `Saturday, September 5, 2026, 8:10 PM CDT`
 
-Finished John's region. Story gets dumber. I will play Jacob's region tomorrow. 
+Finished John's region. Story gets dumber. I will play Jacob's region tomorrow. Final mission is an airplane chase mission. It was not easy. Took a few attempts. 
+
+#### Sunday, September 6, 2026, 7:46 AM CDT
+
+Time to do some missions in Jacob's territory. 
+
+`Sunday, September 6, 2026, 9:22 AM CDT`
+
+Did a couple of missions in Whitetail territory. Going to do more. This is the last region in the game. 
