@@ -263,3 +263,5 @@ Uploaded the video. More missions.
 Finished the radio tower mission. Game cannot figure out how to map controls. It does not distinguish between on-foot controls, and in-vehicle controls. Such a basic distinction. 
 
 In addition to this, I cannot seem change the weapons in slots without going through an elaborate process of completely switching out the weapons at the store. So stupid. 
+
+There is still a lot of game left. I want to finish this region and perhaps this game before tonight. Must push through! I want to start a new game tomorrow. Got to figure out what that game would be. Might ask Grok. 
