@@ -237,3 +237,19 @@ Time to do some missions in Jacob's territory.
 `Sunday, September 6, 2026, 9:22 AM CDT`
 
 Did a couple of missions in Whitetail territory. Going to do more. This is the last region in the game. 
+
+`Sunday, September 6, 2026, 9:54 AM CDT`
+
+More missions. Think I am getting close to finishing the game?
+
+`Sunday, September 6, 2026, 10:03 AM CDT`
+
+I did a base jump from the cliff in Whitetail region. I am going to edit and upload the video. 
+
+`Sunday, September 6, 2026, 10:34 AM CDT`
+
+Playing more while watching Peter Santenello's video on Flint, MI. Some really kooky characters. Explains why things are the way they are. 
+
+`Sunday, September 6, 2026, 11:00 AM CDT`
+
+Finished the Grandview hotel mission. Pretty good. Enemy AI is dumb as bricks. 
