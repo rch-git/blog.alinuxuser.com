@@ -18,3 +18,10 @@ In the first level when you hear the words "March 15, 2032" for the second time.
 
 Remains to see how the rest of the game will play, but so far, I am very impressed. 
 
+`Monday, September 7, 2026, 12:42 PM CDT`
+
+Going to continue. Had to stop to write a post on X about the fantastic opening. 
+
+`Monday, September 7, 2026, 3:00 PM CDT`
+
+I think I am going to take a break from this game for the day. Might play more soon. 
