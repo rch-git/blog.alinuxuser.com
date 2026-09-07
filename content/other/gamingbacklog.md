@@ -10,7 +10,7 @@ title: 'Gaming Backlog'
 - Assassin's Creed Chronicles: Russia; 7h 35m
 - Bastion; 8h 15m
 - Batman: Arkham Knight; 30h 57m
-- ~~Batman: Arkham Origins~~; 18h 34m
+- <span class='green-highlight'>Batman: Arkham Origins; 18h 34m</span>
 - BioShock 2; 12h 56m
 - Blood Omen 2: Legacy of Kain; 14h 3m
 - BloodRayne; 7h 43m
@@ -35,11 +35,11 @@ title: 'Gaming Backlog'
 - Dragon's Dogma: Dark Arisen; 50h 57m
 - Dying Light; 31h 28m
 - Empire Earth; 36h 34m
-- F.E.A.R. 3; 6h 32m
+- <span class='green-highlight'>F.E.A.R. 3; 6h 32m</span>
 - Fallout 4: Game of the Year Edition; 119h 53m
 - Fallout: New Vegas - Ultimate Edition; 82h 41m
-- ~~Far Cry 4; 30h 46m~~
-- Far Cry 5; 29h 25m
+- <span class='green-highlight'>Far Cry 4; 30h 46m</span>
+- <span class='green-highlight'>Far Cry 5; 29h 25m</span>
 - Far Cry Primal; 24h 50m
 - Forza Horizon 4; 51h 40m
 - Frostpunk; 16h 9m

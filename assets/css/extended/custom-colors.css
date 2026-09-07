@@ -5,3 +5,9 @@
 .lightgreen-color {
   color: #dff593 !important;
 }
+
+.green-highlight {
+  background-color: #dff593 !important;
+  color: #222222 !important;
+  font-weight: bold !important;
+}
