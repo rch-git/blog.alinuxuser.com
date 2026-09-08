@@ -23,3 +23,7 @@ So we are supposed to believe that a cult took over an entire county in Montana,
 The world is amazing though. Whoever designed the world is nothing like the people that designed the missions or programmed the AI. People that made the world are actually good at their job. Can't say this about the writers or whoever programmed the AI, which is completely stupid. 
 
 I thought Montana is a beautiful. There are vistas in Far Cry 5 which are truly beautiful. This game released the same year as Red Dead Redemption 2, and beyond a certain shallow point, these two games are not in the same league at all. The attention to detail, the AI, storytelling, in RDR2 are in a completely different league. It makes Far Cry 5 look like it was made by amateurs. 
+
+The final mission in the game, is so stupidly done...its all so clumsy. Its hard for me to take this game serisouly when its so amateurishly designed.
+
+What Far Cry 5 does so well is creating a fantastic sandbox. You cannot take the enemies seriously, you cannot take anything this game does serisouly. You have to play it like a sandbox game with a story. The immersion comes from creating chaos. You have to make your own fun, create your own scenarios. 
