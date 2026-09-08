@@ -26,4 +26,4 @@ I thought Montana is a beautiful. There are vistas in Far Cry 5 which are truly 
 
 The final mission in the game, is so stupidly done...its all so clumsy. Its hard for me to take this game serisouly when its so amateurishly designed.
 
-What Far Cry 5 does so well is creating a fantastic sandbox. You cannot take the enemies seriously, you cannot take anything this game does serisouly. You have to play it like a sandbox game with a story. The immersion comes from creating chaos. You have to make your own fun, create your own scenarios. 
+What Far Cry 5 does so well is creating a fantastic sandbox. You cannot take the enemies seriously, you cannot take anything this game does serisouly. You have to play it like a sandbox game with a story. The immersion comes from creating chaos. You have to make your own fun, create your own scenarios. You should almost play it like Just Cause. when you do that, the game is a LOT of fun. I think that part of Far Cry 5 is way better than the previous games. There is a lot of gun customization (comparatively), vehicles are a lot of fun. They totally missed out an opportunity by not having dirt bikes. 
