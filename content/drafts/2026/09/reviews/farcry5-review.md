@@ -22,4 +22,4 @@ So we are supposed to believe that a cult took over an entire county in Montana,
 
 The world is amazing though. Whoever designed the world is nothing like the people that designed the missions or programmed the AI. People that made the world are actually good at their job. Can't say this about the writers or whoever programmed the AI, which is completely stupid. 
 
-I thought Montana is a beautiful. 
+I thought Montana is a beautiful. There are vistas in Far Cry 5 which are truly beautiful. This game released the same year as Red Dead Redemption 2, and beyond a certain shallow point, these two games are not in the same league at all. The attention to detail, the AI, storytelling, in RDR2 are in a completely different league. It makes Far Cry 5 look like it was made by amateurs. 
