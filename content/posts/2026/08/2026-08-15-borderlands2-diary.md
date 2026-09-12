@@ -75,3 +75,9 @@ Still not a big fan of Diablo like save system. Too much backtracking. Like the 
 #### Saturday, September 12, 2026, 12:19 PM CDT
 
 Haven't played this game in a while. Finished Far Cry 5. Time to get back into Borderlands 2. 
+
+`Saturday, September 12, 2026, 1:51 PM CDT`
+
+Doing the mission for Tiny Tina. Feeling a little exhausted with the combat. The gameplay loop, run, shoot, loot is getting boring. Going to take a break.
+
+
