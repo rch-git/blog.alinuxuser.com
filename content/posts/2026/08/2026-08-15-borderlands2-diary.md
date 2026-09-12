@@ -71,3 +71,7 @@ Going to play for a little bit.
 Finished a long pizza delivery side mission. Had to go back to the same bloodshot(?) hideout that I went to in the previous main mission. 
 
 Still not a big fan of Diablo like save system. Too much backtracking. Like the game overall. 
+
+#### Saturday, September 12, 2026, 12:19 PM CDT
+
+Haven't played this game in a while. Finished Far Cry 5. Time to get back into Borderlands 2. 
