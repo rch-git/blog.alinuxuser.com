@@ -421,5 +421,5 @@ cover:
   * Saturday, August 15, 2026, 5:55:00 PM CDT
 * {{< newtab href="/posts/2026/08/reviews/rysesonofrome-review/" text="<span class='link-color'>Ryse: Son of Rome</span>" >}}
   * Friday, August 28, 2026, 10:32:00 PM CDT
-* Far Cry 5
+* {{< newtab href="/posts/2026/09/reviews/farcry5-review/" text="<span class='link-color'>Far Cry 5</span>" >}}
   * Sunday, September 6, 2026, 7:02:00 PM
