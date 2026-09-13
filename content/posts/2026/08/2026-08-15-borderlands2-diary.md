@@ -80,4 +80,17 @@ Haven't played this game in a while. Finished Far Cry 5. Time to get back into B
 
 Doing the mission for Tiny Tina. Feeling a little exhausted with the combat. The gameplay loop, run, shoot, loot is getting boring. Going to take a break.
 
+`Saturday, September 12, 2026, 2:35 PM CDT`
+
+I think I am ready for more. Lets finish the mission. She is a funny character. You can't have writing like this in 2026.
+
+`Saturday, September 12, 2026, 5:55 PM CDT`
+
+Leveling up to try and defeat Wilhelm. Difficult fight because I am level 15, and the boss is level 17. 
+
+`Saturday, September 12, 2026, 7:45 PM CDT`
+
+Played a lot. Getting closer to level 17, which is what I need to be to kill the boss in the story mission. Starting to get the hang of the game. Its like I picked up where I left off when I finished Borderlands 1. 
+
+Taking a break now. Will play more tomorrow. 
 
