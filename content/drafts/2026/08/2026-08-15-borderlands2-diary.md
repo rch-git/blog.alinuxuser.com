@@ -121,3 +121,12 @@ A short gaming session before bed.
 `Monday, September 14, 2026, 9:49 PM CDT`
 
 Time to call it a night. Played a dumb mission to create a fast travel station. 
+
+#### Friday, September 18, 2026, 4:28 PM CDT
+
+Its Friday. Logged off work. Got a video playing. Time to fire up Borderlands 2. 
+
+`Friday, September 18, 2026, 6:15 PM CDT`
+
+First time in a long time. Game just froze. Right at the boss fight. Might be a good thing. Also Rocket Mortgage calling while I am trying to figure out what the heck is going on with Borderlands 2. They have to wait. Video games are more important right now. 
+
