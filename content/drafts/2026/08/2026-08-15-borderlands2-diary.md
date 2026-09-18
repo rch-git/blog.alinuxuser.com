@@ -130,3 +130,6 @@ Its Friday. Logged off work. Got a video playing. Time to fire up Borderlands 2.
 
 First time in a long time. Game just froze. Right at the boss fight. Might be a good thing. Also Rocket Mortgage calling while I am trying to figure out what the heck is going on with Borderlands 2. They have to wait. Video games are more important right now. 
 
+`Friday, September 18, 2026, 6:27 PM CDT`
+
+Called back Rocket Mortgage. Got some imfo about recast. Going to start the game back up and see what the heck is going on. 
