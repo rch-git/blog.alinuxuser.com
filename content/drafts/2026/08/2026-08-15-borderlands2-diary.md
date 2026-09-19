@@ -159,3 +159,13 @@ Played a lot. Going to take a break. Might get ready to go to Sam's.
 Played some more. I think I will go to Sam's at around 3PM. I think I will beat the lunch crowd. Get the full pizza or not. That is the question. 
 
 Reached Level 23. Going to take a little break. A lot of videos to edit. 
+
+`Saturday, September 19, 2026, 12:46 PM CDT`
+
+One more session and I will get ready to head out to Sam's. 
+
+`Saturday, September 19, 2026, 1:56 PM CDT`
+
+Mortar barrage is impossible to dodge because I do not have the target circle showing up on the ground. Apparently I have to adjust the decals. This got me killed twice. Probably cost me well over $8000. I do not have the patience to play through the whole thing again. Will get to it tomorrow or later in the evening. 
+
+Work out, and a trip to Sam's are in order. 
