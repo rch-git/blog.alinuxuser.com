@@ -141,3 +141,15 @@ Almost 1 hour of progress to reach the end of the mission and the game crashes.
 `Friday, September 18, 2026, 8:00 PM CDT`
 
 Apparently have to reduce the settings, and cap the FPS at 30. This is going to awful. I do not have the patience to replay the whole level again. Will play tomorrow. 
+
+#### Saturday, September 19, 2026, 6:03 AM CDT
+
+Here we go again. When I get to the part where I have to take the elevator to reach the boss battle, I am going to lower the graphics. Playing the game at 30 FPS is going to be brutal. I hope I don't have to give up this game. Its fun. 
+
+`Saturday, September 19, 2026, 7:44 AM CDT`
+
+Finished the mission. Had to reduce the FPS to get past the cutscene, and then it worked fine. 
+
+`Saturday, September 19, 2026, 10:22 AM CDT`
+
+Played a lot. Going to take a break. Might get ready to go to Sam's. 
