@@ -133,3 +133,11 @@ First time in a long time. Game just froze. Right at the boss fight. Might be a 
 `Friday, September 18, 2026, 6:27 PM CDT`
 
 Called back Rocket Mortgage. Got some imfo about recast. Going to start the game back up and see what the heck is going on. 
+
+`Friday, September 18, 2026, 7:41 PM CDT`
+
+Almost 1 hour of progress to reach the end of the mission and the game crashes. 
+
+`Friday, September 18, 2026, 8:00 PM CDT`
+
+Apparently have to reduce the settings, and cap the FPS at 30. This is going to awful. I do not have the patience to replay the whole level again. Will play tomorrow. 
