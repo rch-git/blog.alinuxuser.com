@@ -177,3 +177,11 @@ Didn't work out. Went to Sam's. Ate pizza. Now I am back. Going to finish the mi
 `Saturday, September 19, 2026, 9:42 PM CDT`
 
 That was insane. 2.5 hours of pure chaos. This level is an exercise in patience. I am going to take a break from this game. My hand actually hurts from playing this game. 
+
+#### Sunday, September 20, 2026, 10:00 AM CDT
+
+Time to finish the mission. I should have leveled up more before I took on the main mission. I feel overwhelmed.
+
+`Sunday, September 20, 2026, 11:09 AM CDT`
+
+Finished the main mission. Insane. Died twice. Cost me well over $5000, but the mission reward is like ~$100. Crazy. I did pick up a lot of items and I was able to sell them and recoup the monies. 
