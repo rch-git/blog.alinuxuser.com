@@ -169,3 +169,7 @@ One more session and I will get ready to head out to Sam's.
 Mortar barrage is impossible to dodge because I do not have the target circle showing up on the ground. Apparently I have to adjust the decals. This got me killed twice. Probably cost me well over $8000. I do not have the patience to play through the whole thing again. Will get to it tomorrow or later in the evening. 
 
 Work out, and a trip to Sam's are in order. 
+
+`Saturday, September 19, 2026, 7:13 PM CDT`
+
+Didn't work out. Went to Sam's. Ate pizza. Now I am back. Going to finish the mission. Need to enable the settings to show the mortar target on the ground. 
