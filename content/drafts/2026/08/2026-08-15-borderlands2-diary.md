@@ -185,3 +185,13 @@ Time to finish the mission. I should have leveled up more before I took on the m
 `Sunday, September 20, 2026, 11:09 AM CDT`
 
 Finished the main mission. Insane. Died twice. Cost me well over $5000, but the mission reward is like ~$100. Crazy. I did pick up a lot of items and I was able to sell them and recoup the monies. 
+
+`Sunday, September 20, 2026, 2:00 PM CDT`
+
+Going to finish the side quest and get something to eat. 
+
+`Sunday, September 20, 2026, 2:27 PM CDT`
+
+Finished the side mission to pick 4 items from the Highlands. Good mission. XP earned barely moved the needle. 
+
+Taking a break. 
