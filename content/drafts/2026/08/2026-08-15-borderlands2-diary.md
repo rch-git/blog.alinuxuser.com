@@ -173,3 +173,7 @@ Work out, and a trip to Sam's are in order.
 `Saturday, September 19, 2026, 7:13 PM CDT`
 
 Didn't work out. Went to Sam's. Ate pizza. Now I am back. Going to finish the mission. Need to enable the settings to show the mortar target on the ground. 
+
+`Saturday, September 19, 2026, 9:42 PM CDT`
+
+That was insane. 2.5 hours of pure chaos. This level is an exercise in patience. I am going to take a break from this game. My hand actually hurts from playing this game. 
