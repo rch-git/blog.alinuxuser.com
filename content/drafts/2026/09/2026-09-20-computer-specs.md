@@ -7,6 +7,10 @@ tags: ["hardware"]
 
 ### Old Computer
 
+#### Sunday, September 20, 2026, 8:57 PM CDT
+
+This computer is decommissioned.
+
 | Component | Specification |
 |---|---|
 | Processor | Intel Core i7-2700K 3.5 GHz Quad-Core |
@@ -22,6 +26,8 @@ tags: ["hardware"]
 | Display 2 | Acer G215HVAbd 21.5" 1920 × 1080 |
 
 ### ArrowLake
+
+#### Sunday, September 20, 2026, 8:58 PM CDT
 
 | Component | Specification |
 |---|---|
@@ -39,3 +45,8 @@ tags: ["hardware"]
 | Primary Display | ASUS ROG Strix 34" (XG349C), 3440 x 1440, 180Hz, 1ms (Renewed) |
 | Display 2 | Acer G215HVAbd 21.5" 1920 × 1080 |
 | Accessory | Graphics Card GPU Brace Support (L, 74-120mm) |
+
+
+### AlderLake
+
+#### Sunday, September 20, 2026, 8:59 PM CDT
