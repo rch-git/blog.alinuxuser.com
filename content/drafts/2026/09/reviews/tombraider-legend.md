@@ -5,7 +5,13 @@ draft: false
 tags: ["game review", "tomb raider"]
 ---
 
-Tomb Raider Legend is a special game for me. Back when the demo was released, over a little over 21 years ago, I remember waiting for hours for the demo to download on my 48Kbps connection. It was worth it. I thought the demo was excellent and that Tomb Raider redeemed itself after the Angel of Darkness disaster. 
+Tomb Raider Legend is a special game for me. Back when the demo was released, over a little over 20 years ago, I remember waiting for hours for the demo to download on my 48Kbps connection. It was worth it. I thought the demo was excellent and that Tomb Raider redeemed itself after Chronicles and Angel of Darkness double disaster.
+
+I did not buy the game at launch - didn't have that kind of money back then. Tomb Raider fell completely by the way side. My interest in Tomb Raider was reignited in 2019 when I picked up Tomb Raider (2013) on sale. The last game I played in this series was Unfinished Business in 2005. It was good to be back after a 14 year break. Soon after I finished Tomb Raider (2013), I decided to play Legend. I remember loving the demo, so I was excited to try the full game. 
+
+Tomb Raider Legend is almost like a reboot - won't be the first time. I didn't fully understand the story, but I got the general gist of it, it has something to do with the legend of King Arthur. Good enough for me. I don't need the details to appreciate the gameplay.
+
+----------------------------
 
 I did not play the game until 2019, 13 years after the release of the game. I never bought the game at launch because I just didn't have that kind of money. Prior to playing Tomb Raider Legend demo, the last Tomb Raider game I finished was Tomb Raider Unfinished Business in 2005. After this, there was a 14 year gap where I did not play any Tomb Raider games. While I enjoyed the demo tremendously, because I never purchased the game at launch, it kind of fell by the way side, and I came to realize that this was more console centric than I had realized at the time I played the demo. This put a damper on things, and I played other games for a while. Didn't really care for the follow ups to this game either - Anniversary and Underworld. I have not played Underworld to this day. 
 
@@ -15,7 +21,7 @@ I waited until Tomb Raider (2013) went on sale, and played it in 2019. I felt li
 
 I thought the game aged quite well. It was very playable in 2019. I did not encounter any technical issues. My problems with the game are more gameplay related. 
 
-Tomb Raider Legend is almost like a reboot. Won't be the first time the story of Tomb Raider has been rebooted. 
+
 
 The biggest improvement over the classic games are the controls. This is more like a modern 3rd person action game. You have more control over the camera, Max Payne style. Gone are the clunky controls of the older games. This game is meant more for action focused. There are plenty of puzzles and exploration, but there is also a lot of combat. There is something about the weapon sounds with this game - pistols sounded hollow for me. I don't know if this has something to do with my sound card (onboard audio) or if they are meant to sound that way. Everything else sounds fine. 
 
