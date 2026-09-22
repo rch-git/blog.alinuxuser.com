@@ -9,7 +9,9 @@ Tomb Raider Legend is a special game for me. Back when the demo was released, ov
 
 I did not buy the game at launch - didn't have that kind of money back then. Tomb Raider fell completely by the way side. My interest in Tomb Raider was reignited in 2019 when I picked up Tomb Raider (2013) on sale. The last game I played in this series was Unfinished Business in 2005. It was good to be back after a 14 year break. Soon after I finished Tomb Raider (2013), I decided to play Legend. I remember loving the demo, so I was excited to try the full game. 
 
-Tomb Raider Legend is almost like a reboot - won't be the first time. I didn't fully understand the story, but I got the general gist of it, it has something to do with the legend of King Arthur. Good enough for me. I don't need the details to appreciate the gameplay.
+Tomb Raider Legend is almost like a reboot - won't be the first time. The story has something to do with the legend of King Arthur. I didn't fully understand it, but that's OK. I don't need the details to appreciate the gameplay and good level design.
+
+The biggest improvement over the classic games are the controls. This is more like a modern 3rd person action game. You have more control over the camera, Max Payne style. Gone are the clunky controls of the older games. They are very smooth and responsive. 
 
 ----------------------------
 
@@ -23,7 +25,7 @@ I thought the game aged quite well. It was very playable in 2019. I did not enco
 
 
 
-The biggest improvement over the classic games are the controls. This is more like a modern 3rd person action game. You have more control over the camera, Max Payne style. Gone are the clunky controls of the older games. This game is meant more for action focused. There are plenty of puzzles and exploration, but there is also a lot of combat. There is something about the weapon sounds with this game - pistols sounded hollow for me. I don't know if this has something to do with my sound card (onboard audio) or if they are meant to sound that way. Everything else sounds fine. 
+This game is meant more for action focused. There are plenty of puzzles and exploration, but there is also a lot of combat. There is something about the weapon sounds with this game - pistols sounded hollow for me. I don't know if this has something to do with my sound card (onboard audio) or if they are meant to sound that way. Everything else sounds fine. 
 
 The parts I did not enjoy are the boss fights. They are all boring. The game does not let you be creative in anyway. There is one way to defeat the boss, and often times it is arbitrary. 
 
