@@ -195,3 +195,7 @@ Going to finish the side quest and get something to eat.
 Finished the side mission to pick 4 items from the Highlands. Good mission. XP earned barely moved the needle. 
 
 Taking a break. 
+
+#### Saturday, September 26, 2026, 12:44 PM CDT
+
+Did not play any games for almost a week. Time to get back into it. Might stream for a friend. 
