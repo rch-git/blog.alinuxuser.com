@@ -203,3 +203,10 @@ Did not play any games for almost a week. Time to get back into it. Might stream
 `Saturday, September 26, 2026, 1:42 PM CDT`
 
 Did all the things I needed to do for a mission. Got to turn it in. Will take a break. 
+
+`Saturday, September 26, 2026, 4:04 PM CDT`
+
+Cooked a bit. Cleaned a bit. Now going to game a bit. 
+
+Also have to get back to playing Prey. Creepy game, but I will play it tomorrow. Today, got to forge ahead in Borderlands 2.
+
