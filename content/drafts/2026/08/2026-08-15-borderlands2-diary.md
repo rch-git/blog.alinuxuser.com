@@ -210,3 +210,14 @@ Cooked a bit. Cleaned a bit. Now going to game a bit.
 
 Also have to get back to playing Prey. Creepy game, but I will play it tomorrow. Today, got to forge ahead in Borderlands 2.
 
+`Saturday, September 26, 2026, 4:57 PM CDT`
+
+Got killed in the dumbest way possible and it cost me over $4000. My anchor point for funds is about $45k at this point. I am above that, so its OK, but its very annoying how you can die and the game just 
+
+`Saturday, September 26, 2026, 5:27 PM CDT`
+
+I will have another go, and then work out and eat. 
+
+`Saturday, September 26, 2026, 6:31 PM CDT`
+
+Final part of The good, The Bad and the Mordecai. Can't figure out a way to get to the stash. Looked at a walkthrough. Will play it tomorrow. 
