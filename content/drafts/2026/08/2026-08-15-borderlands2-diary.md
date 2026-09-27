@@ -221,3 +221,11 @@ I will have another go, and then work out and eat.
 `Saturday, September 26, 2026, 6:31 PM CDT`
 
 Final part of The good, The Bad and the Mordecai. Can't figure out a way to get to the stash. Looked at a walkthrough. Will play it tomorrow. 
+
+#### Sunday, September 27, 2026, 8:56 AM CDT
+
+Going to finish the optional mission now. 
+
+`Sunday, September 27, 2026, 9:39 AM CDT`
+
+Finished the mission. Going to do some chores and get back to this again. 
