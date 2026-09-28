@@ -62,15 +62,15 @@ This computer is decommissioned.
 | Component | Specification |
 |---|---|
 | Processor | Intel Core i7-12700K 12 cores (8 P + 4 E) |
-| CPU Cooler | Thermalright Peerless Assassin 140 CPU Air Cooler |
+| CPU Cooler | ARCTIC Liquid Freezer II 280 - Black |
 | Thermal Compound | Noctua NT-H1 High-Performance TIM - 3.5g |
 | Motherboard | MSI PRO Z690-A LGA 1700 DDR4 |
 | Memory | G.SKILL Ripjaws V Series 64GB (4 x 16GB) 288-Pin DDR4 3200 (PC4 25600) |
 | Boot Drive | MSI M480 1TB, PCIe 4.0 M.2 2280 |
 | Storage Drive 1 | Crucial BX500 1TB 3D NAND SATA 2.5-inch SSD |
 | Video Card | MSI GeForce RTX™ 3080 Ti GAMING X TRIO 12G |
-| Case | Fractal Design Pop XL Silent Black ATX Full Tower |
-| Power Supply | CORSAIR RM1000e (2025) Fully Modular PSU |
+| Case | be quiet! Pure Base 500DX Black ATX Mid Tower |
+| Power Supply | CORSAIR RM850 850 W ATX 80 PLUS GOLD Modular PSU |
 | Operating System | Microsoft Windows 11 Pro (x64) Build 26200.9457 (25H2) |
 | Primary Display | Acer Nitro KG271U F3 27" 2560x1440 IPS 320Hz |
 | Display 2 | Dell S2716DG 27" 2560 × 1440 144Hz |
@@ -89,15 +89,15 @@ Pre-migration.
 | Component | Specification |
 |---|---|
 | Processor | Intel Core i7-12700K 12 cores (8 P + 4 E) |
-| CPU Cooler | Thermalright Peerless Assassin 140 CPU Air Cooler |
+| CPU Cooler | ARCTIC Liquid Freezer II 280 - Black |
 | Thermal Compound | Noctua NT-H1 High-Performance TIM - 3.5g |
 | Motherboard | MSI PRO Z690-A LGA 1700 DDR4 |
 | Memory | G.SKILL Ripjaws V Series 64GB (4 x 16GB) 288-Pin DDR4 3200 (PC4 25600) |
-| Boot Drive | MSI M480 1TB, PCIe 4.0 M.2 2280 |
+| Boot Drive | MSI SPATIUM Series M.2 2280 1TB PCIe NVMe SSD |
 | Storage Drive 1 | Crucial BX500 1TB 3D NAND SATA 2.5-inch SSD |
 | Video Card | MSI GeForce RTX™ 3080 Ti GAMING X TRIO 12G |
-| Case | Fractal Design Pop XL Silent Black ATX Full Tower |
-| Power Supply | CORSAIR RM1000e (2025) Fully Modular PSU |
+| Case | be quiet! Pure Base 500DX Black ATX Mid Tower |
+| Power Supply | CORSAIR RM850 850 W ATX 80 PLUS GOLD Modular PSU |
 | Operating System | Microsoft Windows 11 Pro (x64) Build 26200.9457 (25H2) |
 | Primary Display | ASUS ROG Strix 34" (XG349C), 3440 x 1440, 180Hz, 1ms (Renewed) |
 | Display 2 | Dell S2716DG 27" 2560 × 1440 144Hz |
