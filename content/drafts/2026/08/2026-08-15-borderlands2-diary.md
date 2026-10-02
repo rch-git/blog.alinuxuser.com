@@ -241,3 +241,7 @@ Reached level 28. Finished a main mission. Streamed for nearly 3 hours. Very fun
 #### Friday, October 2, 2026, 4:34 PM CDT
 
 Installed the game on ArrowLake. Game looks good on ultra wide. Can't play for too long through. Got to work out here in a bit. 
+
+`Friday, October 2, 2026, 4:51 PM CDT`
+
+Died. Cost me over $5800. I am down to $77k. This level is hard. I am going to go work out now. 
