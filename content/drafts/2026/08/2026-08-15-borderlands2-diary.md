@@ -237,3 +237,7 @@ Errands are done. Got a pot of coffee brewing. Time to get back into the game. G
 `Sunday, September 27, 2026, 2:57 PM CDT`
 
 Reached level 28. Finished a main mission. Streamed for nearly 3 hours. Very fun day. 
+
+#### Friday, October 2, 2026, 4:34 PM CDT
+
+Installed the game on ArrowLake. Game looks good on ultra wide. Can't play for too long through. Got to work out here in a bit. 
