@@ -63,3 +63,28 @@ What Far Cry 5 does so well is creating a fantastic sandbox. The immersion comes
 I usually skip launch coverage for games I plan to play. If I want the experience, I want it unfiltered. So it was only years later that I learned some critics were furious that Ubisoft had not leaned harder into progressive politics. They wanted the game to lecture conservatives and spend its runtime explaining that the orange man was uniquely evil. The game nods in that direction in places. That was never going to be enough. Nothing short of being shouted at for the entire campaign would have satisfied them. I never understood the impulse. Why turn entertainment into a scolding? I have no interest in using a game to tell people they are wicked for voting the wrong way, and I have even less interest in being on the receiving end of such a lecture. These malcontents treat every story, every setting, every product as a vessel for their grievance politics. How dare you try to escape the real world and enjoy a video game after a long day at work? No fun allowed. Time spent trying to please them is time wasted. Their opinions should be discarded without apology. It is funny looking back from 2026. Ubisoft has no real principles. It will gesture just far enough to keep the sale, then move on. The last decade must have been a special kind of hell for Polygon and PC Gamer. In Far Cry 5, the flag-waving, gun-owning rural types are often the good guys. I can only imagine the disappointment among the holier-than-thou game journalists who wanted a sermon and got a video game instead.
 
 Far Cry 5 is worth playing. It is a fun sandbox. If you can find it for less than $10, it is totally worth checking out.
+
+| Component | Specification |
+|---|---|
+| Processor | Intel Core Ultra 7 270K Plus 24 cores (8 P + 16 E) up to 5.5 GHz |
+| CPU Cooler | Thermalright Peerless Assassin 140 CPU Air Cooler |
+| Thermal Compound | Noctua NT-H1 High-Performance TIM - 3.5g |
+| Motherboard | Z890 Gaming Plus WIFI6E LGA 1851 DDR5 |
+| Memory | CORSAIR Vengeance DDR5 64GB (2 x 32GB) CL40-40-40-77 |
+| Boot Drive | Samsung SSD 990 PRO 2TB, PCIe 4.0 M.2 2280 |
+| Storage Drive 1 | Crucial BX500 2TB 2.5-Inch SSD |
+| Storage Drive 2 | KINGSTON SH103S3120G 120GB 2.5-Inch SSD |
+| Storage Drive 3 | T-FORCE 240GB 2.5-Inch SSD |
+| Video Card | PNY GeForce RTX 5080 16GB OC GDDR7 PCI Express 5.0 |
+| Case | Fractal Design Pop XL Silent Black ATX Full Tower |
+| Power Supply | CORSAIR RM1000e (2025) Fully Modular PSU |
+| Operating System | Microsoft Windows 11 Pro (x64) Build 26200.9457 (25H2) |
+| Primary Display | ASUS ROG Strix 34" (XG349C), 3440 x 1440, 180Hz, 1ms (Renewed) |
+| Display 2 | Dell S2716DG 27" 2560 × 1440 144Hz |
+| Display 3 | Acer K272HUL 27" 2560 × 1440 60Hz |
+| Display 4 | ASUS VG278HE 27" 1920 × 1080 144Hz |
+| Sound Card | Creative Sound Blaster GC7 |
+| Keyboard | CORSAIR K100 RGB Cherry MX Speed Keyboard (Renewed) |
+| Mouse | Glorious Model O White (Renewed) |
+| Mouse | Glorious Model O Black (Renewed) |
+| Accessory | Graphics Card GPU Brace Support (L, 74-120mm) |

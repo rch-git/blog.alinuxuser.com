@@ -423,3 +423,5 @@ cover:
   * Friday, August 28, 2026, 10:32:00 PM CDT
 * {{< newtab href="/posts/2026/09/reviews/farcry5-review/" text="<span class='link-color'>Far Cry 5</span>" >}}
   * Sunday, September 6, 2026, 7:02:00 PM
+* Borderlands 2
+  * Friday, October 2, 2026, 10:45:00 PM
