@@ -14,7 +14,7 @@ title: 'Gaming Backlog'
 - BioShock 2; 12h 56m
 - Blood Omen 2: Legacy of Kain; 14h 3m
 - BloodRayne; 7h 43m
-- Borderlands 2; 52h 27m
+- <span class='green-highlight'>Borderlands 2; 52h 27m</span>
 - Borderlands 3; 42h 47m
 - Brothers in Arms: Earned in Blood; 7h 33m
 - Burnout Paradise; 22h 17m
