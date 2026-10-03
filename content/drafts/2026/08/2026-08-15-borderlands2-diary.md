@@ -251,3 +251,7 @@ Died. Cost me over $5800. I am down to $77k. This level is hard. I am going to g
 Plot twist. I did not work out. I played more instead. I am at the final level now. I am definitely going to work out now. 
 
 I will play more tonight. Might even finish the game. 
+
+`Friday, October 2, 2026, 10:52 PM CDT`
+
+Well, after a work out, decided to give it a go, and I finished the game. Died thrice at the end. Ended the game with over $100k. Going to uninstall the game and move on to the next game. Should I buy Phantom Liberty and do another Cyberpunk 2077 play through? Or continue with Prey? Will decide tomorrow. 
