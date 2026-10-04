@@ -26,3 +26,13 @@ Started the game as a Nomad again. I feel like that path suits my beliefs. I am 
 Asked Grok for suggestion on settings. I went with Quality DLSS, 2x frame gen and everything set to the highest. Getting around 100FPS. DLAA is too taxing. 
 
 Taking a short break and will get back to this soon. 
+
+`Sunday, October 4, 2026, 4:04 PM CDT`
+
+Did the worst thing possible on a lazy Sunday - took a 2 hour nap. Bad idea. Going to play for 1 hour and then workout a lot, so that I can fall asleep. Need it for my work for tomorrow. 
+
+`Sunday, October 4, 2026, 5:11 PM CDT`
+
+Got to the part where I finished the Sandra Dorsett mission. Need to allocate attribute and perk points. I want to specialize in AR and Pistols, but also want to be able to do quick hacks. I am not sure what path to take. I have 1 of each available. Got to look into it. 
+
+Calling it a day now for gaming. Will work out, eat something and then watch TV for wind down for tomorrow. Sunday evenings are depressing.
