@@ -44,3 +44,7 @@ Subscribed to Nexus Mods premium to download Welcome to Night City mod pack. I a
 `Saturday, October 10, 2026, 8:38 AM CDT`
 
 Installed the game and the mod. Looks like everything is clean. Will start a new playthrough as Corpo. 
+
+`Saturday, October 10, 2026, 12:28 PM CDT`
+
+Corpo is very interesting. I like the start of the game. Very beautiful setting. I think its better than Nomad. 
