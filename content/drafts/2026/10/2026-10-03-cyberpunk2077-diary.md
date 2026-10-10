@@ -36,3 +36,7 @@ Did the worst thing possible on a lazy Sunday - took a 2 hour nap. Bad idea. Goi
 Got to the part where I finished the Sandra Dorsett mission. Need to allocate attribute and perk points. I want to specialize in AR and Pistols, but also want to be able to do quick hacks. I am not sure what path to take. I have 1 of each available. Got to look into it. 
 
 Calling it a day now for gaming. Will work out, eat something and then watch TV for wind down for tomorrow. Sunday evenings are depressing.
+
+#### Saturday, October 10, 2026, 8:20 AM CDT
+
+Subscribed to Nexus Mods premium to download Welcome to Night City mod pack. I am going to restart the game as Corpo. Redownloading the game right now to install the mod cleanly. There were remnants of the old mods, and I wanted this to work cleanly. 
