@@ -52,3 +52,11 @@ Corpo is very interesting. I like the start of the game. Very beautiful setting.
 `Saturday, October 10, 2026, 2:17 PM CDT`
 
 I am going to play for a little bit more, and then workout and eat. Will do a longer session in the evening.
+
+`Saturday, October 10, 2026, 3:07 PM CDT`
+
+I got the Cherry MX keyboard delivered mid session, so stopped for a little bit. Its a nice keyboard, but the spacing of the keys is a little weird. I am not a big of it. When I am using HOME, END keys, the different spacing is throwing me off. There is no spacing between the numpad and the arrow keys. I am just not used to that.
+
+I am going to stop gaming for a bit, workout etc. I will get back into this later in the evening. 
+
+Its a nice enough keyboard, but the spacing is not something I am used to. I might take this to work. 
