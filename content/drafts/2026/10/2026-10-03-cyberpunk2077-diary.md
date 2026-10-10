@@ -40,3 +40,7 @@ Calling it a day now for gaming. Will work out, eat something and then watch TV 
 #### Saturday, October 10, 2026, 8:20 AM CDT
 
 Subscribed to Nexus Mods premium to download Welcome to Night City mod pack. I am going to restart the game as Corpo. Redownloading the game right now to install the mod cleanly. There were remnants of the old mods, and I wanted this to work cleanly. 
+
+`Saturday, October 10, 2026, 8:38 AM CDT`
+
+Installed the game and the mod. Looks like everything is clean. Will start a new playthrough as Corpo. 
