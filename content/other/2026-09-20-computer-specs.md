@@ -41,15 +41,15 @@ This computer is decommissioned.
 | Storage Drive 2 | KINGSTON SH103S3120G 120GB 2.5-Inch SSD |
 | Storage Drive 3 | T-FORCE 240GB 2.5-Inch SSD |
 | Video Card | PNY GeForce RTX 5080 16GB OC GDDR7 PCI Express 5.0 |
-| Case | Fractal Design Pop XL Silent Black ATX Full Tower |
 | Power Supply | CORSAIR RM1000e (2025) Fully Modular PSU |
 | Operating System | Microsoft Windows 11 Pro (x64) Build 26200.9457 (25H2) |
+| Case | Fractal Design Pop XL Silent Black ATX Full Tower |
 | Primary Display | ASUS ROG Strix 34" (XG349C), 3440 x 1440, 180Hz, 1ms (Renewed) |
 | Display 2 | Dell S2716DG 27" 2560 × 1440 144Hz |
 | Display 3 | Acer K272HUL 27" 2560 × 1440 60Hz |
 | Display 4 | ASUS VG278HE 27" 1920 × 1080 144Hz |
 | Sound Card | Creative Sound Blaster GC7 |
-| Keyboard | CORSAIR K100 RGB Cherry MX Speed Keyboard (Renewed) |
+| Keyboard | CORSAIR K100 RGB Cherry MX Speed (Renewed) |
 | Mouse | Glorious Model O White (Renewed) |
 | Mouse | Glorious Model O Black (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
@@ -69,17 +69,17 @@ This computer is decommissioned.
 | Boot Drive | MSI M480 1TB, PCIe 4.0 M.2 2280 |
 | Storage Drive 1 | Crucial BX500 1TB 3D NAND SATA 2.5-inch SSD |
 | Video Card | MSI GeForce RTX™ 3080 Ti GAMING X TRIO 12G |
-| Case | be quiet! Pure Base 500DX Black ATX Mid Tower |
 | Power Supply | CORSAIR RM850 850 W ATX 80 PLUS GOLD Modular PSU |
-| Operating System | Microsoft Windows 11 Pro (x64) Build 26200.9457 (25H2) |
+| Operating System | Microsoft Windows 10 Professional (x64) Build 19045.7725 (22H2) |
+| Case | be quiet! Pure Base 500DX Black ATX Mid Tower |
 | Primary Display | Acer Nitro KG271U F3 27" 2560x1440 IPS 320Hz |
-| Display 2 | Dell S2716DG 27" 2560 × 1440 144Hz |
-| Display 3 | Acer K272HUL 27" 2560 × 1440 60Hz |
-| Display 4 | ASUS VG278HE 27" 1920 × 1080 144Hz |
+| Display 2 | Asus ROG Swift PG278Q 27" 2560 × 1440 144Hz |
+| Display 3 | BenQ BNQ7F3F ZOWIE XL LCD 1920 x 1080 60Hz |
+| Display 4 | DELL DELA098 P2214H 1920 × 1080 60Hz |
 | Sound Card | Creative Sound Blaster GC7 |
-| Keyboard | CORSAIR K100 RGB Cherry MX Speed Keyboard (Renewed) |
+| Keyboard | Corsair Gaming K70 RGB RAPIDFIRE |
+| Mouse | HyperX Pulsefire FPS Pro |
 | Mouse | Glorious Model O White (Renewed) |
-| Mouse | Glorious Model O Black (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
 
 #### Tuesday, July 28, 2026, 12:00 AM CDT
@@ -98,13 +98,13 @@ Pre-migration.
 | Video Card | MSI GeForce RTX™ 3080 Ti GAMING X TRIO 12G |
 | Case | be quiet! Pure Base 500DX Black ATX Mid Tower |
 | Power Supply | CORSAIR RM850 850 W ATX 80 PLUS GOLD Modular PSU |
-| Operating System | Microsoft Windows 11 Pro (x64) Build 26200.9457 (25H2) |
+| Operating System | Microsoft Windows 10 Professional (x64) Build 19045.7725 (22H2) |
 | Primary Display | ASUS ROG Strix 34" (XG349C), 3440 x 1440, 180Hz, 1ms (Renewed) |
 | Display 2 | Dell S2716DG 27" 2560 × 1440 144Hz |
 | Display 3 | Acer K272HUL 27" 2560 × 1440 60Hz |
 | Display 4 | ASUS VG278HE 27" 1920 × 1080 144Hz |
 | Sound Card | Creative Sound Blaster GC7 |
-| Keyboard | CORSAIR K100 RGB Cherry MX Speed Keyboard (Renewed) |
+| Keyboard | CORSAIR K100 RGB Cherry MX Speed (Renewed) |
 | Mouse | Glorious Model O White (Renewed) |
 | Mouse | Glorious Model O Black (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
