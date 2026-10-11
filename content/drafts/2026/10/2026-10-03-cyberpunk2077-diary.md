@@ -68,3 +68,15 @@ Back from Sam's. Back to using my Corsair K100 - the best keyboard ever made. Ti
 `Saturday, October 10, 2026, 10:05 PM CDT`
 
 Played quite a bit. Got a phone call. So paused for an hour. Got to mission where I need I took possession of Dexter DeShawn's bot. Solid mission. Paused for a bit. Might play a little bit more. 
+
+#### Sunday, October 11, 2026, 8:11 AM CDT
+
+Time to get back in. Canceled my subscription to Nexus mods. I have to backup the mod pack. That's for later. The game awaits.
+
+`Sunday, October 11, 2026, 9:16 AM CDT`
+
+Brain dance sequences are not my favorite. Its a cool idea, but it really breaks the pacing for me. Plan is to play a lot today and spend some time working and writing in the evening. I will call it a day at around 5PM. I am also going to setup my final retro machine setup once the stuff from Amazon gets delivered. I am going to setup the Skylake and Ivylake machines. 
+
+When am I ever going to play all the games though? I just don't have the time or the energy for it. I am not getting younger. 
+
+Don't have answers to those questions, but for now, I will focus on finishing Cyberpunk for the second time as quickly as possible. Do some marathon gaming sessions like I did for Borderlands 2. 
