@@ -80,3 +80,29 @@ Brain dance sequences are not my favorite. Its a cool idea, but it really breaks
 When am I ever going to play all the games though? I just don't have the time or the energy for it. I am not getting younger. 
 
 Don't have answers to those questions, but for now, I will focus on finishing Cyberpunk for the second time as quickly as possible. Do some marathon gaming sessions like I did for Borderlands 2. 
+
+`Sunday, October 11, 2026, 10:10 AM CDT`
+
+Taking a little break. Got into random skirmish as soon as I got out of Lizzy's bar, and that was more hectic than I expected. I am just not powerful enough, and I have Tier 1 weapons. I can still win fights, but its tough. I am also playing the game on Hard difficulty, so I expect combat to be challenging. 
+
+`Sunday, October 11, 2026, 11:44 AM CDT`
+
+Starting again. 
+
+`Sunday, October 11, 2026, 12:19 PM CDT`
+
+About to access the penthouse suite with Jackie. Want to take a break. 
+
+`Sunday, October 11, 2026, 1:30 PM CDT`
+
+The game begins after about 4 hours of game play. Jackie dies, Dexter turns on V, and Johnny Silverhand makes an appearance.
+
+`Sunday, October 11, 2026, 2:46 PM CDT`
+
+One more session. I will call it a day after this. 
+
+`Sunday, October 11, 2026, 3:26 PM CDT`
+
+The whole section of the game where V is talking to Viktor about his condition could have been a cut scene. Making it interactive didn't really add anything to the gameplay in my opinion. 
+
+V just woke up in his apartment and Johnny Silverhand wants him to get some cigarettes. Pausing at this point for now. Done for the day. I will play more tomorrow after work. I am going to work out, eat, and then catch up on work and do some writing. 
