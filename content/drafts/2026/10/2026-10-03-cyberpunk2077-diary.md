@@ -60,3 +60,11 @@ I got the Cherry MX keyboard delivered mid session, so stopped for a little bit.
 I am going to stop gaming for a bit, workout etc. I will get back into this later in the evening. 
 
 Its a nice enough keyboard, but the spacing is not something I am used to. I might take this to work. 
+
+`Saturday, October 10, 2026, 7:21 PM CDT`
+
+Back from Sam's. Back to using my Corsair K100 - the best keyboard ever made. Time for Cyberpunk. 
+
+`Saturday, October 10, 2026, 10:05 PM CDT`
+
+Played quite a bit. Got a phone call. So paused for an hour. Got to mission where I need I took possession of Dexter DeShawn's bot. Solid mission. Paused for a bit. Might play a little bit more. 
