@@ -24,8 +24,6 @@ This game is meant more for action focused. There are plenty of puzzles and expl
 
 Its a fun game, and I would recommend buying this on GOG if you can find it for under $2. In 2026, I would not recommend paying more than that. There is not a lot of replay value - I know some folks would disagree because. I would not play this game for the story, but the gameplay does hold up, and it is a very solid Tomb Raider game.
 
-https://youtu.be/89M--ZnVZOI?si=hEkpK7XSSrIUinI4
-
 ----------------------------
 
 I did not play the game until 2019, 13 years after the release of the game. I never bought the game at launch because I just didn't have that kind of money. Prior to playing Tomb Raider Legend demo, the last Tomb Raider game I finished was Tomb Raider Unfinished Business in 2005. After this, there was a 14 year gap where I did not play any Tomb Raider games. While I enjoyed the demo tremendously, because I never purchased the game at launch, it kind of fell by the way side, and I came to realize that this was more console centric than I had realized at the time I played the demo. This put a damper on things, and I played other games for a while. Didn't really care for the follow ups to this game either - Anniversary and Underworld. I have not played Underworld to this day. 
