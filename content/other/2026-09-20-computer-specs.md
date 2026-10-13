@@ -34,6 +34,7 @@ tags: ["hardware"]
 | Mouse | Glorious Model O Black (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
 | Accessory | Graphics Card GPU Brace Support (L, 74-120mm) |
+| Headset | JBL Quantum 100M2 |
 
 ### AlderLake
 
@@ -56,11 +57,11 @@ tags: ["hardware"]
 | Display 2 | Asus ROG Swift PG278Q 27" 2560 × 1440 144Hz |
 | Display 3 | BenQ BNQ7F3F ZOWIE XL LCD 1920 x 1080 60Hz |
 | Display 4 | DELL DELA098 P2214H 1920 × 1080 60Hz |
-| Sound Card | Creative Sound Blaster GC7 |
 | Keyboard | Corsair Gaming K70 RGB RAPIDFIRE |
 | Mouse | HyperX Pulsefire FPS Pro |
 | Mouse | Glorious Model O White (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
+| Headset | Creative Sound Blaster Blaze |
 
 #### Tuesday, July 28, 2026, 12:00 AM CDT
 
@@ -88,6 +89,7 @@ Pre-migration.
 | Mouse | Glorious Model O White (Renewed) |
 | Mouse | Glorious Model O Black (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
+| Headset | JBL Quantum 100M2 |
 
 ### Old Computer
 
