@@ -33,13 +33,13 @@ Did the worst thing possible on a lazy Sunday - took a 2-hour nap. Bad idea. Goi
 
 `Sunday, October 4, 2026, 5:11 PM CDT`
 
-Got to the part where I finished the Sandra Dorsett mission. Need to allocate attribute and perk points. I want to specialize in ARs and pistols, but I also want to be able to do quickhacks. I am not sure what path to take. I have 1 of each available. Got to look into it.
+Got to the part where I finished the Sandra Dorset mission. Need to allocate attribute and perk points. I want to specialize in ARs and pistols, but I also want to be able to do quickhacks. I am not sure what path to take. I have 1 of each available. Got to look into it.
 
 Calling it a day now for gaming. Will work out, eat something, and then watch TV to wind down for tomorrow. Sunday evenings are depressing.
 
 #### Saturday, October 10, 2026, 8:20 AM CDT
 
-Subscribed to Nexus Mods Premium to download the Welcome to Night City mod pack. I am going to restart the game as Corpo. Redownloading the game right now to install the mod cleanly. There were remnants of the old mods, and I wanted this to work cleanly.
+Subscribed to Nexus Mods Premium to download the Welcome to Night City mod pack. I am going to restart the game as Corpo. Re-downloading the game right now to install the mod cleanly. There were remnants of the old mods, and I wanted this to work cleanly.
 
 `Saturday, October 10, 2026, 8:38 AM CDT`
 
@@ -55,11 +55,9 @@ I am going to play for a little bit more, and then work out and eat. Will do a l
 
 `Saturday, October 10, 2026, 3:07 PM CDT`
 
-I got the Cherry MX keyboard delivered mid-session, so I stopped for a little bit. It's a nice keyboard, but the spacing of the keys is a little weird. I am not a big fan of it. When I am using the Home and End keys, the different spacing is throwing me off. There is no spacing between the numpad and the arrow keys. I am just not used to that.
+I got the Cherry MX keyboard delivered mid-session, so I stopped for a little bit. It's a nice keyboard, but the spacing of the keys is a little weird. I am not a big fan of it. When I am using the Home and End keys, the different spacing is throwing me off. There is no spacing between the numpad and the arrow keys. I am just not used to that. It's a nice enough keyboard, but the spacing is not something I am used to. I might take this to work.
 
 I am going to stop gaming for a bit, work out, etc. I will get back into this later in the evening.
-
-It's a nice enough keyboard, but the spacing is not something I am used to. I might take this to work.
 
 `Saturday, October 10, 2026, 7:21 PM CDT`
 
