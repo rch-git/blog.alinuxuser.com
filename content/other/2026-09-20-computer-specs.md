@@ -5,26 +5,6 @@ draft: false
 tags: ["hardware"]
 ---
 
-### Old Computer
-
-#### Sunday, September 20, 2026, 8:57 PM CDT
-
-This computer is decommissioned.
-
-| Component | Specification |
-|---|---|
-| Processor | Intel Core i7-2700K 3.5 GHz Quad-Core |
-| Motherboard | Gigabyte GA-Z77X-UD5H ATX LGA1155 |
-| Memory | G.Skill Ripjaws 16 GB (4 × 4 GB) DDR3-1600 CL9 |
-| Boot Drive | Kingston HyperX 3K 120 GB 2.5" SSD |
-| Storage Drive | Western Digital Caviar Blue 640 GB 3.5" 7200 RPM HDD |
-| Video Card | EVGA Superclocked ACX GeForce GTX 780 3 GB |
-| Case | Cooler Master Elite 330 ATX Mid Tower |
-| Power Supply | Corsair VX550 550 W 80+ Certified ATX |
-| Operating System | Microsoft Windows 7 Professional SP1 OEM 64-bit |
-| Primary Display | Acer P243WAid Black-Silver 24" 2ms |
-| Display 2 | Acer G215HVAbd 21.5" 1920 × 1080 |
-
 ### ArrowLake
 
 #### Sunday, September 20, 2026, 8:58 PM CDT
@@ -108,3 +88,23 @@ Pre-migration.
 | Mouse | Glorious Model O White (Renewed) |
 | Mouse | Glorious Model O Black (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
+
+### Old Computer
+
+#### Sunday, September 20, 2026, 8:57 PM CDT
+
+This computer is decommissioned.
+
+| Component | Specification |
+|---|---|
+| Processor | Intel Core i7-2700K 3.5 GHz Quad-Core |
+| Motherboard | Gigabyte GA-Z77X-UD5H ATX LGA1155 |
+| Memory | G.Skill Ripjaws 16 GB (4 × 4 GB) DDR3-1600 CL9 |
+| Boot Drive | Kingston HyperX 3K 120 GB 2.5" SSD |
+| Storage Drive | Western Digital Caviar Blue 640 GB 3.5" 7200 RPM HDD |
+| Video Card | EVGA Superclocked ACX GeForce GTX 780 3 GB |
+| Case | Cooler Master Elite 330 ATX Mid Tower |
+| Power Supply | Corsair VX550 550 W 80+ Certified ATX |
+| Operating System | Microsoft Windows 7 Professional SP1 OEM 64-bit |
+| Primary Display | Acer P243WAid Black-Silver 24" 2ms |
+| Display 2 | Acer G215HVAbd 21.5" 1920 × 1080 |
