@@ -18,9 +18,7 @@ The biggest improvement over the classic games are the controls. This is more li
 {{< youtube 89M--ZnVZOI >}}
 </p>
 
-Visuals are excellent compared to the classic games. Game takes you to different locations - Bolivia, Peru, Japan, Ghana (West Africa), Kazakhstan, England, Nepal. Thats a lot of level variety for a fairly short game. Nepal and Peru stand out from the rest for me.
-
-This game is meant more for action focused. There are plenty of puzzles and exploration, but there is also a lot of combat. The parts I did not enjoy are the boss fights. They are all boring. The game does not let you be creative in anyway. There is only one way to defeat the boss, and often times it is arbitrary.
+Voice acting and visuals are excellent compared to the classic games. Game takes you to different locations - Bolivia, Peru, Japan, Ghana (West Africa), Kazakhstan, England, Nepal. Thats a lot of level variety for a fairly short game. Nepal and Peru stand out from the rest for me. There are plenty of puzzles and exploration, and there is also a lot of combat. The parts I did not enjoy are the boss fights. They are all boring. The game does not let you be creative in anyway. There is only one way to defeat the boss, and often times it is arbitrary.
 
 Its a fun game, and I would recommend buying this on GOG if you can find it for under $2. In 2026, I would not recommend paying more than that. There is not a lot of replay value - I know some folks would disagree because. I would not play this game for the story, but the gameplay does hold up, and it is a very solid Tomb Raider game.
 
@@ -38,7 +36,7 @@ There is something about the weapon sounds with this game - pistols sounded holl
 Looking back at the gameplay recordings, the graphics still hold up.
  
 
-Voice acting is good. They did a good job with the character model. It looks and plays well. Animations are very smooth, and they are not as slow as the classic games. This is one of the biggest complaints you hear about the classic games especially when someone plays them now, the controls feel very sluggish. I have to agree with this, but those games were a product for their time. Tomb Raider Legend introduced smooth animations, and platforming is fluid and fun. This is one of the biggest strengths of the Legend. The levels and platforming. Its a lot of fun. 
+They did a good job with the character model. It looks and plays well. Animations are very smooth, and they are not as slow as the classic games. This is one of the biggest complaints you hear about the classic games especially when someone plays them now, the controls feel very sluggish. I have to agree with this, but those games were a product for their time. Tomb Raider Legend introduced smooth animations, and platforming is fluid and fun. This is one of the biggest strengths of the Legend. The levels and platforming. Its a lot of fun. 
 
 Combat is OK. Nothing excellent, and I think it is better than the previous games. Dual pistols are great - but it always bothered me that some of the enemies are total bullet sponges. 
 
