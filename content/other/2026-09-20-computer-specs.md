@@ -5,26 +5,6 @@ draft: false
 tags: ["hardware"]
 ---
 
-### Old Computer
-
-#### Sunday, September 20, 2026, 8:57 PM CDT
-
-This computer is decommissioned.
-
-| Component | Specification |
-|---|---|
-| Processor | Intel Core i7-2700K 3.5 GHz Quad-Core |
-| Motherboard | Gigabyte GA-Z77X-UD5H ATX LGA1155 |
-| Memory | G.Skill Ripjaws 16 GB (4 × 4 GB) DDR3-1600 CL9 |
-| Boot Drive | Kingston HyperX 3K 120 GB 2.5" SSD |
-| Storage Drive | Western Digital Caviar Blue 640 GB 3.5" 7200 RPM HDD |
-| Video Card | EVGA Superclocked ACX GeForce GTX 780 3 GB |
-| Case | Cooler Master Elite 330 ATX Mid Tower |
-| Power Supply | Corsair VX550 550 W 80+ Certified ATX |
-| Operating System | Microsoft Windows 7 Professional SP1 OEM 64-bit |
-| Primary Display | Acer P243WAid Black-Silver 24" 2ms |
-| Display 2 | Acer G215HVAbd 21.5" 1920 × 1080 |
-
 ### ArrowLake
 
 #### Sunday, September 20, 2026, 8:58 PM CDT
@@ -54,6 +34,7 @@ This computer is decommissioned.
 | Mouse | Glorious Model O Black (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
 | Accessory | Graphics Card GPU Brace Support (L, 74-120mm) |
+| Headset | JBL Quantum 100M2 |
 
 ### AlderLake
 
@@ -76,11 +57,11 @@ This computer is decommissioned.
 | Display 2 | Asus ROG Swift PG278Q 27" 2560 × 1440 144Hz |
 | Display 3 | BenQ BNQ7F3F ZOWIE XL LCD 1920 x 1080 60Hz |
 | Display 4 | DELL DELA098 P2214H 1920 × 1080 60Hz |
-| Sound Card | Creative Sound Blaster GC7 |
 | Keyboard | Corsair Gaming K70 RGB RAPIDFIRE |
 | Mouse | HyperX Pulsefire FPS Pro |
 | Mouse | Glorious Model O White (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
+| Headset | Creative Sound Blaster Blaze |
 
 #### Tuesday, July 28, 2026, 12:00 AM CDT
 
@@ -108,3 +89,24 @@ Pre-migration.
 | Mouse | Glorious Model O White (Renewed) |
 | Mouse | Glorious Model O Black (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
+| Headset | JBL Quantum 100M2 |
+
+### Old Computer
+
+#### Sunday, September 20, 2026, 8:57 PM CDT
+
+This computer is decommissioned.
+
+| Component | Specification |
+|---|---|
+| Processor | Intel Core i7-2700K 3.5 GHz Quad-Core |
+| Motherboard | Gigabyte GA-Z77X-UD5H ATX LGA1155 |
+| Memory | G.Skill Ripjaws 16 GB (4 × 4 GB) DDR3-1600 CL9 |
+| Boot Drive | Kingston HyperX 3K 120 GB 2.5" SSD |
+| Storage Drive | Western Digital Caviar Blue 640 GB 3.5" 7200 RPM HDD |
+| Video Card | EVGA Superclocked ACX GeForce GTX 780 3 GB |
+| Case | Cooler Master Elite 330 ATX Mid Tower |
+| Power Supply | Corsair VX550 550 W 80+ Certified ATX |
+| Operating System | Microsoft Windows 7 Professional SP1 OEM 64-bit |
+| Primary Display | Acer P243WAid Black-Silver 24" 2ms |
+| Display 2 | Acer G215HVAbd 21.5" 1920 × 1080 |
