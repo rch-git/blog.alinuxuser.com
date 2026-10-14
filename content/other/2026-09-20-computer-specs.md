@@ -112,7 +112,7 @@ Pre-migration.
 | Primary Display | Lenovo Y27f 1920 x 1080 144Hz |
 | Display 2 | Acer G215H 1920 x 1080 60Hz |
 | Optical Drive | ASUS DRW-24F1ST c |
-| Keyboard | CORSAIR K100 RGB Cherry MX Speed (Renewed) |
+| Keyboard | Hexgears X5 Dark Knight Wireless Kaihl Box Red Switch |
 | Mouse | HyperX Pulsefire FPS Pro |
 | Webcam | Logitech HD Webcam C270 |
 | Headset | JBL Quantum 100M2 |
