@@ -91,6 +91,35 @@ Pre-migration.
 | Webcam | Logitech HD Webcam C270 |
 | Headset | JBL Quantum 100M2 |
 
+### Skylake
+
+#### Wednesday, October 14, 2026, 6:01 AM CDT
+
+| Component | Specification |
+|---|---|
+| Processor | Intel Core i7-6700K CPU 4.00GHz |
+| CPU Cooler | ARCTIC Liquid Freezer II 280 - Black |
+| Thermal Compound | Noctua NT-H1 High-Performance TIM - 3.5g |
+| Motherboard | MSI Z170A GAMING M5 LGA 1151 (MS-7977) |
+| Memory | G.SKILL Ripjaws V Series 64GB (4 x 16GB) 288-Pin DDR4 3200 (PC4 25600) |
+| Boot Drive | MSI SPATIUM Series M.2 2280 1TB PCIe NVMe SSD |
+| Storage Drive 1 | Crucial BX500 1TB 3D NAND SATA 2.5-inch SSD |
+| Video Card | MSI GTX 1080 Ti GAMING X 11G |
+| Case | be quiet! Pure Base 500DX Black ATX Mid Tower |
+| Power Supply | CORSAIR RM850 850 W ATX 80 PLUS GOLD Modular PSU |
+| Operating System | Microsoft Windows 10 Professional (x64) Build 19045.7548 (22H2) |
+| Primary Display | ASUS ROG Strix 34" (XG349C), 3440 x 1440, 180Hz, 1ms (Renewed) |
+| Display 2 | Dell S2716DG 27" 2560 × 1440 144Hz |
+| Display 3 | Acer K272HUL 27" 2560 × 1440 60Hz |
+| Display 4 | ASUS VG278HE 27" 1920 × 1080 144Hz |
+| Sound Card | Creative Sound Blaster GC7 |
+| Keyboard | CORSAIR K100 RGB Cherry MX Speed (Renewed) |
+| Mouse | HyperX Pulsefire FPS Pro |
+| Webcam | Logitech HD Webcam C270 |
+| Headset | JBL Quantum 100M2 |
+
+
+
 ### Old Computer
 
 #### Sunday, September 20, 2026, 8:57 PM CDT
