@@ -98,7 +98,7 @@ Pre-migration.
 | Component | Specification |
 |---|---|
 | Processor | Intel Core i7-6700K CPU 4.00GHz |
-| CPU Cooler | ARCTIC Liquid Freezer II 280 - Black |
+| CPU Cooler | Corsair Hydro Series H60 (2018) 120mm Liquid CPU Cooler |
 | Thermal Compound | Noctua NT-H1 High-Performance TIM - 3.5g |
 | Motherboard | MSI Z170A GAMING M5 LGA 1151 (MS-7977) |
 | Memory | G.SKILL Ripjaws V Series 64GB (4 x 16GB) 288-Pin DDR4 3200 (PC4 25600) |
@@ -112,7 +112,7 @@ Pre-migration.
 | Display 2 | Dell S2716DG 27" 2560 × 1440 144Hz |
 | Display 3 | Acer K272HUL 27" 2560 × 1440 60Hz |
 | Display 4 | ASUS VG278HE 27" 1920 × 1080 144Hz |
-| Sound Card | Creative Sound Blaster GC7 |
+| Optical Drive | ASUS DRW-24F1ST c |
 | Keyboard | CORSAIR K100 RGB Cherry MX Speed (Renewed) |
 | Mouse | HyperX Pulsefire FPS Pro |
 | Webcam | Logitech HD Webcam C270 |
