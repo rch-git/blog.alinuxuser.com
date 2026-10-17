@@ -105,8 +105,24 @@ The whole section of the game where V is talking to Viktor about his condition c
 
 V just woke up in his apartment and Johnny Silverhand wants him to get some cigarettes. Pausing at this point for now. Done for the day. I will play more tomorrow after work. I am going to work out, eat, and then catch up on work and do some writing.
 
-`Friday, October 16, 2026, 10:17 PM CDT`
+#### Friday, October 16, 2026, 10:17 PM CDT
 
 Went grocery shopping today. Got some pizza. Played some more. Got the point where I have to get into Clouds club. Still don't have a bike. There is some pacing issue with this game. Wish I could get a move on to the fun stuff. Right now, its just going to places and talking to people. 
 
 I am calling it a night for now. Will play more tomorrow. Intend to get up early and play more. I just need for the game to get going. Its a little slow right now. 
+
+#### Saturday, October 17, 2026, 8:33 AM CDT
+
+More Cyberpunk. I will try to make a lot of progress today. I think I am going to dedicate tomorrow playing the two new Battlefield 6 maps. I will dedicate today to Cyberpunk.
+
+`Saturday, October 17, 2026, 9:49 AM CDT`
+
+Still walking around talking to characters. I am going to do some side quests because the main storyline at this point is just dialogue. 
+
+`Saturday, October 17, 2026, 10:54 AM CDT`
+
+Time to get back into the game. 
+
+`Saturday, October 17, 2026, 12:14 PM CDT`
+
+Finished the quest to find Evelyn Parker. Judy so far is boring. I do not want to do quests with her, but these are main quests, so no way to skip. Taking a little break. 
