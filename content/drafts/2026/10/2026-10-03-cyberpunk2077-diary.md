@@ -104,3 +104,9 @@ One more session. I will call it a day after this.
 The whole section of the game where V is talking to Viktor about his condition could have been a cutscene. Making it interactive didn't really add anything to the gameplay in my opinion.
 
 V just woke up in his apartment and Johnny Silverhand wants him to get some cigarettes. Pausing at this point for now. Done for the day. I will play more tomorrow after work. I am going to work out, eat, and then catch up on work and do some writing.
+
+`Friday, October 16, 2026, 10:17 PM CDT`
+
+Went grocery shopping today. Got some pizza. Played some more. Got the point where I have to get into Clouds club. Still don't have a bike. There is some pacing issue with this game. Wish I could get a move on to the fun stuff. Right now, its just going to places and talking to people. 
+
+I am calling it a night for now. Will play more tomorrow. Intend to get up early and play more. I just need for the game to get going. Its a little slow right now. 
