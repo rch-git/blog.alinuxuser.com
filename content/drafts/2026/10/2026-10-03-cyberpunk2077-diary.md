@@ -141,3 +141,14 @@ I am glad I decided to replay this game on my 5080. It looks amazing. Its quite 
 
 With RDR2, the world is the true hero. With Cyberpunk, I think the world isn't quite as good, but the graphics and gameplay are a lot better. The reason I say the world isn't as good is because even in 2026, there are still bugs with crowd behavior. I imagine it is very difficult to make every NPC act natural. Can't be easy. 
 
+`Saturday, October 17, 2026, 4:18 PM CDT`
+
+I decided not to cook. I am going to eat leftovers. I will cook tomorrow. I am going to play more now. I will not be able to play next week because I will have family visiting me, and I earmarked tomorrow for Battlefield 6. The strange thing is, I am not excited about Battlefield like I used to be. I still want to play the Vegas maps, but...I am basically doing it for some footage. The only in Battlefield moments like in BF4...its just not a thing anymore. 
+
+Onwards with Cyberpunk. 
+
+`Saturday, October 17, 2026, 6:01 PM CDT`
+
+Going to get something to eat. Finished the part of the quest where you encounter GLADOS.
+
+After eating, I will play more.
