@@ -126,3 +126,18 @@ Time to get back into the game.
 `Saturday, October 17, 2026, 12:14 PM CDT`
 
 Finished the quest to find Evelyn Parker. Judy so far is boring. I do not want to do quests with her, but these are main quests, so no way to skip. Taking a little break. 
+
+`Saturday, October 17, 2026, 1:42 PM CDT`
+
+Going to finish that quest and hopefully won't have to deal with Judy for a while. 
+
+`Saturday, October 17, 2026, 3:05 PM CDT`
+
+Taking a break. I think I am going to cook something.
+
+I finished the Judy quest. Now, I am doing some side quests. Just got the quest from Delamain to retrieve the cars. 
+
+I am glad I decided to replay this game on my 5080. It looks amazing. Its quite simply one of the best games I ever played. Between this and Red Dead Redemption 2...I can't decide which one I like more. I am kind of leaning towards this because I enjoy the RPG system. RDR2 is not much of an RPG game, and I am glad that it isn't. Even though they tried to incorporate a skill system into RDR2, I am glad they stopped at that.
+
+With RDR2, the world is the true hero. With Cyberpunk, I think the world isn't quite as good, but the graphics and gameplay are a lot better. The reason I say the world isn't as good is because even in 2026, there are still bugs with crowd behavior. I imagine it is very difficult to make every NPC act natural. Can't be easy. 
+
