@@ -162,3 +162,21 @@ Two slices of Sam's pizza, two eggs, and a homemade banana milkshake. Living the
 Finished the Delamain Epistrophy quest. This took longer than expected. The final car wouldn't spawn. Had to leave the area, untrack the quest, and then started driving back to the area, and then it all worked as expected. 
 
 Going to call it a night for now. I will play Battlefield 6 tomorrow. 
+
+`Monday, October 19, 2026, 8:40 AM CDT`
+
+Played Battlefield 6 yesterday. Vegas Strip is a great map. I don't know if I want to spend time to unlock the new weapons etc. I will play some more over the week. I won't get to game much the following weekend. 
+
+I will play some more now. 
+
+`Monday, October 19, 2026, 9:14 AM CDT`
+
+Finished the Jackie funeral quest. Got the bike. Now the game is going to get good. 
+
+`Monday, October 19, 2026, 11:15 AM CDT`
+
+I have a 1PM call I need to take for work, even though this is my day off. No big deal. I am going to play some more before the call. 
+
+`Monday, October 19, 2026, 12:04 PM CDT`
+
+Finished a couple of side quests. The game really shines when it gives you the freedom to explore and do things the way you please. I am going to do a main quest after the work call. Going to edit some videos now. 

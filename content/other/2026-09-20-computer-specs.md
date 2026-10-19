@@ -5,7 +5,7 @@ draft: false
 tags: ["hardware"]
 ---
 
-### ArrowLake
+### ARROWLAKE
 
 #### Sunday, September 20, 2026, 8:58 PM CDT
 
@@ -36,7 +36,7 @@ tags: ["hardware"]
 | Accessory | Graphics Card GPU Brace Support (L, 74-120mm) |
 | Headset | JBL Quantum 100M2 |
 
-### AlderLake
+### ALDERLAKE
 
 #### Tuesday, September 22, 2026, 5:59 AM CDT
 
@@ -91,7 +91,7 @@ Pre-migration.
 | Webcam | Logitech HD Webcam C270 |
 | Headset | JBL Quantum 100M2 |
 
-### Skylake
+### SKYLAKE
 
 #### Wednesday, October 14, 2026, 6:01 AM CDT
 
@@ -116,6 +116,12 @@ Pre-migration.
 | Mouse | HyperX Pulsefire FPS Pro |
 | Webcam | Logitech HD Webcam C270 |
 | Headset | JBL Quantum 100M2 |
+
+### IVYBRIDGE
+
+#### Monday, October 19, 2026, 2:34 PM CDT
+
+
 
 ### Old Computer
 
