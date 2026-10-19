@@ -1,6 +1,6 @@
 ---
 title: 'Computer Specs'
-date: 2026-09-20T18:53:40
+date: 2026-10-19T14:37:38
 draft: false
 tags: ["hardware"]
 ---
@@ -62,34 +62,6 @@ tags: ["hardware"]
 | Mouse | Glorious Model O White (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
 | Headset | Creative Sound Blaster Blaze |
-
-#### Tuesday, July 28, 2026, 12:00 AM CDT
-
-Pre-migration.
-
-| Component | Specification |
-|---|---|
-| Processor | Intel Core i7-12700K 12 cores (8 P + 4 E) |
-| CPU Cooler | ARCTIC Liquid Freezer II 280 - Black |
-| Thermal Compound | Noctua NT-H1 High-Performance TIM - 3.5g |
-| Motherboard | MSI PRO Z690-A LGA 1700 DDR4 |
-| Memory | G.SKILL Ripjaws V Series 64GB (4 x 16GB) 288-Pin DDR4 3200 (PC4 25600) |
-| Boot Drive | MSI SPATIUM Series M.2 2280 1TB PCIe NVMe SSD |
-| Storage Drive 1 | Crucial BX500 1TB 3D NAND SATA 2.5-inch SSD |
-| Video Card | MSI GeForce RTX™ 3080 Ti GAMING X TRIO 12G |
-| Case | be quiet! Pure Base 500DX Black ATX Mid Tower |
-| Power Supply | CORSAIR RM850 850 W ATX 80 PLUS GOLD Modular PSU |
-| Operating System | Microsoft Windows 10 Professional (x64) Build 19045.7725 (22H2) |
-| Primary Display | ASUS ROG Strix 34" (XG349C), 3440 x 1440, 180Hz, 1ms (Renewed) |
-| Display 2 | Dell S2716DG 27" 2560 × 1440 144Hz |
-| Display 3 | Acer K272HUL 27" 2560 × 1440 60Hz |
-| Display 4 | ASUS VG278HE 27" 1920 × 1080 144Hz |
-| Sound Card | Creative Sound Blaster GC7 |
-| Keyboard | CORSAIR K100 RGB Cherry MX Speed (Renewed) |
-| Mouse | Glorious Model O White (Renewed) |
-| Mouse | Glorious Model O Black (Renewed) |
-| Webcam | Logitech HD Webcam C270 |
-| Headset | JBL Quantum 100M2 |
 
 ### SKYLAKE
 
