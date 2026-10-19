@@ -180,3 +180,11 @@ I have a 1PM call I need to take for work, even though this is my day off. No bi
 `Monday, October 19, 2026, 12:04 PM CDT`
 
 Finished a couple of side quests. The game really shines when it gives you the freedom to explore and do things the way you please. I am going to do a main quest after the work call. Going to edit some videos now. 
+
+`Monday, October 19, 2026, 4:19 PM CDT`
+
+Going to play some more. Will contemplate whether or not I should go to the office tomorrow.
+
+`Monday, October 19, 2026, 5:55 PM CDT`
+
+Did a couple of main quests and also took care of some Cyber Psychos. I am going to close for today. I am not looking forward to tomorrow. I am exhausted with work. Not an ideal thing when I am 43. I still have a long way to go. Time to recharge my batteries and get mentally ready for work. 
