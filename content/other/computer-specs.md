@@ -69,7 +69,7 @@ tags: ["hardware"]
 
 | Component | Specification |
 |---|---|
-| Processor | Intel Core i7-6700K CPU 4.00GHz |
+| Processor | Intel Core i7-6700K 4.00GHz |
 | CPU Cooler | Corsair Hydro Series H60 (2018) 120mm Liquid CPU Cooler |
 | Thermal Compound | Noctua NT-H1 High-Performance TIM - 3.5g |
 | Motherboard | MSI Z170A GAMING M5 LGA 1151 (MS-7977) |
@@ -86,14 +86,31 @@ tags: ["hardware"]
 | Optical Drive | ASUS DRW-24F1ST c |
 | Keyboard | Hexgears X5 Dark Knight Wireless Kaihl Box Red Switch |
 | Mouse | HyperX Pulsefire FPS Pro |
-| Webcam | Logitech HD Webcam C270 |
-| Headset | JBL Quantum 100M2 |
+| Headset | Razer BlackShark V2 |
 
 ### IVYBRIDGE
 
 #### Monday, October 19, 2026, 2:34 PM CDT
 
-
+| Component | Specification |
+|---|---|
+| Processor | Intel Core i7-4790K 4.00GHz |
+| CPU Cooler | Cooler Master Hyper 212 Air Cooler |
+| Thermal Compound | Arctic Silver Thermal Paste - 3.5g |
+| Motherboard | MSI B85-G43 GAMING LGA1150 (MS-7816) |
+| Memory | Corsair Vengeance 24GB (8x3) PC3-12800 DDR3 SDRAM |
+| Boot Drive | Samsung SSD 840 EVO 250GB |
+| Storage Drive 1 | Western Digital 1TB 7200RPM SATA HDD (WD10EZEX-08M2NA0) |
+| Video Card | EVGA GTX 1070 Ti FTW Ultra Silent Gaming ACX 3.0 (08G-P4-6678) 8GB |
+| Case | Corsair Graphite Series Black 230T |
+| Power Supply | CORSAIR RM850 850 W ATX 80 PLUS GOLD Modular PSU |
+| Operating System | Microsoft Windows 10 Professional (x64) Build 19045.7548 (22H2) |
+| Primary Display | Lenovo Y27f 1920 x 1080 144Hz |
+| Display 2 | Acer G215H 1920 x 1080 60Hz |
+| Optical Drive | ASUS DRW-24F1ST c |
+| Keyboard | Hexgears X5 Dark Knight Wireless Kaihl Box Red Switch |
+| Mouse | HyperX Pulsefire FPS Pro |
+| Headset | Creative Fatal1ty |
 
 ### Old Computer
 
