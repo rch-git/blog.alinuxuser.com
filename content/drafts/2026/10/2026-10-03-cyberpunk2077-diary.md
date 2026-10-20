@@ -104,3 +104,87 @@ One more session. I will call it a day after this.
 The whole section of the game where V is talking to Viktor about his condition could have been a cutscene. Making it interactive didn't really add anything to the gameplay in my opinion.
 
 V just woke up in his apartment and Johnny Silverhand wants him to get some cigarettes. Pausing at this point for now. Done for the day. I will play more tomorrow after work. I am going to work out, eat, and then catch up on work and do some writing.
+
+#### Friday, October 16, 2026, 10:17 PM CDT
+
+Went grocery shopping today. Got some pizza. Played some more. Got the point where I have to get into Clouds club. Still don't have a bike. There is some pacing issue with this game. Wish I could get a move on to the fun stuff. Right now, its just going to places and talking to people. 
+
+I am calling it a night for now. Will play more tomorrow. Intend to get up early and play more. I just need for the game to get going. Its a little slow right now. 
+
+#### Saturday, October 17, 2026, 8:33 AM CDT
+
+More Cyberpunk. I will try to make a lot of progress today. I think I am going to dedicate tomorrow playing the two new Battlefield 6 maps. I will dedicate today to Cyberpunk.
+
+`Saturday, October 17, 2026, 9:49 AM CDT`
+
+Still walking around talking to characters. I am going to do some side quests because the main storyline at this point is just dialogue. 
+
+`Saturday, October 17, 2026, 10:54 AM CDT`
+
+Time to get back into the game. 
+
+`Saturday, October 17, 2026, 12:14 PM CDT`
+
+Finished the quest to find Evelyn Parker. Judy so far is boring. I do not want to do quests with her, but these are main quests, so no way to skip. Taking a little break. 
+
+`Saturday, October 17, 2026, 1:42 PM CDT`
+
+Going to finish that quest and hopefully won't have to deal with Judy for a while. 
+
+`Saturday, October 17, 2026, 3:05 PM CDT`
+
+Taking a break. I think I am going to cook something.
+
+I finished the Judy quest. Now, I am doing some side quests. Just got the quest from Delamain to retrieve the cars. 
+
+I am glad I decided to replay this game on my 5080. It looks amazing. Its quite simply one of the best games I ever played. Between this and Red Dead Redemption 2...I can't decide which one I like more. I am kind of leaning towards this because I enjoy the RPG system. RDR2 is not much of an RPG game, and I am glad that it isn't. Even though they tried to incorporate a skill system into RDR2, I am glad they stopped at that.
+
+With RDR2, the world is the true hero. With Cyberpunk, I think the world isn't quite as good, but the graphics and gameplay are a lot better. The reason I say the world isn't as good is because even in 2026, there are still bugs with crowd behavior. I imagine it is very difficult to make every NPC act natural. Can't be easy. 
+
+`Saturday, October 17, 2026, 4:18 PM CDT`
+
+I decided not to cook. I am going to eat leftovers. I will cook tomorrow. I am going to play more now. I will not be able to play next week because I will have family visiting me, and I earmarked tomorrow for Battlefield 6. The strange thing is, I am not excited about Battlefield like I used to be. I still want to play the Vegas maps, but...I am basically doing it for some footage. The only in Battlefield moments like in BF4...its just not a thing anymore. 
+
+Onwards with Cyberpunk. 
+
+`Saturday, October 17, 2026, 6:01 PM CDT`
+
+Going to get something to eat. Finished the part of the quest where you encounter GLADOS.
+
+After eating, I will play more.
+
+`Saturday, October 17, 2026, 7:32 PM CDT`
+
+Two slices of Sam's pizza, two eggs, and a homemade banana milkshake. Living the good life. Time for some more Cyberpunk. 
+
+`Saturday, October 17, 2026, 9:23 PM CDT`
+
+Finished the Delamain Epistrophy quest. This took longer than expected. The final car wouldn't spawn. Had to leave the area, untrack the quest, and then started driving back to the area, and then it all worked as expected. 
+
+Going to call it a night for now. I will play Battlefield 6 tomorrow. 
+
+`Monday, October 19, 2026, 8:40 AM CDT`
+
+Played Battlefield 6 yesterday. Vegas Strip is a great map. I don't know if I want to spend time to unlock the new weapons etc. I will play some more over the week. I won't get to game much the following weekend. 
+
+I will play some more now. 
+
+`Monday, October 19, 2026, 9:14 AM CDT`
+
+Finished the Jackie funeral quest. Got the bike. Now the game is going to get good. 
+
+`Monday, October 19, 2026, 11:15 AM CDT`
+
+I have a 1PM call I need to take for work, even though this is my day off. No big deal. I am going to play some more before the call. 
+
+`Monday, October 19, 2026, 12:04 PM CDT`
+
+Finished a couple of side quests. The game really shines when it gives you the freedom to explore and do things the way you please. I am going to do a main quest after the work call. Going to edit some videos now. 
+
+`Monday, October 19, 2026, 4:19 PM CDT`
+
+Going to play some more. Will contemplate whether or not I should go to the office tomorrow.
+
+`Monday, October 19, 2026, 5:55 PM CDT`
+
+Did a couple of main quests and also took care of some Cyber Psychos. I am going to close for today. I am not looking forward to tomorrow. I am exhausted with work. Not an ideal thing when I am 43. I still have a long way to go. Time to recharge my batteries and get mentally ready for work. 

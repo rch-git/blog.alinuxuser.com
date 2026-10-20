@@ -1,11 +1,11 @@
 ---
 title: 'Computer Specs'
-date: 2026-09-20T18:53:40
-draft: false
+date: 2026-10-19T14:58:40
+draft: true
 tags: ["hardware"]
 ---
 
-### ArrowLake
+### ARROWLAKE
 
 #### Sunday, September 20, 2026, 8:58 PM CDT
 
@@ -36,7 +36,7 @@ tags: ["hardware"]
 | Accessory | Graphics Card GPU Brace Support (L, 74-120mm) |
 | Headset | JBL Quantum 100M2 |
 
-### AlderLake
+### ALDERLAKE
 
 #### Tuesday, September 22, 2026, 5:59 AM CDT
 
@@ -90,6 +90,38 @@ Pre-migration.
 | Mouse | Glorious Model O Black (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
 | Headset | JBL Quantum 100M2 |
+
+### SKYLAKE
+
+#### Wednesday, October 14, 2026, 6:01 AM CDT
+
+| Component | Specification |
+|---|---|
+| Processor | Intel Core i7-6700K CPU 4.00GHz |
+| CPU Cooler | Corsair Hydro Series H60 (2018) 120mm Liquid CPU Cooler |
+| Thermal Compound | Noctua NT-H1 High-Performance TIM - 3.5g |
+| Motherboard | MSI Z170A GAMING M5 LGA 1151 (MS-7977) |
+| Memory | G.SKILL Ripjaws V Series 64GB (4 x 16GB) 288-Pin DDR4 3200 (PC4 25600) |
+| Boot Drive | Samsung SSD 850 EVO 500GB SSD |
+| Storage Drive 1 | WDC WD10EZEX-08WN4A0 1000GB HDD |
+| Storage Drive 2 | Samsung SSD 850 EVO 500GB SSD |
+| Video Card | MSI GTX 1080 Ti GAMING X 11G |
+| Case | Corsair Graphite Series Black 230T |
+| Power Supply | CORSAIR RM850 850 W ATX 80 PLUS GOLD Modular PSU |
+| Operating System | Microsoft Windows 10 Professional (x64) Build 19045.7548 (22H2) |
+| Primary Display | Lenovo Y27f 1920 x 1080 144Hz |
+| Display 2 | Acer G215H 1920 x 1080 60Hz |
+| Optical Drive | ASUS DRW-24F1ST c |
+| Keyboard | Hexgears X5 Dark Knight Wireless Kaihl Box Red Switch |
+| Mouse | HyperX Pulsefire FPS Pro |
+| Webcam | Logitech HD Webcam C270 |
+| Headset | JBL Quantum 100M2 |
+
+### IVYBRIDGE
+
+#### Monday, October 19, 2026, 2:34 PM CDT
+
+
 
 ### Old Computer
 
