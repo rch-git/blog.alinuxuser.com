@@ -1,7 +1,7 @@
 ---
 title: 'Computer Specs'
 date: 2026-10-19T14:58:40
-draft: false
+draft: true
 tags: ["hardware"]
 ---
 
