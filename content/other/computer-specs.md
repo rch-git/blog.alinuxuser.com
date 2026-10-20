@@ -79,7 +79,7 @@ tags: ["hardware"]
 | Storage Drive 2 | Samsung SSD 850 EVO 500GB SSD |
 | Video Card | MSI GTX 1080 Ti GAMING X 11G |
 | Case | Corsair Graphite Series Black 230T |
-| Power Supply | CORSAIR RM850 850 W ATX 80 PLUS GOLD Modular PSU |
+| Power Supply | EVGA SuperNOVA 850 80+ GOLD 850W PSU |
 | Operating System | Microsoft Windows 10 Professional (x64) Build 19045.7548 (22H2) |
 | Primary Display | Lenovo Y27f 1920 x 1080 144Hz |
 | Display 2 | Acer G215H 1920 x 1080 60Hz |
@@ -104,11 +104,11 @@ tags: ["hardware"]
 | Video Card | EVGA GTX 1070 Ti FTW Ultra Silent Gaming ACX 3.0 (08G-P4-6678) 8GB |
 | Case | Corsair Graphite Series Black 230T |
 | Power Supply | CORSAIR RM850 850 W ATX 80 PLUS GOLD Modular PSU |
-| Operating System | Microsoft Windows 10 Professional (x64) Build 19045.7548 (22H2) |
-| Primary Display | Lenovo Y27f 1920 x 1080 144Hz |
-| Display 2 | Acer G215H 1920 x 1080 60Hz |
-| Optical Drive | ASUS DRW-24F1ST c |
-| Keyboard | Hexgears X5 Dark Knight Wireless Kaihl Box Red Switch |
+| Operating System | Microsoft Windows 10 Professional (x64) Build 19045.6466 (22H2) |
+| Primary Display | Acer P243W 1920 x 1200 60Hz |
+| Display 2 | DELL P2314H 1920 x 1080 60Hz |
+| Optical Drive | LG HL-DT-ST DVDRAM GH24NS90 |
+| Keyboard | Corsair K70R Cherry MX Red |
 | Mouse | HyperX Pulsefire FPS Pro |
 | Headset | Creative Fatal1ty |
 
