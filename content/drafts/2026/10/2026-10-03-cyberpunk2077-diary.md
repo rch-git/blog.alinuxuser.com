@@ -188,3 +188,9 @@ Going to play some more. Will contemplate whether or not I should go to the offi
 `Monday, October 19, 2026, 5:55 PM CDT`
 
 Did a couple of main quests and also took care of some Cyber Psychos. I am going to close for today. I am not looking forward to tomorrow. I am exhausted with work. Not an ideal thing when I am 43. I still have a long way to go. Time to recharge my batteries and get mentally ready for work. 
+
+#### Saturday, October 24, 2026, 8:48 AM CDT
+
+Figured out a way to enable remote desktop on my linux mint VM. This way when I am playing on ivybridge, I can still update the diary without a local VM running. I can use one VM for all game diary purposes. 
+
+That said, time for Cyberpunk. 
