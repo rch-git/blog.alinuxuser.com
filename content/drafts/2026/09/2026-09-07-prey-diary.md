@@ -25,3 +25,7 @@ Going to continue. Had to stop to write a post on X about the fantastic opening.
 `Monday, September 7, 2026, 3:00 PM CDT`
 
 I think I am going to take a break from this game for the day. Might play more soon. 
+
+#### Saturday, October 24, 2026, 9:40 AM CDT
+
+I cannot play Cyberpunk 2077 v2.5 because Welcome to Night City mod pack does not work. I should play this game for a while. Or maybe even play it to completion. 

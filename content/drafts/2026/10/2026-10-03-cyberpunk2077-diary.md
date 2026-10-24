@@ -196,3 +196,11 @@ Figured out a way to enable remote desktop on my linux mint VM. This way when I 
 That said, time for Cyberpunk. 
 
 Well in the year of our lord 2026, there is an update for Cyberpunk with new content. This is what supporting a game looks like. CDPR are really the good guys of gaming right now. I am updating the game. Need to read the release notes to see what's included. I am also wondering if this is going to break the mods...
+
+`Saturday, October 24, 2026, 9:17 AM CDT`
+
+Update is done, but have to update nvidia drivers. Got to go to v621.01
+
+`Saturday, October 24, 2026, 9:39 AM CDT`
+
+Welcome to Night City does not work with Cyberpunk 2077 v2.5. I can't play this game right now. I have to wait for the updates to come out. Should I play Battlefield 6? Prey? Got to think about this one. 
