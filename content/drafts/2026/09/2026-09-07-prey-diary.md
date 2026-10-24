@@ -29,3 +29,5 @@ I think I am going to take a break from this game for the day. Might play more s
 #### Saturday, October 24, 2026, 9:40 AM CDT
 
 I cannot play Cyberpunk 2077 v2.5 because Welcome to Night City mod pack does not work. I should play this game for a while. Or maybe even play it to completion. 
+
+I can't start the game right now because I have family coming over for the weekend. I am going to get back into Prey until Welcome to Night City is fully patched. 
