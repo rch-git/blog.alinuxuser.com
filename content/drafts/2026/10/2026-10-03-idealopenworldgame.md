@@ -30,7 +30,11 @@ It will be like Red Dead Redemption 2. It will be based in reality to the extent
 
 #### Music
 
+Music should be inspired by Assassins Creed Black Flag and Witcher 3. I did like the sound design of Red Dead Redemption 2, but the music in the game is not very memorable. 
+
 #### UI/UX
+
+Red Dead Redemption 2 should serve as an example of what not to do. 
 
 #### Platform
 
