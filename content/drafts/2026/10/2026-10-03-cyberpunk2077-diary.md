@@ -194,3 +194,5 @@ Did a couple of main quests and also took care of some Cyber Psychos. I am going
 Figured out a way to enable remote desktop on my linux mint VM. This way when I am playing on ivybridge, I can still update the diary without a local VM running. I can use one VM for all game diary purposes. 
 
 That said, time for Cyberpunk. 
+
+Well in the year of our lord 2026, there is an update for Cyberpunk with new content. This is what supporting a game looks like. CDPR are really the good guys of gaming right now. I am updating the game. Need to read the release notes to see what's included. I am also wondering if this is going to break the mods...
