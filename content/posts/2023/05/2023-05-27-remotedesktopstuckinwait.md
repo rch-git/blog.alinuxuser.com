@@ -11,8 +11,8 @@ This process will involve creatating an .rdp file, and editing it in notepad and
 - Get the ipaddress of the machine that is stuck in the Please Wait state.
 ```
 ping [server] -4
--4 flag ensures that IPv4 address is used.
 ```
+*-4 flag ensures that IPv4 address is used.*
 
 {{<
     figure
