@@ -38,4 +38,6 @@ Red Dead Redemption 2 should serve as an example of what not to do.
 
 #### Platform
 
+This will be a PC game first and foremost. The intention is not to dunk on consoles, but to fully unleash the potential, which is objectively not possible on a console. The game should be able to run at 60FPS, 1080p low medium settings on the 1080Ti - the absolute champion of GPUs. 
+
 #### Conclusion
