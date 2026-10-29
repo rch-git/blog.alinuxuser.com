@@ -9,7 +9,7 @@ The ideal open world game is a combination of mechanics and idea from different 
 
 #### Philosophy
 
-The objective is not to make anyone feel bad, but it is a quest to create an entertaining game that captivates the player with beauty, and to that end, if someone were to feel bad, or not representated, so be it. It is not the responsibility of the creators to assuage the feelings of everyone. If the game is offensive, do not play it. It will exist regardless of anyone's feelings.
+The objective is not to make anyone feel bad, but it is a quest to create an entertaining game that captivates the player with beauty, and to that end, if someone were to feel bad, or not represented, so be it. It is not the responsibility of the creators to assuage the feelings of everyone. If the game is offensive, do not play it. It will exist regardless of anyone's feelings.
 
 The focus should not be on the race relations or anything like that. That is boring. In fact, racial representation should not even be a consideration. Characters should be mostly white, with parts of the country with different looking characters. The human characters should be beautiful - there will no self inserts of ugly characters to make someone feel better about themselves.
 
