@@ -31,13 +31,22 @@ The focus should not be on the race relations or anything like that. That is bor
 
 It will be like RDR2. It will be based in reality to the extent that it is fun. When there is a conflict between reality and fun, fun should be given more weight. Boring mechanics should not be introduced just for the sake of realism. 
 
-The gameplay will be very similar to RDR2. World takes center stage, but it is experienced from the lens of the main character. 
+The gameplay will be very similar to RDR2. World takes center stage, but it is experienced from the lens of the main character. Hunting should play an important part of the game. There should be gambling mini games for those that like it, but they should be completely optional. 
 
-Here are the high level details of the gameplay  
+Shooting should be closer to a sim, and firing a weapon should feel heavy. This means the sound should be excellent and pack a punch. 
+
+#### Story
+
+I can't think of anything interesting to write in terms of story. If it can ben as good as RDR2, that's good enough for me. I have some thoughts about the character though. 
 
 - The main character will be good guy. There will be no shades of gray. He will represent all that is good and true.
 - He will not be a part of law enforcement in an official capacity.
-- 
+- Can trace his American lineage to the original 13 colonies
+- Story will involve him traveling west and taming the land, and will help build America in a small way. 
+- He will have to fight outlaws, gangs etc.
+- There will be no girl boss characters. Not to be confused with strong, well written female characters. What I do not want is a tired trope of a woman who is out to prove herself in a man's world, and all she does is act like a man, and belittle other men. This is boring, and we will have none of this. 
+- No race relation commentary. Its boring. 
+- Ending should be epic. I liked the RDR2 ending, thought it was great, but I want the ending of this game to be epic where the good guy wins. 
 
 #### Music
 
