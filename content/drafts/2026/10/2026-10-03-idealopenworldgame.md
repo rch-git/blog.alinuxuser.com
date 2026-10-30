@@ -5,11 +5,13 @@ draft: false
 tags: ["games"]
 ---
 
-The ideal open world game is a combination of mechanics and idea from different different games I played over the years. This would be the magnum opus of open world games - a 10/10 game, in my opinion. 
+The ideal open world game is a combination of mechanics and ideas from different different games I played over the years.
+
+This article is completely human written, and I did not use any AI. The only help I got is from Kate (editor for Linux). I am not going to run this through AI on purpose because I want it to be completely mine.
 
 #### Philosophy
 
-The objective is to create an entertaining game that delivers a beautiful world for the player to get lost in. It should be better than Red Dead Redemption 2 (RDR2) and The Witcher 3 (TW3) in terms of beauty and interactivity. 
+The objective is to create a super entertaining game that delivers a beautiful world for the player to get lost in. It should be better than Red Dead Redemption 2 (RDR2) and The Witcher 3 (TW3) in terms of beauty and interactivity. 
 
 The game should not be used as a vessel to deliver an agenda driven message about current day politics. We do not need yet another game to deliver "the message". The main philosophy should to be focus on entertaining the player, and everything else is secondary. If something does not serve the primary purpose, then it must be discarded. Only ideas and mechanics that serve the purpose should be considered, all else has to left on the cutting room floor. 
 
@@ -27,7 +29,11 @@ The focus should not be on the race relations or anything like that. That is bor
 
 #### Gameplay
 
-It will be like RDR2. It will be based in reality to the extent that it is fun. When there is a conflict between reality and fun, fun should be given more weight. Boring mechanics should not be introduced just for the sake of realism. Here are the high level details of the gameplay - 
+It will be like RDR2. It will be based in reality to the extent that it is fun. When there is a conflict between reality and fun, fun should be given more weight. Boring mechanics should not be introduced just for the sake of realism. 
+
+The gameplay will be very similar to RDR2. World takes center stage, but it is experienced from the lens of the main character. 
+
+Here are the high level details of the gameplay  
 
 - The main character will be good guy. There will be no shades of gray. He will represent all that is good and true.
 - He will not be a part of law enforcement in an official capacity.

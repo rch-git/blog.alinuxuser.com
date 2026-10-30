@@ -204,3 +204,11 @@ Update is done, but have to update nvidia drivers. Got to go to v621.01
 `Saturday, October 24, 2026, 9:39 AM CDT`
 
 Welcome to Night City does not work with Cyberpunk 2077 v2.5. I can't play this game right now. I have to wait for the updates to come out. Should I play Battlefield 6? Prey? Got to think about this one. 
+
+#### Thursday, October 29, 2026, 10:48 AM CDT
+
+There was an update released for Welcome To Night City mod pack. Had to manually update about ~200 mods. Painful, but got it, and now the game is working. Got to see what all was added in the new update. I believe there is a new quest. Enjoying the game a lot. Taking a break to edit videos. 
+
+#### Friday, October 30, 2026, 12:51 PM CDT
+
+Wasted the morning doing nothing fun or productive. There is nothing productive for me to do right now anyway, so I might as well have fun and play. 
