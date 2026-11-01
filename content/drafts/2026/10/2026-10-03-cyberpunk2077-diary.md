@@ -216,3 +216,9 @@ Wasted the morning doing nothing fun or productive. There is nothing productive 
 `Friday, October 30, 2026, 3:13 PM CDT`
 
 Taking a short break. Might have to go shopping. I will work on my open world game article. 
+
+#### Sunday, November 1, 2026, 9:21 AM CST
+
+Didn't play at all yesterday. I spent time playing Battlefield 6, and waiting for neighborhood kids to play trick or treat. Almost no one showed up. The weather was gloomy too. Watched AVGN Castlevania videos to wind down the day. 
+
+Going to play some today, but also have a lot of errands to run and meal prep. I will try to play more in the evening. This will be a short session. 
