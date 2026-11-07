@@ -238,3 +238,15 @@ Played a couple of rounds of Battlefield 6. Playing Cyberpunk 2077 now.
 `Sunday, November 1, 2026, 6:08 PM CST`
 
 Done for today. Going to play more next weekend. 
+
+#### Saturday, November 7, 2026, 10:26 AM CST
+
+Saturday. Going to make some coffee and get back into the game. Its been a few days. Crazy busy with work. I work for a Japanese company now.
+
+I am planning on buying some peripherals to setup the retro gaming/streaming computer. 
+
+But for now, Cyberpunk!
+
+`Saturday, November 7, 2026, 3:40 PM CST`
+
+Played a lot. Going to take a break and workout, eat etc. 
