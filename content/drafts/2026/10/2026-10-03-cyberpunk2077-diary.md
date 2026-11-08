@@ -273,3 +273,18 @@ Sasquatch fight in the mall is difficult. I don't remember it being this tough. 
 
 Goofed around for almost 3 hours. Unproductive. On the phone right now. Once I am done with the phone call, play more. Want to finish the fight. 
 
+`Sunday, November 8, 2026, 12:12 PM CST`
+
+Done with the phone call. Onw1ards!
+
+`Sunday, November 8, 2026, 1:30 PM CST`
+
+Finished the fight. Had to reduce the difficulty. The problem is the game locks you in an animation, and its game over. Its ruthless. 
+
+`Sunday, November 8, 2026, 2:33 PM CST`
+
+Will play for a bit. Workout and eat after that. 
+
+`Sunday, November 8, 2026, 4:51 PM CST`
+
+Calling it a night for gaming. Will play some more in the morning tomorrow. Will eat and then wind down for the day. I got some really annoying things I need to take care of this week. 
