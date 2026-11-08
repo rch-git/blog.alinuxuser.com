@@ -260,3 +260,11 @@ Not a big fan of Welcome to Paradise quest. Its very meandering. Dialogue is pea
 `Saturday, November 7, 2026, 9:44 PM CST`
 
 I sometimes forget that the reason I am replaying the game is to eventually play Phantom Liberty. I will get to the final quest of the main game, then finish Phantom Liberty and then finish the main quest one more time. I am not sure if I should put Cyberpunk again on the completed games list. 
+
+`Saturday, November 7, 2026, 11:03 PM CST`
+
+Going to play for a little bit and call it a day. Its late. 
+
+#### Sunday, November 8, 2026, 12:19 AM CST
+
+Sasquatch fight in the mall is difficult. I don't remember it being this tough. Died 4 times. Going to log off now. 
