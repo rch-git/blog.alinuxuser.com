@@ -250,3 +250,13 @@ But for now, Cyberpunk!
 `Saturday, November 7, 2026, 3:40 PM CST`
 
 Played a lot. Going to take a break and workout, eat etc. 
+
+`Saturday, November 7, 2026, 7:16 PM CST`
+
+Done with workout, dinner etc. Time to get back into the game. Its very cold outside, I am glad to be indoors. Got a cup full of Sam's Cola. Time to dive back into Cyberpunk. 
+
+Not a big fan of Welcome to Paradise quest. Its very meandering. Dialogue is peak reddit. 
+
+`Saturday, November 7, 2026, 9:44 PM CST`
+
+I sometimes forget that the reason I am replaying the game is to eventually play Phantom Liberty. I will get to the final quest of the main game, then finish Phantom Liberty and then finish the main quest one more time. I am not sure if I should put Cyberpunk again on the completed games list. 
