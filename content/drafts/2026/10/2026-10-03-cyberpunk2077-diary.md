@@ -33,7 +33,7 @@ Did the worst thing possible on a lazy Sunday - took a 2-hour nap. Bad idea. Goi
 
 `Sunday, October 4, 2026, 5:11 PM CDT`
 
-Got to the part where I finished the Sandra Dorset mission. Need to allocate attribute and perk points. I want to specialize in ARs and pistols, but I also want to be able to do quickhacks. I am not sure what path to take. I have 1 of each available. Got to look into it.
+Got to the part where I finished the Sandra Dorsett mission. Need to allocate attribute and perk points. I want to specialize in ARs and pistols, but I also want to be able to do quickhacks. I am not sure what path to take. I have 1 of each available. Got to look into it.
 
 Calling it a day now for gaming. Will work out, eat something, and then watch TV to wind down for tomorrow. Sunday evenings are depressing.
 
@@ -107,13 +107,13 @@ V just woke up in his apartment and Johnny Silverhand wants him to get some ciga
 
 #### Friday, October 16, 2026, 10:17 PM CDT
 
-Went grocery shopping today. Got some pizza. Played some more. Got the point where I have to get into Clouds club. Still don't have a bike. There is some pacing issue with this game. Wish I could get a move on to the fun stuff. Right now, its just going to places and talking to people. 
+Went grocery shopping today. Got some pizza. Played some more. Got to the point where I have to get into Clouds club. Still don't have a bike. There is some pacing issue with this game. Wish I could get a move on to the fun stuff. Right now, it's just going to places and talking to people. 
 
-I am calling it a night for now. Will play more tomorrow. Intend to get up early and play more. I just need for the game to get going. Its a little slow right now. 
+I am calling it a night for now. Will play more tomorrow. Intend to get up early and play more. I just need the game to get going. It's a little slow right now. 
 
 #### Saturday, October 17, 2026, 8:33 AM CDT
 
-More Cyberpunk. I will try to make a lot of progress today. I think I am going to dedicate tomorrow playing the two new Battlefield 6 maps. I will dedicate today to Cyberpunk.
+More Cyberpunk. I will try to make a lot of progress today. I think I am going to dedicate tomorrow to playing the two new Battlefield 6 maps. I will dedicate today to Cyberpunk.
 
 `Saturday, October 17, 2026, 9:49 AM CDT`
 
@@ -137,13 +137,13 @@ Taking a break. I think I am going to cook something.
 
 I finished the Judy quest. Now, I am doing some side quests. Just got the quest from Delamain to retrieve the cars. 
 
-I am glad I decided to replay this game on my 5080. It looks amazing. Its quite simply one of the best games I ever played. Between this and Red Dead Redemption 2...I can't decide which one I like more. I am kind of leaning towards this because I enjoy the RPG system. RDR2 is not much of an RPG game, and I am glad that it isn't. Even though they tried to incorporate a skill system into RDR2, I am glad they stopped at that.
+I am glad I decided to replay this game on my 5080. It looks amazing. It's quite simply one of the best games I ever played. Between this and Red Dead Redemption 2...I can't decide which one I like more. I am kind of leaning towards this because I enjoy the RPG system. RDR2 is not much of an RPG game, and I am glad that it isn't. Even though they tried to incorporate a skill system into RDR2, I am glad they stopped at that.
 
 With RDR2, the world is the true hero. With Cyberpunk, I think the world isn't quite as good, but the graphics and gameplay are a lot better. The reason I say the world isn't as good is because even in 2026, there are still bugs with crowd behavior. I imagine it is very difficult to make every NPC act natural. Can't be easy. 
 
 `Saturday, October 17, 2026, 4:18 PM CDT`
 
-I decided not to cook. I am going to eat leftovers. I will cook tomorrow. I am going to play more now. I will not be able to play next week because I will have family visiting me, and I earmarked tomorrow for Battlefield 6. The strange thing is, I am not excited about Battlefield like I used to be. I still want to play the Vegas maps, but...I am basically doing it for some footage. The only in Battlefield moments like in BF4...its just not a thing anymore. 
+I decided not to cook. I am going to eat leftovers. I will cook tomorrow. I am going to play more now. I will not be able to play next week because I will have family visiting me, and I earmarked tomorrow for Battlefield 6. The strange thing is, I am not excited about Battlefield like I used to be. I still want to play the Vegas maps, but...I am basically doing it for some footage. The only in Battlefield moments like in BF4...it's just not a thing anymore. 
 
 Onwards with Cyberpunk. 
 
@@ -187,7 +187,7 @@ Going to play some more. Will contemplate whether or not I should go to the offi
 
 `Monday, October 19, 2026, 5:55 PM CDT`
 
-Did a couple of main quests and also took care of some Cyber Psychos. I am going to close for today. I am not looking forward to tomorrow. I am exhausted with work. Not an ideal thing when I am 43. I still have a long way to go. Time to recharge my batteries and get mentally ready for work. 
+Did a couple of main quests and also took care of some Cyberpsychos. I am going to close for today. I am not looking forward to tomorrow. I am exhausted with work. Not an ideal thing when I am 43. I still have a long way to go. Time to recharge my batteries and get mentally ready for work. 
 
 #### Saturday, October 24, 2026, 8:48 AM CDT
 
@@ -241,21 +241,21 @@ Done for today. Going to play more next weekend.
 
 #### Saturday, November 7, 2026, 10:26 AM CST
 
-Saturday. Going to make some coffee and get back into the game. Its been a few days. Crazy busy with work. I work for a Japanese company now.
+Saturday. Going to make some coffee and get back into the game. It's been a few days. Crazy busy with work. I work for a Japanese company now.
 
-I am planning on buying some peripherals to setup the retro gaming/streaming computer. 
+I am planning on buying some peripherals to set up the retro gaming/streaming computer. 
 
 But for now, Cyberpunk!
 
 `Saturday, November 7, 2026, 3:40 PM CST`
 
-Played a lot. Going to take a break and workout, eat etc. 
+Played a lot. Going to take a break and work out, eat etc. 
 
 `Saturday, November 7, 2026, 7:16 PM CST`
 
-Done with workout, dinner etc. Time to get back into the game. Its very cold outside, I am glad to be indoors. Got a cup full of Sam's Cola. Time to dive back into Cyberpunk. 
+Done with workout, dinner etc. Time to get back into the game. It's very cold outside, I am glad to be indoors. Got a cup full of Sam's Cola. Time to dive back into Cyberpunk. 
 
-Not a big fan of Welcome to Paradise quest. Its very meandering. Dialogue is peak reddit. 
+Not a big fan of Welcome to Paradise quest. It's very meandering. Dialogue is peak reddit. 
 
 `Saturday, November 7, 2026, 9:44 PM CST`
 
@@ -263,7 +263,7 @@ I sometimes forget that the reason I am replaying the game is to eventually play
 
 `Saturday, November 7, 2026, 11:03 PM CST`
 
-Going to play for a little bit and call it a day. Its late. 
+Going to play for a little bit and call it a day. It's late. 
 
 #### Sunday, November 8, 2026, 12:19 AM CST
 
@@ -279,11 +279,11 @@ Done with the phone call. Onwards!
 
 `Sunday, November 8, 2026, 1:30 PM CST`
 
-Finished the fight. Had to reduce the difficulty. The problem is the game locks you in an animation, and its game over. Its ruthless. 
+Finished the fight. Had to reduce the difficulty. The problem is the game locks you in an animation, and it's game over. It's ruthless. 
 
 `Sunday, November 8, 2026, 2:33 PM CST`
 
-Will play for a bit. Workout and eat after that. 
+Will play for a bit. Work out and eat after that. 
 
 `Sunday, November 8, 2026, 4:51 PM CST`
 
