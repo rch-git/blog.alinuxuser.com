@@ -298,3 +298,23 @@ Time to get back into Cyberpunk for a while.
 `Friday, November 13, 2026, 7:03 PM CST`
 
 Spent all this time trying to farm Tier 5 components to upgrade the D5 Copperhead rifle. Taking a break for now. Might make pizza...
+
+#### Saturday, November 14, 2026, 8:10 AM CST
+
+I did eat pizza. Time for more Cyberpunk. Going to play main quests. 
+
+`Saturday, November 14, 2026, 9:01 AM CST`
+
+Playing the main quest. Skipping most of the dialogue. I forgot how bad the dialogue was. I never liked it. The voice acting is fine, its the actual dialogue - very boring. 
+
+`Saturday, November 14, 2026, 11:59 AM CST`
+
+Got the Scorpion bike. Forgot that it is not possible to buy this. Its very good. Going to use this for the rest of the game. Taking a break. Going to do some chores and get back to gaming. 
+
+`Saturday, November 14, 2026, 12:30 PM CST`
+
+Going to play for 30 minutes and then go do the chores. 
+
+`Saturday, November 14, 2026, 12:46 PM CST`
+
+Now I am done. I am going to stop for now and play more in a bit. 
