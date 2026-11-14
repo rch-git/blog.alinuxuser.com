@@ -288,3 +288,13 @@ Will play for a bit. Work out and eat after that.
 `Sunday, November 8, 2026, 4:51 PM CST`
 
 Calling it a night for gaming. Will play some more in the morning tomorrow. Will eat and then wind down for the day. I got some really annoying things I need to take care of this week. 
+
+#### Friday, November 13, 2026, 4:56 PM CST
+
+Done with work and shower. Got no further plans for the rest of the evening. Going to start playing with `GLORIOUS Model O Eternal Ultralight Mouse - Wired - 55g`. Its more of a claw grip mouse, but I think I will like it. I cannot go back to playing with heavier mice once I am used to this. 
+
+Time to get back into Cyberpunk for a while. 
+
+`Friday, November 13, 2026, 7:03 PM CST`
+
+Spent all this time trying to farm Tier 5 components to upgrade the D5 Copperhead rifle. Taking a break for now. Might make pizza...
