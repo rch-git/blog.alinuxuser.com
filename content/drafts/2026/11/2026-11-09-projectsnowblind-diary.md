@@ -36,4 +36,9 @@ I am going to play for a little bit and get past the section. I quit pretty abru
 
 `Saturday, November 14, 2026, 9:58 PM CST`
 
-I am not sure how the save system in this game works. I am too tired to figure this out. I am going to wake up early in the morning and play more. 
+I am not sure how the save system in this game works. I am too tired to figure this out. I am going to wake up early in the morning and play more.
+
+#### Sunday, November 15, 2026, 6:39 AM CST
+
+Going to start playing in a little bit. The game has some unusual mechanics. I don't think I heard about this game when it was released. It has a Mostly Positive rating on Steam. I think I am going to review this game.
+
