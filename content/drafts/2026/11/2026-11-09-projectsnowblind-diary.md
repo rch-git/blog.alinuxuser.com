@@ -25,3 +25,11 @@ Well streaming didn't work as I had hoped. This machine is in the work outroom a
 I was trying to figure out what the issue was, and I just did another speed test now, and I am getting 164.76Mbps down, and 245.37 up. I can't explain it. I did do a restart of the machine...
 
 I am going to try streaming again. 
+
+`Saturday, November 14, 2026, 9:13 PM CST`
+
+Streaming worked perfectly. The game itself is very much like a 2000s shooter. So far nothing remarkable. I am still going to play it. I will probably finish it tomorrow. 
+
+`Saturday, November 14, 2026, 9:49 PM CST`
+
+I am going to play for a little bit and get past the section. I quit pretty abruptly earlier, so I am going to finish that section and all it a night. 
