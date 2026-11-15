@@ -49,3 +49,15 @@ Does not support widescreen resolutions. Got to play it at 4:3 resolution.
 `Sunday, November 15, 2026, 7:50 AM CST`
 
 Got to the next checkpoint. The game prompts to me to save each time. Why not just save the game automatically? I don't get the rationale behind this. 
+
+`Sunday, November 15, 2026, 9:18 AM CST`
+
+Got some more coffee. Time to get stuck into this. 
+
+`Sunday, November 15, 2026, 11:58 AM CST`
+
+Had to do some chores. Planning a trip to Chicago. Done with that for now. Going to get back to into the game. 
+
+`Sunday, November 15, 2026, 12:34 PM CST`
+
+Taking a short break.
