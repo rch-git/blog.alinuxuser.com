@@ -33,3 +33,7 @@ Streaming worked perfectly. The game itself is very much like a 2000s shooter. S
 `Saturday, November 14, 2026, 9:49 PM CST`
 
 I am going to play for a little bit and get past the section. I quit pretty abruptly earlier, so I am going to finish that section and all it a night. 
+
+`Saturday, November 14, 2026, 9:58 PM CST`
+
+I am not sure how the save system in this game works. I am too tired to figure this out. I am going to wake up early in the morning and play more. 
