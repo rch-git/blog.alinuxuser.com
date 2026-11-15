@@ -42,3 +42,10 @@ I am not sure how the save system in this game works. I am too tired to figure t
 
 Going to start playing in a little bit. The game has some unusual mechanics. I don't think I heard about this game when it was released. It has a Mostly Positive rating on Steam. I think I am going to review this game.
 
+Alt tab is completely broken. It will crash the game. 
+
+Does not support widescreen resolutions. Got to play it at 4:3 resolution.
+
+`Sunday, November 15, 2026, 7:50 AM CST`
+
+Got to the next checkpoint. The game prompts to me to save each time. Why not just save the game automatically? I don't get the rationale behind this. 
