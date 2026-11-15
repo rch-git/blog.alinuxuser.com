@@ -8,3 +8,20 @@ tags: ["game review"]
 #### Monday, November 9, 2026, 6:07 AM CST
 
 Installing Project Snowblind (via Steam) on IVYBRIDGE. Might stream this game if my friend joins me online. This will be my weekday game. 
+
+
+#### Saturday, November 14, 2026, 4:16 PM CST
+
+About to start playing and streaming this game on IVYBRIDGE. Let's see if this 10+ year old machine can handle this game. 
+
+`Saturday, November 14, 2026, 4:44 PM CST`
+
+Took a little effort to get it all to work. 
+
+`Saturday, November 14, 2026, 8:18 PM CST`
+
+Well streaming didn't work as I had hoped. This machine is in the work outroom and I am using a TP-Link AC600 USB Wifi adapter, and earlier in the evening I was getting about 1460Mbps down and 4Mbps down. Streaming was terrible with 70% frames dropping. 
+
+I was trying to figure out what the issue was, and I just did another speed test now, and I am getting 164.76Mbps down, and 245.37 up. I can't explain it. I did do a restart of the machine...
+
+I am going to try streaming again. 
