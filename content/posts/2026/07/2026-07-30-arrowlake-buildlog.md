@@ -180,7 +180,7 @@ First there was crypto, and now there is AI. The last 8 years have been horrible
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/buildlog/06-buildlog.jpg"
 >}}
 
-I built my previous machine in 2022. I purchased the parts between January 6, 2022 and February 9, 2022. I spent a total of $3,555.69. If we are to consider February 9, 2022 as the day 1 for the previous build, and August 8, 2026 as day 1 for the current build, that's 1642 days (including both days) I used my previous build as my primary machine. Therefore with the current prices, you will have to diligently put away $2.42 each day to be able to afford this build.
+I built my previous machine in 2022. I purchased the parts between January 6, 2022 and February 9, 2022. I spent a total of $3,555.69. If we are to consider February 9, 2022 as the day 1 for the previous build, and August 8, 2026 as day 1 for the current build, that's 1642 days (including both days) I used my previous build as my primary machine. Therefore with the current prices, you will have to diligently put away `$2.42` each day to be able to afford this build.
 
 There seems to not be an end in sight for this drought. My current plan is to continue using this machine until 2032. 
 
