@@ -61,3 +61,11 @@ Had to do some chores. Planning a trip to Chicago. Done with that for now. Going
 `Sunday, November 15, 2026, 12:34 PM CST`
 
 Taking a short break.
+
+#### Saturday, November 21, 2026, 4:08 PM CST
+
+It was a much longer break than I anticipated. I don't know where the week went. I played a little bit of Cyberpunk earlier this morning. I finished editing the videos I recorded on IVYBRDIGE, did house work, and now I am going to play more Project Snowblind.
+
+`Saturday, November 21, 2026, 4:39 PM CST`
+
+Game crashed. I dont know if I want to continue playing this anymore today. I will have to go all the way back to the checkpoint. I am going to cook and play Phantom Liberty later in the evening. 
