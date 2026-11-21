@@ -318,3 +318,10 @@ Going to play for 30 minutes and then go do the chores.
 `Saturday, November 14, 2026, 12:46 PM CST`
 
 Now I am done. I am going to stop for now and play more in a bit. 
+
+#### Friday, November 20, 2026, 7:25 PM CST
+
+Played for a little bit. Forgot to start logging. I think I am going to start playing Phantom Liberty soon after this quest. I am at a high enough level where I think I can play the DLC. I am also going to look at the extra quest that was recently added by CDPR. 
+
+
+
