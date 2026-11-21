@@ -334,3 +334,11 @@ Taking a phone call break.
 `Friday, November 20, 2026, 9:19 PM CST`
 
 I am glad I got to talk with family. Time to finish the quest. 
+
+#### Saturday, November 21, 2026, 8:27 AM CST
+
+Made a TO DO list of all the things I want to accomplish today. One of the line items is to play Phantom Liberty, so lets do that. 
+
+`Saturday, November 21, 2026, 10:33 AM CST`
+
+Did a lot of side content - not quests, just went component hunting. I did start Phantom Liberty though. I am in the starting area. Going to take a little break. Do some work around the house, maybe also workout. I will get back into the game later this afternoon. I want to finish all the items on my list, and then spend the evening playing. 
