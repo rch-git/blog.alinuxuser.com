@@ -323,5 +323,14 @@ Now I am done. I am going to stop for now and play more in a bit.
 
 Played for a little bit. Forgot to start logging. I think I am going to start playing Phantom Liberty soon after this quest. I am at a high enough level where I think I can play the DLC. I am also going to look at the extra quest that was recently added by CDPR. 
 
+`Friday, November 20, 2026, 7:37 PM CST`
 
+Going to finish the parade quest. There is a boss fight, lets see if this is going to be frustrating like the other one. 
 
+`Friday, November 20, 2026, 8:04 PM CST`
+
+Taking a phone call break. 
+
+`Friday, November 20, 2026, 9:19 PM CST`
+
+I am glad I got to talk with family. Time to finish the quest. 
