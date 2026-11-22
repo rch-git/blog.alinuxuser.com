@@ -87,3 +87,13 @@ I got past that point. I am going chill for a bit and workout. Once I am done wi
 I know I said I wasn't going to play mediocre games because life is too short. I am starting to wonder if I should apply that principle to this game. Its a decent enough game, but there are greater games out there that I could be playing. 
 
 That said, I will play till the next checkpoint now. 
+
+`Saturday, November 21, 2026, 9:05 PM CST`
+
+Finished one of the main checkpoints. I am wondering if I should play this game any longer. I feel like I have seen everything I wanted to see with the game. I got my 99c worth out of it. I will think about it. If do not end playing it more tomorrow, I will retire this, and move on to Bastion on IVYBRIDGE. 
+
+I still need to think of what game to install on SKYLAKE. 
+
+On second thoughts, I might play Tomb Raider Underworld. There are two mainline Tomb Raider games left for me to play - Underworld and Angel of Darkness. I will play Underworld next, but I dont know if I will ever play Angel of Darkness. 
+
+More to come tomorrow. 
