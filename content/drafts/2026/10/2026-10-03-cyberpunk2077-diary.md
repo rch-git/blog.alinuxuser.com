@@ -19,7 +19,7 @@ Here we go. I am going to play this game without any distractions. No YouTube vi
 
 `Sunday, October 4, 2026, 9:50 AM CDT`
 
-Started the game as a Nomad again. I feel like that path suits my beliefs. I am playing an RPG. Might as well role play.
+Started the game as a Nomad again. I feel like that path suits my beliefs. I am playing an RPG. Might as well role-play.
 
 `Sunday, October 4, 2026, 10:08 AM CDT`
 
@@ -73,11 +73,11 @@ Time to get back in. Canceled my subscription to Nexus Mods. I have to back up t
 
 `Sunday, October 11, 2026, 9:16 AM CDT`
 
-Braindance sequences are not my favorite. It's a cool idea, but it really breaks the pacing for me. The plan is to play a lot today and spend some time working and writing in the evening. I will call it a day at around 5 PM. I am also going to set up my final retro machine setup once the stuff from Amazon gets delivered. I am going to set up the Skylake and Ivybridge machines.
+Braindance sequences are not my favorite. It's a cool idea, but it really breaks the pacing for me. The plan is to play a lot today and spend some time working and writing in the evening. I will call it a day at around 5 PM. I am also going to set up my final retro machine setup once the stuff from Amazon gets delivered. I am going to set up the Skylake and Ivy Bridge machines.
 
 When am I ever going to play all the games though? I just don't have the time or the energy for it. I am not getting younger.
 
-I don't have answers to those questions, but for now, I will focus on finishing Cyberpunk for the second time as quickly as possible and do some marathon gaming sessions like I did for Borderlands 2.
+I don't have answers to those questions, but for now, I will focus on finishing Cyberpunk for the second time as quickly as possible and doing some marathon gaming sessions like I did for Borderlands 2.
 
 `Sunday, October 11, 2026, 10:10 AM CDT`
 
@@ -107,7 +107,7 @@ V just woke up in his apartment and Johnny Silverhand wants him to get some ciga
 
 #### Friday, October 16, 2026, 10:17 PM CDT
 
-Went grocery shopping today. Got some pizza. Played some more. Got to the point where I have to get into Clouds club. Still don't have a bike. There is some pacing issue with this game. Wish I could get a move on to the fun stuff. Right now, it's just going to places and talking to people. 
+Went grocery shopping today. Got some pizza. Played some more. Got to the point where I have to get into Clouds club. Still don't have a bike. There is a pacing issue with this game. Wish I could get a move on to the fun stuff. Right now, it's just going to places and talking to people. 
 
 I am calling it a night for now. Will play more tomorrow. Intend to get up early and play more. I just need the game to get going. It's a little slow right now. 
 
@@ -125,11 +125,11 @@ Time to get back into the game.
 
 `Saturday, October 17, 2026, 12:14 PM CDT`
 
-Finished the quest to find Evelyn Parker. Judy so far is boring. I do not want to do quests with her, but these are main quests, so no way to skip. Taking a little break. 
+Finished the quest to find Evelyn Parker. Judy is boring so far. I do not want to do quests with her, but these are main quests, so no way to skip. Taking a little break. 
 
 `Saturday, October 17, 2026, 1:42 PM CDT`
 
-Going to finish that quest and hopefully won't have to deal with Judy for a while. 
+Going to finish that quest, and hopefully I won't have to deal with Judy for a while. 
 
 `Saturday, October 17, 2026, 3:05 PM CDT`
 
@@ -137,19 +137,19 @@ Taking a break. I think I am going to cook something.
 
 I finished the Judy quest. Now, I am doing some side quests. Just got the quest from Delamain to retrieve the cars. 
 
-I am glad I decided to replay this game on my 5080. It looks amazing. It's quite simply one of the best games I ever played. Between this and Red Dead Redemption 2...I can't decide which one I like more. I am kind of leaning towards this because I enjoy the RPG system. RDR2 is not much of an RPG game, and I am glad that it isn't. Even though they tried to incorporate a skill system into RDR2, I am glad they stopped at that.
+I am glad I decided to replay this game on my 5080. It looks amazing. It's quite simply one of the best games I've ever played. Between this and Red Dead Redemption 2... I can't decide which one I like more. I am kind of leaning towards this because I enjoy the RPG system. RDR2 is not much of an RPG game, and I am glad that it isn't. Even though they tried to incorporate a skill system into RDR2, I am glad they stopped at that.
 
 With RDR2, the world is the true hero. With Cyberpunk, I think the world isn't quite as good, but the graphics and gameplay are a lot better. The reason I say the world isn't as good is because even in 2026, there are still bugs with crowd behavior. I imagine it is very difficult to make every NPC act natural. Can't be easy. 
 
 `Saturday, October 17, 2026, 4:18 PM CDT`
 
-I decided not to cook. I am going to eat leftovers. I will cook tomorrow. I am going to play more now. I will not be able to play next week because I will have family visiting me, and I earmarked tomorrow for Battlefield 6. The strange thing is, I am not excited about Battlefield like I used to be. I still want to play the Vegas maps, but...I am basically doing it for some footage. The only in Battlefield moments like in BF4...it's just not a thing anymore. 
+I decided not to cook. I am going to eat leftovers. I will cook tomorrow. I am going to play more now. I will not be able to play next week because I will have family visiting me, and I earmarked tomorrow for Battlefield 6. The strange thing is, I am not excited about Battlefield like I used to be. I still want to play the Vegas maps, but... I am basically doing it for some footage. Those only-in-Battlefield moments like in BF4... they're just not a thing anymore. 
 
 Onwards with Cyberpunk. 
 
 `Saturday, October 17, 2026, 6:01 PM CDT`
 
-Going to get something to eat. Finished the part of the quest where you encounter GLADOS.
+Going to get something to eat. Finished the part of the quest where you encounter GLaDOS.
 
 After eating, I will play more.
 
@@ -159,13 +159,13 @@ Two slices of Sam's pizza, two eggs, and a homemade banana milkshake. Living the
 
 `Saturday, October 17, 2026, 9:23 PM CDT`
 
-Finished the Delamain Epistrophy quest. This took longer than expected. The final car wouldn't spawn. Had to leave the area, untrack the quest, and then started driving back to the area, and then it all worked as expected. 
+Finished the Delamain Epistrophy quest. This took longer than expected. The final car wouldn't spawn. Had to leave the area, untrack the quest, and then start driving back to the area. Then it all worked as expected. 
 
 Going to call it a night for now. I will play Battlefield 6 tomorrow. 
 
 `Monday, October 19, 2026, 8:40 AM CDT`
 
-Played Battlefield 6 yesterday. Vegas Strip is a great map. I don't know if I want to spend time to unlock the new weapons etc. I will play some more over the week. I won't get to game much the following weekend. 
+Played Battlefield 6 yesterday. Vegas Strip is a great map. I don't know if I want to spend time unlocking the new weapons, etc. I will play some more over the week. I won't get to game much the following weekend. 
 
 I will play some more now. 
 
@@ -175,7 +175,7 @@ Finished the Jackie funeral quest. Got the bike. Now the game is going to get go
 
 `Monday, October 19, 2026, 11:15 AM CDT`
 
-I have a 1PM call I need to take for work, even though this is my day off. No big deal. I am going to play some more before the call. 
+I have a 1 PM call I need to take for work, even though this is my day off. No big deal. I am going to play some more before the call. 
 
 `Monday, October 19, 2026, 12:04 PM CDT`
 
@@ -191,15 +191,15 @@ Did a couple of main quests and also took care of some Cyberpsychos. I am going 
 
 #### Saturday, October 24, 2026, 8:48 AM CDT
 
-Figured out a way to enable remote desktop on my linux mint VM. This way when I am playing on ivybridge, I can still update the diary without a local VM running. I can use one VM for all game diary purposes. 
+Figured out a way to enable remote desktop on my Linux Mint VM. This way, when I am playing on Ivy Bridge, I can still update the diary without a local VM running. I can use one VM for all game diary purposes. 
 
 That said, time for Cyberpunk. 
 
-Well in the year of our lord 2026, there is an update for Cyberpunk with new content. This is what supporting a game looks like. CDPR are really the good guys of gaming right now. I am updating the game. Need to read the release notes to see what's included. I am also wondering if this is going to break the mods...
+Well, in the year of our Lord 2026, there is an update for Cyberpunk with new content. This is what supporting a game looks like. CDPR are really the good guys of gaming right now. I am updating the game. Need to read the release notes to see what's included. I am also wondering if this is going to break the mods...
 
 `Saturday, October 24, 2026, 9:17 AM CDT`
 
-Update is done, but have to update nvidia drivers. Got to go to v621.01
+Update is done, but I have to update the NVIDIA drivers. Got to go to v621.01
 
 `Saturday, October 24, 2026, 9:39 AM CDT`
 
@@ -207,7 +207,7 @@ Welcome to Night City does not work with Cyberpunk 2077 v2.5. I can't play this 
 
 #### Thursday, October 29, 2026, 10:48 AM CDT
 
-There was an update released for Welcome To Night City mod pack. Had to manually update about ~200 mods. Painful, but got it, and now the game is working. Got to see what all was added in the new update. I believe there is a new quest. Enjoying the game a lot. Taking a break to edit videos. 
+There was an update released for the Welcome to Night City mod pack. Had to manually update about 200 mods. Painful, but got it, and now the game is working. Got to see what all was added in the new update. I believe there is a new quest. Enjoying the game a lot. Taking a break to edit videos. 
 
 #### Friday, October 30, 2026, 12:51 PM CDT
 
@@ -219,7 +219,7 @@ Taking a short break. Might have to go shopping. I will work on my open world ga
 
 #### Sunday, November 1, 2026, 9:21 AM CST
 
-Didn't play at all yesterday. I spent time playing Battlefield 6, and waiting for neighborhood kids to play trick or treat. Almost no one showed up. The weather was gloomy too. Watched AVGN Castlevania videos to wind down the day. 
+Didn't play at all yesterday. I spent time playing Battlefield 6 and waiting for neighborhood kids to trick-or-treat. Almost no one showed up. The weather was gloomy too. Watched AVGN Castlevania videos to wind down the day. 
 
 Going to play some today, but also have a lot of errands to run and meal prep. I will try to play more in the evening. This will be a short session. 
 
@@ -229,7 +229,7 @@ Finished one of the main quests. Going to take a shower, go grocery shopping, me
 
 `Sunday, November 1, 2026, 4:51 PM CST`
 
-Finished shopping. Didn't have to cook. Wonderful wife said she will take care of it in the evening. Time for some Cyberpunk. 
+Finished shopping. Didn't have to cook. Wonderful wife said she would take care of it in the evening. Time for some Cyberpunk. 
 
 `Sunday, November 1, 2026, 5:18 PM CST`
 
@@ -249,17 +249,17 @@ But for now, Cyberpunk!
 
 `Saturday, November 7, 2026, 3:40 PM CST`
 
-Played a lot. Going to take a break and work out, eat etc. 
+Played a lot. Going to take a break and work out, eat, etc. 
 
 `Saturday, November 7, 2026, 7:16 PM CST`
 
-Done with workout, dinner etc. Time to get back into the game. It's very cold outside, I am glad to be indoors. Got a cup full of Sam's Cola. Time to dive back into Cyberpunk. 
+Done with the workout, dinner, etc. Time to get back into the game. It's very cold outside, so I am glad to be indoors. Got a cup full of Sam's Cola. Time to dive back into Cyberpunk. 
 
-Not a big fan of Welcome to Paradise quest. It's very meandering. Dialogue is peak reddit. 
+Not a big fan of the Welcome to Paradise quest. It's very meandering. Dialogue is peak Reddit. 
 
 `Saturday, November 7, 2026, 9:44 PM CST`
 
-I sometimes forget that the reason I am replaying the game is to eventually play Phantom Liberty. I will get to the final quest of the main game, then finish Phantom Liberty and then finish the main quest one more time. I am not sure if I should put Cyberpunk again on the completed games list. 
+I sometimes forget that the reason I am replaying the game is to eventually play Phantom Liberty. I will get to the final quest of the main game, then finish Phantom Liberty and then finish the main quest one more time. I am not sure if I should put Cyberpunk on the completed games list again. 
 
 `Saturday, November 7, 2026, 11:03 PM CST`
 
@@ -271,7 +271,7 @@ Sasquatch fight in the mall is difficult. I don't remember it being this tough. 
 
 `Sunday, November 8, 2026, 12:01 PM CST`
 
-Goofed around for almost 3 hours. Unproductive. On the phone right now. Once I am done with the phone call, play more. Want to finish the fight. 
+Goofed around for almost 3 hours. Unproductive. On the phone right now. Once I am done with the phone call, I will play more. Want to finish the fight. 
 
 `Sunday, November 8, 2026, 12:12 PM CST`
 
@@ -291,7 +291,7 @@ Calling it a night for gaming. Will play some more in the morning tomorrow. Will
 
 #### Friday, November 13, 2026, 4:56 PM CST
 
-Done with work and shower. Got no further plans for the rest of the evening. Going to start playing with `GLORIOUS Model O Eternal Ultralight Mouse - Wired - 55g`. Its more of a claw grip mouse, but I think I will like it. I cannot go back to playing with heavier mice once I am used to this. 
+Done with work and shower. Got no further plans for the rest of the evening. Going to start playing with `GLORIOUS Model O Eternal Ultralight Mouse - Wired - 55g`. It's more of a claw-grip mouse, but I think I will like it. I cannot go back to playing with heavier mice once I am used to this. 
 
 Time to get back into Cyberpunk for a while. 
 
@@ -305,11 +305,11 @@ I did eat pizza. Time for more Cyberpunk. Going to play main quests.
 
 `Saturday, November 14, 2026, 9:01 AM CST`
 
-Playing the main quest. Skipping most of the dialogue. I forgot how bad the dialogue was. I never liked it. The voice acting is fine, its the actual dialogue - very boring. 
+Playing the main quest. Skipping most of the dialogue. I forgot how bad the dialogue was. I never liked it. The voice acting is fine; it's the actual dialogue - very boring. 
 
 `Saturday, November 14, 2026, 11:59 AM CST`
 
-Got the Scorpion bike. Forgot that it is not possible to buy this. Its very good. Going to use this for the rest of the game. Taking a break. Going to do some chores and get back to gaming. 
+Got the Scorpion bike. Forgot that it is not possible to buy this. It's very good. Going to use this for the rest of the game. Taking a break. Going to do some chores and get back to gaming. 
 
 `Saturday, November 14, 2026, 12:30 PM CST`
 
@@ -325,7 +325,7 @@ Played for a little bit. Forgot to start logging. I think I am going to start pl
 
 `Friday, November 20, 2026, 7:37 PM CST`
 
-Going to finish the parade quest. There is a boss fight, lets see if this is going to be frustrating like the other one. 
+Going to finish the parade quest. There is a boss fight. Let's see if this is going to be frustrating like the other one. 
 
 `Friday, November 20, 2026, 8:04 PM CST`
 
@@ -337,15 +337,15 @@ I am glad I got to talk with family. Time to finish the quest.
 
 #### Saturday, November 21, 2026, 8:27 AM CST
 
-Made a TO DO list of all the things I want to accomplish today. One of the line items is to play Phantom Liberty, so lets do that. 
+Made a to-do list of all the things I want to accomplish today. One of the line items is to play Phantom Liberty, so let's do that. 
 
 `Saturday, November 21, 2026, 10:33 AM CST`
 
-Did a lot of side content - not quests, just went component hunting. I did start Phantom Liberty though. I am in the starting area. Going to take a little break. Do some work around the house, maybe also workout. I will get back into the game later this afternoon. I want to finish all the items on my list, and then spend the evening playing. 
+Did a lot of side content - not quests, just went component hunting. I did start Phantom Liberty though. I am in the starting area. Going to take a little break. Do some work around the house, maybe also work out. I will get back into the game later this afternoon. I want to finish all the items on my list, and then spend the evening playing. 
 
 `Saturday, November 21, 2026, 11:51 AM CST`
 
-Going to play for a little bit more, and then do house work. I just didn't have the motivation to do much else after doing some work on home finances. Yesterday was absolutely brutal. Portfolio dipped an equivalent of mid 2010s starter home since October 20. 
+Going to play for a little bit more, and then do house work. I just didn't have the motivation to do much else after doing some work on home finances. Yesterday was absolutely brutal. Portfolio dipped by the equivalent of a mid-2010s starter home since October 20. 
 
 Time to play. 
 
