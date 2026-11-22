@@ -1,7 +1,7 @@
 ---
 title: 'Project Snowblind Diary'
 date: 2026-11-09T06:06:52
-draft: true
+draft: false
 tags: ["game review"]
 ---
 
@@ -102,3 +102,25 @@ More to come tomorrow.
 
 I am going to play for a little bit. I just purchased Shadow Gambit: The Cursed Crew and Ghost of Tsushima DIRECTOR'S CUT on Steam. I do not know if I want to spend a lot of time on this game. I am about half way through.
 
+`Sunday, November 22, 2026, 10:17 AM CST`
+
+I am going to play a little bit more. I dont know why I have a hard time retiring games. 
+
+`Sunday, November 22, 2026, 11:11 AM CST`
+
+The control scheme is throwing me off. Its not an easy game to play if you need to do something in a hurry. Its a total console port. 
+
+I think I will stop this game for me. 
+
+
+`Sunday, November 22, 2026, 11:37 AM CST`
+
+Got the widescreen patch working. I might just continue to play the game...
+
+`Sunday, November 22, 2026, 11:43 AM CST`
+
+Seems like cut scenes have a problem with the widescreen patch. 
+
+I am thinking I am going to do some house work, and then play Cyberpunk. I think its appropriate for me to retire this game. 
+
+Took a backup of the save games in the very unlikely event that I ever come back to it. 
