@@ -97,3 +97,8 @@ I still need to think of what game to install on SKYLAKE.
 On second thoughts, I might play Tomb Raider Underworld. There are two mainline Tomb Raider games left for me to play - Underworld and Angel of Darkness. I will play Underworld next, but I dont know if I will ever play Angel of Darkness. 
 
 More to come tomorrow. 
+
+#### Sunday, November 22, 2026, 8:24 AM CST
+
+I am going to play for a little bit. I just purchased Shadow Gambit: The Cursed Crew and Ghost of Tsushima DIRECTOR'S CUT on Steam. I do not know if I want to spend a lot of time on this game. I am about half way through.
+
