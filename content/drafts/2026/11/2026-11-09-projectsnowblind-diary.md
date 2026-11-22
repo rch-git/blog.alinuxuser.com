@@ -69,3 +69,15 @@ It was a much longer break than I anticipated. I don't know where the week went.
 `Saturday, November 21, 2026, 4:39 PM CST`
 
 Game crashed. I dont know if I want to continue playing this anymore today. I will have to go all the way back to the checkpoint. I am going to cook and play Phantom Liberty later in the evening. 
+
+`Saturday, November 21, 2026, 5:39 PM CST`
+
+I ate, and now I have the mental energy to play the same level again. Lets see if I succeed this time. 
+
+`Saturday, November 21, 2026, 5:45 PM CST`
+
+Game crashes if I use the Hydra (vehicle with turret). I have to do the section on foot. Wonderful. 
+
+`Saturday, November 21, 2026, 6:09 PM CST`
+
+I got past that point. I am going chill for a bit and workout. Once I am done with that, I am going to play Cyberpunk 2077. 
