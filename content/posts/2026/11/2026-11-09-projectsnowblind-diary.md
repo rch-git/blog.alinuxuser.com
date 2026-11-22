@@ -2,7 +2,7 @@
 title: 'Project Snowblind Diary'
 date: 2026-11-09T06:06:52
 draft: false
-tags: ["game review"]
+tags: ["game diary"]
 ---
 
 #### Monday, November 9, 2026, 6:07 AM CST
