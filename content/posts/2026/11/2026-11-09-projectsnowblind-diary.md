@@ -124,3 +124,7 @@ Seems like cut scenes have a problem with the widescreen patch.
 I am thinking I am going to do some house work, and then play Cyberpunk. I think its appropriate for me to retire this game. 
 
 Took a backup of the save games in the very unlikely event that I ever come back to it. 
+
+`Sunday, November 22, 2026, 2:38 PM CST`
+
+Ok retiring the game for now. I am not uninstalling it, but I am pausing the game indefinitely. I will go play Phantom Liberty. 
