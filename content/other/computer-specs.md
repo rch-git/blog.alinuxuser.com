@@ -30,7 +30,7 @@ tags: ["hardware"]
 | Display 4 | ASUS VG278HE 27" 1920 × 1080 144Hz |
 | Sound Card | Creative Sound Blaster GC7 |
 | Keyboard | CORSAIR K100 RGB Cherry MX Speed (Renewed) |
-| Mouse | Glorious Model O White (Renewed) |
+| Mouse | Glorious Model O Eternal Gaming Mouse (Black) |
 | Mouse | Glorious Model O Black (Renewed) |
 | Webcam | Logitech HD Webcam C270 |
 | Accessory | Graphics Card GPU Brace Support (L, 74-120mm) |
@@ -109,8 +109,8 @@ tags: ["hardware"]
 | Display 2 | DELL P2314H 1920 x 1080 60Hz |
 | Optical Drive | LG HL-DT-ST DVDRAM GH24NS90 |
 | Keyboard | Corsair K70R Cherry MX Red |
-| Mouse | HyperX Pulsefire FPS Pro |
-| Headset | Creative Fatal1ty |
+| Mouse | Glorious Model O White (Renewed) |
+| Headset | Razer BlackShark V2 |
 
 ### Old Computer
 

@@ -288,3 +288,67 @@ Will play for a bit. Work out and eat after that.
 `Sunday, November 8, 2026, 4:51 PM CST`
 
 Calling it a night for gaming. Will play some more in the morning tomorrow. Will eat and then wind down for the day. I got some really annoying things I need to take care of this week. 
+
+#### Friday, November 13, 2026, 4:56 PM CST
+
+Done with work and shower. Got no further plans for the rest of the evening. Going to start playing with `GLORIOUS Model O Eternal Ultralight Mouse - Wired - 55g`. Its more of a claw grip mouse, but I think I will like it. I cannot go back to playing with heavier mice once I am used to this. 
+
+Time to get back into Cyberpunk for a while. 
+
+`Friday, November 13, 2026, 7:03 PM CST`
+
+Spent all this time trying to farm Tier 5 components to upgrade the D5 Copperhead rifle. Taking a break for now. Might make pizza...
+
+#### Saturday, November 14, 2026, 8:10 AM CST
+
+I did eat pizza. Time for more Cyberpunk. Going to play main quests. 
+
+`Saturday, November 14, 2026, 9:01 AM CST`
+
+Playing the main quest. Skipping most of the dialogue. I forgot how bad the dialogue was. I never liked it. The voice acting is fine, its the actual dialogue - very boring. 
+
+`Saturday, November 14, 2026, 11:59 AM CST`
+
+Got the Scorpion bike. Forgot that it is not possible to buy this. Its very good. Going to use this for the rest of the game. Taking a break. Going to do some chores and get back to gaming. 
+
+`Saturday, November 14, 2026, 12:30 PM CST`
+
+Going to play for 30 minutes and then go do the chores. 
+
+`Saturday, November 14, 2026, 12:46 PM CST`
+
+Now I am done. I am going to stop for now and play more in a bit. 
+
+#### Friday, November 20, 2026, 7:25 PM CST
+
+Played for a little bit. Forgot to start logging. I think I am going to start playing Phantom Liberty soon after this quest. I am at a high enough level where I think I can play the DLC. I am also going to look at the extra quest that was recently added by CDPR. 
+
+`Friday, November 20, 2026, 7:37 PM CST`
+
+Going to finish the parade quest. There is a boss fight, lets see if this is going to be frustrating like the other one. 
+
+`Friday, November 20, 2026, 8:04 PM CST`
+
+Taking a phone call break. 
+
+`Friday, November 20, 2026, 9:19 PM CST`
+
+I am glad I got to talk with family. Time to finish the quest. 
+
+#### Saturday, November 21, 2026, 8:27 AM CST
+
+Made a TO DO list of all the things I want to accomplish today. One of the line items is to play Phantom Liberty, so lets do that. 
+
+`Saturday, November 21, 2026, 10:33 AM CST`
+
+Did a lot of side content - not quests, just went component hunting. I did start Phantom Liberty though. I am in the starting area. Going to take a little break. Do some work around the house, maybe also workout. I will get back into the game later this afternoon. I want to finish all the items on my list, and then spend the evening playing. 
+
+`Saturday, November 21, 2026, 11:51 AM CST`
+
+Going to play for a little bit more, and then do house work. I just didn't have the motivation to do much else after doing some work on home finances. Yesterday was absolutely brutal. Portfolio dipped an equivalent of mid 2010s starter home since October 20. 
+
+Time to play. 
+
+`Saturday, November 21, 2026, 12:26 PM CST`
+
+Phantom Liberty is looking good. I am going to go do some house work and then be back. 
