@@ -81,3 +81,9 @@ Game crashes if I use the Hydra (vehicle with turret). I have to do the section 
 `Saturday, November 21, 2026, 6:09 PM CST`
 
 I got past that point. I am going chill for a bit and workout. Once I am done with that, I am going to play Cyberpunk 2077. 
+
+`Saturday, November 21, 2026, 8:34 PM CST`
+
+I know I said I wasn't going to play mediocre games because life is too short. I am starting to wonder if I should apply that principle to this game. Its a decent enough game, but there are greater games out there that I could be playing. 
+
+That said, I will play till the next checkpoint now. 
