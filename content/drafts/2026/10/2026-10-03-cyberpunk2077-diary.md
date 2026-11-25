@@ -352,3 +352,32 @@ Time to play.
 `Saturday, November 21, 2026, 12:26 PM CST`
 
 Phantom Liberty is looking good. I am going to go do some house work and then be back. 
+
+#### Sunday, November 22, 2026, 3:03 PM CST
+
+Retired Project Snowblind, at least for now. Going to play some Phantom Liberty. 
+
+`Sunday, November 22, 2026, 4:05 PM CST`
+
+Phantom Liberty is VERY good. I am thoroughly enjoying it. 
+
+#### Tuesday, November 24, 2026, 1:13 PM CST
+
+I did not play any games yesterday. Today is my day off, along with the rest of the week. I finished most of the things I needed to do. Its a cold day and I have hot coffee. Now, it is time to get back into Phantom Liberty. 
+
+`Tuesday, November 24, 2026, 2:51 PM CST`
+
+Very impressed with Phantom Liberty. Its an excellent expansion. I am going to get something to eat and then play more. Feels to have gotten all the things out of the way. 
+
+`Tuesday, November 24, 2026, 5:02 PM CST`
+
+Finished eating dinner. I am going to play more now. I want to finish the game soon. There are other games I want to play. 
+
+`Tuesday, November 24, 2026, 5:38 PM CST`
+
+Feeling very sleepy even though I have been drinking a coffee. Wonder if it is the carbs from the noodles. Going to take a nap in the office. 
+
+#### Wednesday, November 25, 2026, 7:59 AM CST
+
+Played more in the evening. Still impressed. Still enjoying. I might not play more today because I am going to stream Project Snowblind for my friend. Want to finish the game today. 
+
