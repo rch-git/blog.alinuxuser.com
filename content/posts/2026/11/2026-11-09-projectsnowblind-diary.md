@@ -128,3 +128,29 @@ Took a backup of the save games in the very unlikely event that I ever come back
 `Sunday, November 22, 2026, 2:38 PM CST`
 
 Ok retiring the game for now. I am not uninstalling it, but I am pausing the game indefinitely. I will go play Phantom Liberty. 
+
+#### Wednesday, November 25, 2026, 9:35 AM CST
+
+Plan is to start streaming this afternoon. 
+
+`Wednesday, November 25, 2026, 12:07 PM CST`
+
+About to start streaming. Lets see if I finish this game today. 
+
+`Wednesday, November 25, 2026, 3:18 PM CST`
+
+Streamed for a while, and took a break to eat. Going to get back into it now. 
+
+I think I am about 5 chapters away from finishing the game. 
+
+`Wednesday, November 25, 2026, 3:45 PM CST`
+
+I am in Level 14 now. I think I have 4 more to go? I might not finish the game today. When I played Ryse Son of Rome, I said that I would no longer play mediocre games. I should have stuck to that. This is the very defitnion of a mediocre game. I think it is still better than Ryse though. 
+
+`Wednesday, November 25, 2026, 3:54 PM CST`
+
+My friend is back online. So I am going to resume playing and streaming. 
+
+`Wednesday, November 25, 2026, 4:18 PM CST`
+
+Well, friend was a no show. I am stopping now. Might be playing Battlefield 2042 with friends tonight. 
