@@ -154,3 +154,12 @@ My friend is back online. So I am going to resume playing and streaming.
 `Wednesday, November 25, 2026, 4:18 PM CST`
 
 Well, friend was a no show. I am stopping now. Might be playing Battlefield 2042 with friends tonight. 
+
+`Wednesday, November 25, 2026, 4:37 PM CST`
+
+Friend is back. Going to stream and finish Level 14 hopefully. 
+
+`Wednesday, November 25, 2026, 5:36 PM CST`
+
+Calling it for today. Will play more tomorrow. One more level to go. This will be the last mediocre game I will play for a while. Unless Tomb Raider Underworld counts as a mediocre game, in which case, that will be the last!
+
