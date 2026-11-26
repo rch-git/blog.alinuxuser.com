@@ -169,3 +169,8 @@ Going to play some more. I won't finish the game. I will wait for my friend to b
 
 The last levels totally remind of me of Deux Ex. I also think the save system is very goofy. Should have just used a quick save. 
 
+`Thursday, November 26, 2026, 12:37 PM CST`
+
+Well, I accidentally finished the game. I didnt mean to. I wanted to wait for my friend to be online. I thought I will get to the final checkpoint, and save, but the game ended abruptly. 
+
+Time to go back to Phantom Liberty. 
