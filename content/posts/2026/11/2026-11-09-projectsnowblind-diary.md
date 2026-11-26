@@ -163,3 +163,9 @@ Friend is back. Going to stream and finish Level 14 hopefully.
 
 Calling it for today. Will play more tomorrow. One more level to go. This will be the last mediocre game I will play for a while. Unless Tomb Raider Underworld counts as a mediocre game, in which case, that will be the last!
 
+#### Thursday, November 26, 2026, 11:35 AM CST
+
+Going to play some more. I won't finish the game. I will wait for my friend to be online.
+
+The last levels totally remind of me of Deux Ex. I also think the save system is very goofy. Should have just used a quick save. 
+
