@@ -12,7 +12,7 @@ Installing Project Snowblind (via Steam) on IVYBRIDGE. Might stream this game if
 
 #### Saturday, November 14, 2026, 4:16 PM CST
 
-About to start playing and streaming this game on IVYBRIDGE. Let's see if this 10+ year old machine can handle this game. 
+About to start playing and streaming this game on IVYBRIDGE. Let's see if this 10-plus-year-old machine can handle this game. 
 
 `Saturday, November 14, 2026, 4:44 PM CST`
 
@@ -20,9 +20,9 @@ Took a little effort to get it all to work.
 
 `Saturday, November 14, 2026, 8:18 PM CST`
 
-Well streaming didn't work as I had hoped. This machine is in the work outroom and I am using a TP-Link AC600 USB Wifi adapter, and earlier in the evening I was getting about 1460Mbps down and 4Mbps down. Streaming was terrible with 70% frames dropping. 
+Well, streaming didn't work as I had hoped. This machine is in the workout room and I am using a TP-Link AC600 USB Wi-Fi adapter, and earlier in the evening I was getting about 1460 Mbps down and 4 Mbps up. Streaming was terrible, with 70% of frames dropping.
 
-I was trying to figure out what the issue was, and I just did another speed test now, and I am getting 164.76Mbps down, and 245.37 up. I can't explain it. I did do a restart of the machine...
+I was trying to figure out what the issue was, and I just did another speed test now, and I am getting 164.76 Mbps down and 245.37 Mbps up. I can't explain it. I did do a restart of the machine...
 
 I am going to try streaming again. 
 
@@ -32,7 +32,7 @@ Streaming worked perfectly. The game itself is very much like a 2000s shooter. S
 
 `Saturday, November 14, 2026, 9:49 PM CST`
 
-I am going to play for a little bit and get past the section. I quit pretty abruptly earlier, so I am going to finish that section and all it a night. 
+I am going to play for a little bit and get past the section. I quit pretty abruptly earlier, so I am going to finish that section and call it a night. 
 
 `Saturday, November 14, 2026, 9:58 PM CST`
 
@@ -48,7 +48,7 @@ Does not support widescreen resolutions. Got to play it at 4:3 resolution.
 
 `Sunday, November 15, 2026, 7:50 AM CST`
 
-Got to the next checkpoint. The game prompts to me to save each time. Why not just save the game automatically? I don't get the rationale behind this. 
+Got to the next checkpoint. The game prompts me to save each time. Why not just save the game automatically? I don't get the rationale behind this. 
 
 `Sunday, November 15, 2026, 9:18 AM CST`
 
@@ -56,7 +56,7 @@ Got some more coffee. Time to get stuck into this.
 
 `Sunday, November 15, 2026, 11:58 AM CST`
 
-Had to do some chores. Planning a trip to Chicago. Done with that for now. Going to get back to into the game. 
+Had to do some chores. Planning a trip to Chicago. Done with that for now. Going to get back into the game. 
 
 `Sunday, November 15, 2026, 12:34 PM CST`
 
@@ -64,15 +64,15 @@ Taking a short break.
 
 #### Saturday, November 21, 2026, 4:08 PM CST
 
-It was a much longer break than I anticipated. I don't know where the week went. I played a little bit of Cyberpunk earlier this morning. I finished editing the videos I recorded on IVYBRDIGE, did house work, and now I am going to play more Project Snowblind.
+It was a much longer break than I anticipated. I don't know where the week went. I played a little bit of Cyberpunk earlier this morning. I finished editing the videos I recorded on IVYBRIDGE, did housework, and now I am going to play more Project Snowblind.
 
 `Saturday, November 21, 2026, 4:39 PM CST`
 
-Game crashed. I dont know if I want to continue playing this anymore today. I will have to go all the way back to the checkpoint. I am going to cook and play Phantom Liberty later in the evening. 
+Game crashed. I don't know if I want to continue playing this anymore today. I will have to go all the way back to the checkpoint. I am going to cook and play Phantom Liberty later in the evening. 
 
 `Saturday, November 21, 2026, 5:39 PM CST`
 
-I ate, and now I have the mental energy to play the same level again. Lets see if I succeed this time. 
+I ate, and now I have the mental energy to play the same level again. Let's see if I succeed this time. 
 
 `Saturday, November 21, 2026, 5:45 PM CST`
 
@@ -80,37 +80,37 @@ Game crashes if I use the Hydra (vehicle with turret). I have to do the section 
 
 `Saturday, November 21, 2026, 6:09 PM CST`
 
-I got past that point. I am going chill for a bit and workout. Once I am done with that, I am going to play Cyberpunk 2077. 
+I got past that point. I am going to chill for a bit and work out. Once I am done with that, I am going to play Cyberpunk 2077. 
 
 `Saturday, November 21, 2026, 8:34 PM CST`
 
-I know I said I wasn't going to play mediocre games because life is too short. I am starting to wonder if I should apply that principle to this game. Its a decent enough game, but there are greater games out there that I could be playing. 
+I know I said I wasn't going to play mediocre games because life is too short. I am starting to wonder if I should apply that principle to this game. It's a decent enough game, but there are greater games out there that I could be playing. 
 
 That said, I will play till the next checkpoint now. 
 
 `Saturday, November 21, 2026, 9:05 PM CST`
 
-Finished one of the main checkpoints. I am wondering if I should play this game any longer. I feel like I have seen everything I wanted to see with the game. I got my 99c worth out of it. I will think about it. If do not end playing it more tomorrow, I will retire this, and move on to Bastion on IVYBRIDGE. 
+Finished one of the main checkpoints. I am wondering if I should play this game any longer. I feel like I have seen everything I wanted to see in the game. I got my 99 cents' worth out of it. I will think about it. If I do not end up playing it more tomorrow, I will retire this and move on to Bastion on IVYBRIDGE. 
 
 I still need to think of what game to install on SKYLAKE. 
 
-On second thoughts, I might play Tomb Raider Underworld. There are two mainline Tomb Raider games left for me to play - Underworld and Angel of Darkness. I will play Underworld next, but I dont know if I will ever play Angel of Darkness. 
+On second thoughts, I might play Tomb Raider Underworld. There are two mainline Tomb Raider games left for me to play - Underworld and Angel of Darkness. I will play Underworld next, but I don't know if I will ever play Angel of Darkness. 
 
 More to come tomorrow. 
 
 #### Sunday, November 22, 2026, 8:24 AM CST
 
-I am going to play for a little bit. I just purchased Shadow Gambit: The Cursed Crew and Ghost of Tsushima DIRECTOR'S CUT on Steam. I do not know if I want to spend a lot of time on this game. I am about half way through.
+I am going to play for a little bit. I just purchased Shadow Gambit: The Cursed Crew and Ghost of Tsushima DIRECTOR'S CUT on Steam. I do not know if I want to spend a lot of time on this game. I am about halfway through.
 
 `Sunday, November 22, 2026, 10:17 AM CST`
 
-I am going to play a little bit more. I dont know why I have a hard time retiring games. 
+I am going to play a little bit more. I don't know why I have a hard time retiring games. 
 
 `Sunday, November 22, 2026, 11:11 AM CST`
 
-The control scheme is throwing me off. Its not an easy game to play if you need to do something in a hurry. Its a total console port. 
+The control scheme is throwing me off. It's not an easy game to play if you need to do something in a hurry. It's a total console port.
 
-I think I will stop this game for me. 
+I think I will stop playing this game. 
 
 
 `Sunday, November 22, 2026, 11:37 AM CST`
@@ -121,7 +121,7 @@ Got the widescreen patch working. I might just continue to play the game...
 
 Seems like cut scenes have a problem with the widescreen patch. 
 
-I am thinking I am going to do some house work, and then play Cyberpunk. I think its appropriate for me to retire this game. 
+I am thinking I am going to do some housework, and then play Cyberpunk. I think it's appropriate for me to retire this game. 
 
 Took a backup of the save games in the very unlikely event that I ever come back to it. 
 
@@ -135,7 +135,7 @@ Plan is to start streaming this afternoon.
 
 `Wednesday, November 25, 2026, 12:07 PM CST`
 
-About to start streaming. Lets see if I finish this game today. 
+About to start streaming. Let's see if I finish this game today. 
 
 `Wednesday, November 25, 2026, 3:18 PM CST`
 
@@ -145,7 +145,7 @@ I think I am about 5 chapters away from finishing the game.
 
 `Wednesday, November 25, 2026, 3:45 PM CST`
 
-I am in Level 14 now. I think I have 4 more to go? I might not finish the game today. When I played Ryse Son of Rome, I said that I would no longer play mediocre games. I should have stuck to that. This is the very defitnion of a mediocre game. I think it is still better than Ryse though. 
+I am in Level 14 now. I think I have 4 more to go? I might not finish the game today. When I played Ryse: Son of Rome, I said that I would no longer play mediocre games. I should have stuck to that. This is the very definition of a mediocre game. I think it is still better than Ryse though. 
 
 `Wednesday, November 25, 2026, 3:54 PM CST`
 
@@ -153,11 +153,11 @@ My friend is back online. So I am going to resume playing and streaming.
 
 `Wednesday, November 25, 2026, 4:18 PM CST`
 
-Well, friend was a no show. I am stopping now. Might be playing Battlefield 2042 with friends tonight. 
+Well, friend was a no-show. I am stopping now. Might be playing Battlefield 2042 with friends tonight. 
 
 `Wednesday, November 25, 2026, 4:37 PM CST`
 
-Friend is back. Going to stream and finish Level 14 hopefully. 
+Friend is back. Going to stream and hopefully finish Level 14. 
 
 `Wednesday, November 25, 2026, 5:36 PM CST`
 
@@ -167,10 +167,10 @@ Calling it for today. Will play more tomorrow. One more level to go. This will b
 
 Going to play some more. I won't finish the game. I will wait for my friend to be online.
 
-The last levels totally remind of me of Deux Ex. I also think the save system is very goofy. Should have just used a quick save. 
+The last levels totally remind me of Deus Ex. I also think the save system is very goofy. It should have just used a quicksave. 
 
 `Thursday, November 26, 2026, 12:37 PM CST`
 
-Well, I accidentally finished the game. I didnt mean to. I wanted to wait for my friend to be online. I thought I will get to the final checkpoint, and save, but the game ended abruptly. 
+Well, I accidentally finished the game. I didn't mean to. I wanted to wait for my friend to be online. I thought I would get to the final checkpoint and save, but the game ended abruptly. 
 
 Time to go back to Phantom Liberty. 
