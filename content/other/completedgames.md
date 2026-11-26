@@ -425,3 +425,5 @@ cover:
   * Sunday, September 6, 2026, 7:02:00 PM
 * Borderlands 2
   * Friday, October 2, 2026, 10:45:00 PM
+* Project Snowblind
+  * Thursday, November 26, 2026, 12:37:00 PM
