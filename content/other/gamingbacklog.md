@@ -70,7 +70,7 @@ title: 'Gaming Backlog'
 - Planescape: Torment; 42h 4m
 - Prey; 27h 1m
 - Prince of Persia: The Forgotten Sands; 8h 17m
-- Project: Snowblind; 5h 46m
+- <span class='green-highlight'>Project: Snowblind; 5h 46m</span>
 - Psychonauts; 14h 50m
 - Rage 2; 17h 45m
 - Red Faction: Guerrilla - Re-Mars-tered; 15h 5m
