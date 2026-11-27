@@ -6,8 +6,26 @@
   color: #dff593 !important;
 }
 
-.green-highlight {
+.lightgreen-highlight {
   background-color: #dff593 !important;
+  color: #222222 !important;
+  font-weight: bold !important;
+}
+
+.orange-highlight {
+  background-color: #CC7647 !important;
+  color: #222222 !important;
+  font-weight: bold !important;
+}
+
+.green-highlight {
+  background-color: #46BF00 !important;
+  color: #222222 !important;
+  font-weight: bold !important;
+}
+
+.white-highlight {
+  background-color: #FFFFFF !important;
   color: #222222 !important;
   font-weight: bold !important;
 }
