@@ -10,17 +10,18 @@ title: 'Gaming Backlog'
 - Assassin's Creed Chronicles: Russia; 7h 35m
 - Bastion; 8h 15m
 - Batman: Arkham Knight; 30h 57m
-- <span class='green-highlight'>Batman: Arkham Origins; 18h 34m</span>
+- <span class='white-highlight'>Batman: Arkham Origins; 18h 34m</span>
 - BioShock 2; 12h 56m
 - Blood Omen 2: Legacy of Kain; 14h 3m
 - BloodRayne; 7h 43m
-- <span class='green-highlight'>Borderlands 2; 52h 27m</span>
+- <span class='white-highlight'>Borderlands 2; 52h 27m</span>
 - Borderlands 3; 42h 47m
 - Brothers in Arms: Earned in Blood; 7h 33m
 - Burnout Paradise; 22h 17m
 - Cities XL Platinum; 31h 19m
 - Colin McRae Rally; 10h 21m
 - Company of Heroes 2; 20h 16m
+- <span class='green-highlight'>Cyberpunk 2077: Phantom Liberty; 13h 30m</span>
 - Darksiders II: Deathinitive Edition; 27h 50m
 - Dead Space; 12h 6m
 - Death Stranding; 57h 42m
@@ -35,22 +36,23 @@ title: 'Gaming Backlog'
 - Dragon's Dogma: Dark Arisen; 50h 57m
 - Dying Light; 31h 28m
 - Empire Earth; 36h 34m
-- <span class='green-highlight'>F.E.A.R. 3; 6h 32m</span>
+- <span class='white-highlight'>F.E.A.R. 3; 6h 32m</span>
 - Fallout 4: Game of the Year Edition; 119h 53m
 - Fallout: New Vegas - Ultimate Edition; 82h 41m
-- <span class='green-highlight'>Far Cry 4; 30h 46m</span>
-- <span class='green-highlight'>Far Cry 5; 29h 25m</span>
+- <span class='white-highlight'>Far Cry 4; 30h 46m</span>
+- <span class='white-highlight'>Far Cry 5; 29h 25m</span>
 - Far Cry Primal; 24h 50m
 - Forza Horizon 4; 51h 40m
 - Frostpunk; 16h 9m
 - Full Spectrum Warrior; 9h 31m
 - Full Throttle Remastered; 4h 18m
+- Ghost of Tsushima; 25h 19m
 - Gotham Knights; 26h 55m
 - Grand Theft Auto V; 45h 22m
 - Grim Dawn; 43h 48m
 - Halo: The Master Chief Collection; 58h 48m
 - Hard West; 19h 38m
-- Helldorado; 13h 15m
+- <span class='green-highlight'>Helldorado; 13h 15m<span>
 - Hidden & Dangerous 2; 19h 45m
 - Hidden & Dangerous: Action Pack; 19h 7m
 - Hitman; 18h 33m
@@ -62,7 +64,7 @@ title: 'Gaming Backlog'
 - Middle-Earth: Shadow of War; 37h 25m
 - Mortal Kombat: Komplete Edition; 13h 3m
 - Moto Racer 2; 3h 57m
-- Murdered: Soul Suspect; 8h 53m
+- <span class='orange-highlight'>Murdered: Soul Suspect; 8h 53m</span>
 - Need For Speed Heat; 24h 49m
 - Need for Speed: Most Wanted; 13h 56m
 - Nioh 2: Complete Edition; 87h 17m
@@ -70,7 +72,7 @@ title: 'Gaming Backlog'
 - Planescape: Torment; 42h 4m
 - Prey; 27h 1m
 - Prince of Persia: The Forgotten Sands; 8h 17m
-- <span class='green-highlight'>Project: Snowblind; 5h 46m</span>
+- <span class='white-highlight'>Project: Snowblind; 5h 46m</span>
 - Psychonauts; 14h 50m
 - Rage 2; 17h 45m
 - Red Faction: Guerrilla - Re-Mars-tered; 15h 5m
@@ -78,6 +80,7 @@ title: 'Gaming Backlog'
 - Robin Hood: The Legend of Sherwood; 17h 11m
 - Saints Row IV: Re-Elected; 26h 43m
 - Saints Row: The Third; 26h 6m
+- Shadow Gambit: The Cursed Crew; 29h 14m
 - Shadow Tactics: Blades of the Shogun; 27h 59m
 - Sifu; 11h 55m
 - Sleeping Dogs: Definitive Edition; 23h 57m
@@ -104,3 +107,9 @@ title: 'Gaming Backlog'
 - Watch Dogs 2; 29h 50m
 - XCOM: Enemy Unknown; 34h 9m
 - Yakuza 4; 31h 4m
+
+#### Legend
+
+<span class='green-highlight'>NOW PLAYING</span>
+<span class='white-highlight'>COMPLETED</span>
+<span class='orange-highlight'>RETIRED</span>
