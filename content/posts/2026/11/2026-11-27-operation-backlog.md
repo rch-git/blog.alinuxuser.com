@@ -36,12 +36,12 @@ I do not plan on writing reviews unless I feel particularly strongly about a gam
 
 Instead, I am going to keep a game diary. It will essentially be a brain dump: unfiltered, loosely organized, and often written off the cuff. I will probably repeat myself from time to time. Most importantly, it will serve as a log of every gaming session. I may eventually have Grok Build process the markdown files to clean up the grammar and improve readability without changing the content or tone. Informal writing is useful for capturing thoughts quickly, but it is not always pleasant for others to read. You can read existing game diaries here - 
 
-https://blog.alinuxuser.com/tags/game-diary/
+- https://blog.alinuxuser.com/tags/game-diary/
 
 I will provide ongoing updates on the following platforms:
 
-https://infinitebacklog.net/users/weekendgamer
-https://x.com/WeekendGamerTX
+- https://infinitebacklog.net/users/weekendgamer
+- https://x.com/WeekendGamerTX
 
 I will also update HowLongToBeat with the hours I put into games that can be tracked through a launcher such as Steam or GOG.
 
@@ -49,4 +49,4 @@ For my complete backlog, see:
 
 https://blog.alinuxuser.com/other/gamingbacklog/
 
-Today (Saturday, November 28, 2026, at 6:59 AM CST), I am going to try to finish Cyberpunk 2077: Phantom Liberty.
+Today, `Saturday, November 28, 2026, at 6:59 AM CST`, I am going to try to finish Cyberpunk 2077: Phantom Liberty.
