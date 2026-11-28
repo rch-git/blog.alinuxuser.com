@@ -1,7 +1,7 @@
 ---
-title: '2026 11 26 Helldorado Diary'
+title: 'Helldorado Diary'
 date: 2026-11-26T15:42:24
-draft: false
+draft: true
 tags: ["game review"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: '2006-05-13T00:00:00'
-draft: false
+draft: true
 title: 'Level 9 - Ikari Warrior'
 ---
 
