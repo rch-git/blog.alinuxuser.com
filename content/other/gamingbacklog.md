@@ -15,7 +15,7 @@ title: 'Gaming Backlog'
 10. Blood Omen 2: Legacy of Kain; 14h 3m
 11. BloodRayne; 7h 43m
 12. <span class='white-highlight'>Borderlands 2; 52h 27m</span>
-13. Borderlands 3; 42h 47m
+13. <span class='green-highlight'>Borderlands 3; 42h 47m</span>
 14. Brothers in Arms: Earned in Blood; 7h 33m
 15. Building Simulator; 50h 25m
 16. Burnout Paradise; 22h 17m
@@ -112,5 +112,5 @@ title: 'Gaming Backlog'
 __Backlog: 105__
 <span class='white-highlight'>Completed: 6</span>
 <span class='orange-highlight'>Retired: 1</span>
-<span class='green-highlight'>Now Playing: 3</span>
-__Remaining: 95__
+<span class='green-highlight'>Now Playing: 4</span>
+__Remaining: 94__
