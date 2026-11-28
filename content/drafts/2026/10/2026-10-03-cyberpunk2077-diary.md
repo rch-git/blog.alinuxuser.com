@@ -1,7 +1,7 @@
 ---
 title: 'Cyberpunk 2077 Diary'
 date: 2026-10-03T20:10:33
-draft: false
+draft: true
 tags: ["game diary"]
 ---
 

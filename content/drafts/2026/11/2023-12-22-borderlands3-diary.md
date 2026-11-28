@@ -1,7 +1,7 @@
 ---
 title: 'Borderlands 3 Diary'
 date: 2026-11-27T15:59:47
-draft: false
+draft: true
 tags: ["game diary"]
 ---
 
