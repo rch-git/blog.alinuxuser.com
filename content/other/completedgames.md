@@ -410,7 +410,7 @@ cover:
 * Dishonored Death of the Outsider
   * Sunday, November 2, 2025, 1:33 PM
 ---
-### 2026 <sup>5</sup>
+### 2026 <sup>8</sup>
 * {{< newtab href="/posts/2026/04/reviews/robocoproguecity-review/" text="<span class='link-color'>RoboCop Rogue City</span>" >}}
   * Saturday, April 18, 2026, 4:36 PM
 * {{< newtab href="/posts/2026/08/reviews/batmanarkhamorigins-review/" text="<span class='link-color'>Batman Arkham Origins</span>" >}}
@@ -427,3 +427,5 @@ cover:
   * Friday, October 2, 2026, 10:45:00 PM
 * Project Snowblind
   * Thursday, November 26, 2026, 12:37:00 PM
+
+__TOTAL: 185__
